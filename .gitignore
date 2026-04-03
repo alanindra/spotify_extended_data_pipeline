@@ -2,5 +2,4 @@ bin
 include
 lib
 pyvenv.cfg
-share
-.DS_Store
+share.DS_Store
