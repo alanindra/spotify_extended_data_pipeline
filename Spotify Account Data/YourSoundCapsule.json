@@ -1,0 +1,1973 @@
+{
+  "stats" : [ {
+    "date" : "2026-03-23",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Everybody's Changing - Live At Paradiso, Amsterdam / 29.11.04",
+      "streamCount" : 27,
+      "secondsPlayed" : 8256
+    }, {
+      "name" : "Everybody's Changing - Live AOL Session / 2004",
+      "streamCount" : 24,
+      "secondsPlayed" : 6538
+    }, {
+      "name" : "The Fate of Ophelia",
+      "streamCount" : 16,
+      "secondsPlayed" : 3731
+    }, {
+      "name" : "Somewhere Only We Know - Live At The Hub, Roundhouse Studios, London / 2013",
+      "streamCount" : 14,
+      "secondsPlayed" : 2946
+    }, {
+      "name" : "Hé Speelman / Zet Een Kaars Voor Je Raam Vannacht / Zuster Ursula / Jan Klaassen - Live",
+      "streamCount" : 13,
+      "secondsPlayed" : 5249
+    }, {
+      "name" : "Everybody's Changing - Live At Jockey Club del Paraguay, Asunción, Paraguay / 2019",
+      "streamCount" : 12,
+      "secondsPlayed" : 2751
+    }, {
+      "name" : "Alleen Is Maar Alleen - Live",
+      "streamCount" : 12,
+      "secondsPlayed" : 1979
+    }, {
+      "name" : "Voor Sonja Doe Ik Alles",
+      "streamCount" : 12,
+      "secondsPlayed" : 1613
+    }, {
+      "name" : "Cánh Hoa Héo Tàn - Domino Remix",
+      "streamCount" : 11,
+      "secondsPlayed" : 3119
+    }, {
+      "name" : "Hey Mamma / Anna Paulowna / Sonja / Ritme Van De Regen - Live",
+      "streamCount" : 9,
+      "secondsPlayed" : 2641
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 120,
+      "secondsPlayed" : 29841
+    }, {
+      "name" : "Rob De Nijs",
+      "streamCount" : 88,
+      "secondsPlayed" : 20409
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 57,
+      "secondsPlayed" : 11721
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 29,
+      "secondsPlayed" : 5851
+    }, {
+      "name" : "Queen",
+      "streamCount" : 24,
+      "secondsPlayed" : 4981
+    }, {
+      "name" : "Rosy & Andres",
+      "streamCount" : 19,
+      "secondsPlayed" : 3638
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 16,
+      "secondsPlayed" : 2832
+    }, {
+      "name" : "Mochiii",
+      "streamCount" : 11,
+      "secondsPlayed" : 3119
+    }, {
+      "name" : "Wieteke van Dort",
+      "streamCount" : 11,
+      "secondsPlayed" : 2295
+    }, {
+      "name" : "AKB48",
+      "streamCount" : 8,
+      "secondsPlayed" : 1516
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-03-16",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Hé Speelman / Zet Een Kaars Voor Je Raam Vannacht / Zuster Ursula / Jan Klaassen - Live",
+      "streamCount" : 18,
+      "secondsPlayed" : 6289
+    }, {
+      "name" : "Voor Sonja Doe Ik Alles",
+      "streamCount" : 18,
+      "secondsPlayed" : 2557
+    }, {
+      "name" : "Hey Mamma / Anna Paulowna / Sonja / Ritme Van De Regen - Live",
+      "streamCount" : 13,
+      "secondsPlayed" : 4596
+    }, {
+      "name" : "Foto Van Vroeger - Live",
+      "streamCount" : 11,
+      "secondsPlayed" : 3234
+    }, {
+      "name" : "Het Werd Zomer - Live",
+      "streamCount" : 11,
+      "secondsPlayed" : 2551
+    }, {
+      "name" : "Zonder Jou - Live",
+      "streamCount" : 11,
+      "secondsPlayed" : 2139
+    }, {
+      "name" : "Ik Laat Je Vrij - Live",
+      "streamCount" : 11,
+      "secondsPlayed" : 2072
+    }, {
+      "name" : "Everybody's Changing - Live At Airwaves Festival, Reykjavík / 2004",
+      "streamCount" : 10,
+      "secondsPlayed" : 2866
+    }, {
+      "name" : "Fernando",
+      "streamCount" : 8,
+      "secondsPlayed" : 3101
+    }, {
+      "name" : "Spread Your Wings - Remastered 2011",
+      "streamCount" : 6,
+      "secondsPlayed" : 1817
+    } ],
+    "topArtists" : [ {
+      "name" : "Rob De Nijs",
+      "streamCount" : 108,
+      "secondsPlayed" : 25965
+    }, {
+      "name" : "Keane",
+      "streamCount" : 24,
+      "secondsPlayed" : 5918
+    }, {
+      "name" : "Queen",
+      "streamCount" : 24,
+      "secondsPlayed" : 4509
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 20,
+      "secondsPlayed" : 5612
+    }, {
+      "name" : "The Lords",
+      "streamCount" : 18,
+      "secondsPlayed" : 2557
+    }, {
+      "name" : "Radiohead",
+      "streamCount" : 9,
+      "secondsPlayed" : 1689
+    }, {
+      "name" : "Frida",
+      "streamCount" : 7,
+      "secondsPlayed" : 1886
+    }, {
+      "name" : "Muse",
+      "streamCount" : 6,
+      "secondsPlayed" : 1212
+    }, {
+      "name" : "Gerard Cox",
+      "streamCount" : 6,
+      "secondsPlayed" : 861
+    }, {
+      "name" : "Inger Öst",
+      "streamCount" : 5,
+      "secondsPlayed" : 646
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-03-09",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Out Of Control",
+      "streamCount" : 28,
+      "secondsPlayed" : 4604
+    }, {
+      "name" : "Dag Zuster Ursula",
+      "streamCount" : 27,
+      "secondsPlayed" : 4389
+    }, {
+      "name" : "Skalonga",
+      "streamCount" : 21,
+      "secondsPlayed" : 3587
+    }, {
+      "name" : "Foto Van Vroeger - Live",
+      "streamCount" : 20,
+      "secondsPlayed" : 4898
+    }, {
+      "name" : "Toch Hou Ik Van Je, Rotterdam - Remastered",
+      "streamCount" : 18,
+      "secondsPlayed" : 4970
+    }, {
+      "name" : "Fernando",
+      "streamCount" : 15,
+      "secondsPlayed" : 4029
+    }, {
+      "name" : "Rör vid mej",
+      "streamCount" : 15,
+      "secondsPlayed" : 3571
+    }, {
+      "name" : "Het Werd Zomer - Live",
+      "streamCount" : 11,
+      "secondsPlayed" : 3426
+    }, {
+      "name" : "Zonder Jou",
+      "streamCount" : 9,
+      "secondsPlayed" : 788
+    }, {
+      "name" : "Everybody's Changing - Demo / July 2002",
+      "streamCount" : 8,
+      "secondsPlayed" : 1887
+    } ],
+    "topArtists" : [ {
+      "name" : "Rob De Nijs",
+      "streamCount" : 89,
+      "secondsPlayed" : 18478
+    }, {
+      "name" : "Keane",
+      "streamCount" : 46,
+      "secondsPlayed" : 11329
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 38,
+      "secondsPlayed" : 6474
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 37,
+      "secondsPlayed" : 7552
+    }, {
+      "name" : "Hoobastank",
+      "streamCount" : 29,
+      "secondsPlayed" : 4836
+    }, {
+      "name" : "Athena",
+      "streamCount" : 23,
+      "secondsPlayed" : 3989
+    }, {
+      "name" : "Gerard Cox",
+      "streamCount" : 20,
+      "secondsPlayed" : 5468
+    }, {
+      "name" : "Frida",
+      "streamCount" : 20,
+      "secondsPlayed" : 4622
+    }, {
+      "name" : "The Beatles",
+      "streamCount" : 18,
+      "secondsPlayed" : 3339
+    }, {
+      "name" : "Inger Öst",
+      "streamCount" : 15,
+      "secondsPlayed" : 3571
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-02",
+    "streamCount" : 2087,
+    "secondsPlayed" : 456453,
+    "topTracks" : [ {
+      "name" : "Play The Game - Live",
+      "streamCount" : 56,
+      "secondsPlayed" : 13104
+    }, {
+      "name" : "Cancer - Live at O2 Music-Flash, E-Werk, Berlin, Germany, 10/14/2006",
+      "streamCount" : 48,
+      "secondsPlayed" : 7529
+    }, {
+      "name" : "サステナブル",
+      "streamCount" : 45,
+      "secondsPlayed" : 10845
+    }, {
+      "name" : "Berdistraksi",
+      "streamCount" : 33,
+      "secondsPlayed" : 6282
+    }, {
+      "name" : "Dön Bak Dünyaya",
+      "streamCount" : 31,
+      "secondsPlayed" : 12010
+    }, {
+      "name" : "Everybody's Changing - Demo / July 2002",
+      "streamCount" : 30,
+      "secondsPlayed" : 6120
+    }, {
+      "name" : "Ben Böyleyim",
+      "streamCount" : 28,
+      "secondsPlayed" : 8180
+    }, {
+      "name" : "Cánh Hoa Héo Tàn - Domino Remix",
+      "streamCount" : 27,
+      "secondsPlayed" : 7715
+    }, {
+      "name" : "잘 가 크롤",
+      "streamCount" : 26,
+      "secondsPlayed" : 7657
+    }, {
+      "name" : "Kumpul Bocah",
+      "streamCount" : 24,
+      "secondsPlayed" : 6878
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 227,
+      "secondsPlayed" : 49384
+    }, {
+      "name" : "AKB48",
+      "streamCount" : 149,
+      "secondsPlayed" : 40052
+    }, {
+      "name" : "Queen",
+      "streamCount" : 137,
+      "secondsPlayed" : 31056
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 106,
+      "secondsPlayed" : 18892
+    }, {
+      "name" : "Rob De Nijs",
+      "streamCount" : 97,
+      "secondsPlayed" : 21992
+    }, {
+      "name" : "JKT48",
+      "streamCount" : 89,
+      "secondsPlayed" : 19887
+    }, {
+      "name" : "My Chemical Romance",
+      "streamCount" : 84,
+      "secondsPlayed" : 14476
+    }, {
+      "name" : "mor ve ötesi",
+      "streamCount" : 67,
+      "secondsPlayed" : 13384
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 60,
+      "secondsPlayed" : 14661
+    }, {
+      "name" : "Gilbert O'Sullivan",
+      "streamCount" : 47,
+      "secondsPlayed" : 9357
+    } ],
+    "topGenres" : [ ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 22024
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 54798
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 21560
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 83346
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 58236
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 717
+    } ]
+  }, {
+    "date" : "2026-01",
+    "streamCount" : 1923,
+    "secondsPlayed" : 395202,
+    "topTracks" : [ {
+      "name" : "Ordinary Day",
+      "streamCount" : 91,
+      "secondsPlayed" : 18401
+    }, {
+      "name" : "Even The Nights Are Better",
+      "streamCount" : 51,
+      "secondsPlayed" : 9475
+    }, {
+      "name" : "Everybody’s Changing - Live From Mexico City / 2024",
+      "streamCount" : 50,
+      "secondsPlayed" : 11588
+    }, {
+      "name" : "Kumpul Bocah",
+      "streamCount" : 45,
+      "secondsPlayed" : 12710
+    }, {
+      "name" : "Alone Again (Naturally) - Songbook Version",
+      "streamCount" : 34,
+      "secondsPlayed" : 6718
+    }, {
+      "name" : "Trouble Is a Friend - Spike Stent Remix",
+      "streamCount" : 29,
+      "secondsPlayed" : 5738
+    }, {
+      "name" : "When The Smoke Is Going Down - Live",
+      "streamCount" : 29,
+      "secondsPlayed" : 4214
+    }, {
+      "name" : "SPONTAN ( tanpa ) UHUY!",
+      "streamCount" : 28,
+      "secondsPlayed" : 6771
+    }, {
+      "name" : "dreams, books, power and walls",
+      "streamCount" : 27,
+      "secondsPlayed" : 7745
+    }, {
+      "name" : "Lost Without Your Love",
+      "streamCount" : 27,
+      "secondsPlayed" : 4349
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 148,
+      "secondsPlayed" : 32448
+    }, {
+      "name" : "Benny Andersson",
+      "streamCount" : 135,
+      "secondsPlayed" : 22254
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 124,
+      "secondsPlayed" : 27202
+    }, {
+      "name" : "Ardhito Pramono",
+      "streamCount" : 118,
+      "secondsPlayed" : 23280
+    }, {
+      "name" : "Queen",
+      "streamCount" : 106,
+      "secondsPlayed" : 25187
+    }, {
+      "name" : "Muse",
+      "streamCount" : 97,
+      "secondsPlayed" : 21963
+    }, {
+      "name" : "Björn Ulvaeus",
+      "streamCount" : 134,
+      "secondsPlayed" : 22031
+    }, {
+      "name" : "Gilbert O'Sullivan",
+      "streamCount" : 55,
+      "secondsPlayed" : 10989
+    }, {
+      "name" : "Air Supply",
+      "streamCount" : 52,
+      "secondsPlayed" : 9626
+    }, {
+      "name" : "Wieteke van Dort",
+      "streamCount" : 49,
+      "secondsPlayed" : 9936
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 247,
+      "secondsPlayed" : 74854
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 264,
+      "secondsPlayed" : 70076
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 116,
+      "secondsPlayed" : 51851
+    }, {
+      "name" : "oldies",
+      "streamCount" : 175,
+      "secondsPlayed" : 46869
+    }, {
+      "name" : "pop",
+      "streamCount" : 127,
+      "secondsPlayed" : 36205
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 129,
+      "secondsPlayed" : 35377
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 109,
+      "secondsPlayed" : 34976
+    }, {
+      "name" : "broadway",
+      "streamCount" : 116,
+      "secondsPlayed" : 29880
+    }, {
+      "name" : "musicals",
+      "streamCount" : 116,
+      "secondsPlayed" : 29880
+    }, {
+      "name" : "british rock",
+      "streamCount" : 99,
+      "secondsPlayed" : 27849
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 48587
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 91582
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 63245
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 126057
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 55470
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 10214
+    } ]
+  }, {
+    "date" : "2025-12",
+    "streamCount" : 1773,
+    "secondsPlayed" : 365210,
+    "topTracks" : [ {
+      "name" : "Ordinary Day",
+      "streamCount" : 64,
+      "secondsPlayed" : 13285
+    }, {
+      "name" : "I'm Alone - Remastered",
+      "streamCount" : 44,
+      "secondsPlayed" : 8226
+    }, {
+      "name" : "Alone Again (Naturally)",
+      "streamCount" : 42,
+      "secondsPlayed" : 9501
+    }, {
+      "name" : "The Fate of Ophelia",
+      "streamCount" : 39,
+      "secondsPlayed" : 7740
+    }, {
+      "name" : "Even The Nights Are Better",
+      "streamCount" : 32,
+      "secondsPlayed" : 5475
+    }, {
+      "name" : "Alone Again (Naturally)",
+      "streamCount" : 32,
+      "secondsPlayed" : 7175
+    }, {
+      "name" : "dreams, books, power and walls",
+      "streamCount" : 29,
+      "secondsPlayed" : 8256
+    }, {
+      "name" : "Everybody’s Changing - Live From Mexico City / 2024",
+      "streamCount" : 27,
+      "secondsPlayed" : 6748
+    }, {
+      "name" : "Dreams",
+      "streamCount" : 25,
+      "secondsPlayed" : 4195
+    }, {
+      "name" : "Defying Gravity",
+      "streamCount" : 22,
+      "secondsPlayed" : 9036
+    } ],
+    "topArtists" : [ {
+      "name" : "ABBA",
+      "streamCount" : 127,
+      "secondsPlayed" : 27971
+    }, {
+      "name" : "Ardhito Pramono",
+      "streamCount" : 109,
+      "secondsPlayed" : 21621
+    }, {
+      "name" : "Queen",
+      "streamCount" : 103,
+      "secondsPlayed" : 22364
+    }, {
+      "name" : "Keane",
+      "streamCount" : 88,
+      "secondsPlayed" : 20321
+    }, {
+      "name" : "Glee Cast",
+      "streamCount" : 80,
+      "secondsPlayed" : 13544
+    }, {
+      "name" : "Michael Bublé",
+      "streamCount" : 79,
+      "secondsPlayed" : 14296
+    }, {
+      "name" : "Mariah Carey",
+      "streamCount" : 76,
+      "secondsPlayed" : 14093
+    }, {
+      "name" : "Gilbert O'Sullivan",
+      "streamCount" : 69,
+      "secondsPlayed" : 13064
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 57,
+      "secondsPlayed" : 10240
+    }, {
+      "name" : "Teach In",
+      "streamCount" : 55,
+      "secondsPlayed" : 9641
+    } ],
+    "topGenres" : [ {
+      "name" : "golden oldies",
+      "streamCount" : 328,
+      "secondsPlayed" : 87730
+    }, {
+      "name" : "oldies",
+      "streamCount" : 233,
+      "secondsPlayed" : 63069
+    }, {
+      "name" : "christmas",
+      "streamCount" : 261,
+      "secondsPlayed" : 61434
+    }, {
+      "name" : "rock",
+      "streamCount" : 185,
+      "secondsPlayed" : 52989
+    }, {
+      "name" : "pop",
+      "streamCount" : 116,
+      "secondsPlayed" : 29688
+    }, {
+      "name" : "europop",
+      "streamCount" : 100,
+      "secondsPlayed" : 29330
+    }, {
+      "name" : "english rock",
+      "streamCount" : 87,
+      "secondsPlayed" : 27748
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 77,
+      "secondsPlayed" : 25614
+    }, {
+      "name" : "classic rock",
+      "streamCount" : 100,
+      "secondsPlayed" : 25455
+    }, {
+      "name" : "70s pop",
+      "streamCount" : 74,
+      "secondsPlayed" : 22057
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 57966
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 95674
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 50457
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 123539
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 25787
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 11742
+    } ]
+  }, {
+    "date" : "2025-11",
+    "streamCount" : 1921,
+    "secondsPlayed" : 400859,
+    "topTracks" : [ {
+      "name" : "Ordinary Day",
+      "streamCount" : 31,
+      "secondsPlayed" : 6132
+    }, {
+      "name" : "Blue Christmas",
+      "streamCount" : 29,
+      "secondsPlayed" : 6552
+    }, {
+      "name" : "Trouble Is a Friend - Spike Stent Remix",
+      "streamCount" : 29,
+      "secondsPlayed" : 5744
+    }, {
+      "name" : "I'm Alone - Remastered",
+      "streamCount" : 28,
+      "secondsPlayed" : 5397
+    }, {
+      "name" : "Everybody's Changing - Demo / July 2002",
+      "streamCount" : 26,
+      "secondsPlayed" : 5545
+    }, {
+      "name" : "Alone Again (Naturally)",
+      "streamCount" : 26,
+      "secondsPlayed" : 5652
+    }, {
+      "name" : "Cold December Night",
+      "streamCount" : 25,
+      "secondsPlayed" : 3802
+    }, {
+      "name" : "Spread Your Wings - Remastered 2011",
+      "streamCount" : 25,
+      "secondsPlayed" : 6309
+    }, {
+      "name" : "Alone Again (Naturally) - Songbook Version",
+      "streamCount" : 24,
+      "secondsPlayed" : 5019
+    }, {
+      "name" : "Perfect Symmetry",
+      "streamCount" : 22,
+      "secondsPlayed" : 6005
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 288,
+      "secondsPlayed" : 66528
+    }, {
+      "name" : "Michael Bublé",
+      "streamCount" : 144,
+      "secondsPlayed" : 27088
+    }, {
+      "name" : "Queen",
+      "streamCount" : 118,
+      "secondsPlayed" : 25275
+    }, {
+      "name" : "Ardhito Pramono",
+      "streamCount" : 91,
+      "secondsPlayed" : 17494
+    }, {
+      "name" : "Mariah Carey",
+      "streamCount" : 84,
+      "secondsPlayed" : 15834
+    }, {
+      "name" : "Gilbert O'Sullivan",
+      "streamCount" : 66,
+      "secondsPlayed" : 12833
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 52,
+      "secondsPlayed" : 11511
+    }, {
+      "name" : "Muse",
+      "streamCount" : 43,
+      "secondsPlayed" : 10779
+    }, {
+      "name" : "Lenka",
+      "streamCount" : 38,
+      "secondsPlayed" : 7586
+    }, {
+      "name" : "Teach In",
+      "streamCount" : 36,
+      "secondsPlayed" : 6331
+    } ],
+    "topGenres" : [ {
+      "name" : "pop rock",
+      "streamCount" : 225,
+      "secondsPlayed" : 66096
+    }, {
+      "name" : "rock",
+      "streamCount" : 221,
+      "secondsPlayed" : 61019
+    }, {
+      "name" : "christmas",
+      "streamCount" : 203,
+      "secondsPlayed" : 55696
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 202,
+      "secondsPlayed" : 52759
+    }, {
+      "name" : "british rock",
+      "streamCount" : 179,
+      "secondsPlayed" : 49147
+    }, {
+      "name" : "piano rock",
+      "streamCount" : 153,
+      "secondsPlayed" : 44248
+    }, {
+      "name" : "english rock",
+      "streamCount" : 144,
+      "secondsPlayed" : 42054
+    }, {
+      "name" : "britpop",
+      "streamCount" : 129,
+      "secondsPlayed" : 37289
+    }, {
+      "name" : "oldies",
+      "streamCount" : 140,
+      "secondsPlayed" : 35348
+    }, {
+      "name" : "classic rock",
+      "streamCount" : 113,
+      "secondsPlayed" : 30153
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 107124
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 94608
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 59123
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 121217
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 6533
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 10405
+    } ]
+  }, {
+    "date" : "2025-10",
+    "streamCount" : 2409,
+    "secondsPlayed" : 524573,
+    "topTracks" : [ {
+      "name" : "Waking Up Together With You - Live",
+      "streamCount" : 111,
+      "secondsPlayed" : 23454
+    }, {
+      "name" : "No Broke Boys",
+      "streamCount" : 77,
+      "secondsPlayed" : 12505
+    }, {
+      "name" : "Dreams",
+      "streamCount" : 71,
+      "secondsPlayed" : 13832
+    }, {
+      "name" : "Masih Ada Kamu",
+      "streamCount" : 66,
+      "secondsPlayed" : 16648
+    }, {
+      "name" : "La Mentira",
+      "streamCount" : 57,
+      "secondsPlayed" : 12749
+    }, {
+      "name" : "Spread Your Wings - Remastered 2011",
+      "streamCount" : 54,
+      "secondsPlayed" : 15049
+    }, {
+      "name" : "Everything at Once",
+      "streamCount" : 52,
+      "secondsPlayed" : 8363
+    }, {
+      "name" : "Ordinary Day",
+      "streamCount" : 47,
+      "secondsPlayed" : 9660
+    }, {
+      "name" : "You Make My World so Colourful",
+      "streamCount" : 46,
+      "secondsPlayed" : 10216
+    }, {
+      "name" : "Kill Or Be Killed",
+      "streamCount" : 41,
+      "secondsPlayed" : 12122
+    } ],
+    "topArtists" : [ {
+      "name" : "Queen",
+      "streamCount" : 266,
+      "secondsPlayed" : 59364
+    }, {
+      "name" : "Ardhito Pramono",
+      "streamCount" : 255,
+      "secondsPlayed" : 51150
+    }, {
+      "name" : "Keane",
+      "streamCount" : 223,
+      "secondsPlayed" : 51318
+    }, {
+      "name" : "Muse",
+      "streamCount" : 154,
+      "secondsPlayed" : 40469
+    }, {
+      "name" : "Lenka",
+      "streamCount" : 121,
+      "secondsPlayed" : 22066
+    }, {
+      "name" : "Wijaya 80",
+      "streamCount" : 112,
+      "secondsPlayed" : 25762
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 84,
+      "secondsPlayed" : 18808
+    }, {
+      "name" : "Disco Lines",
+      "streamCount" : 79,
+      "secondsPlayed" : 12944
+    }, {
+      "name" : "Luis Miguel",
+      "streamCount" : 61,
+      "secondsPlayed" : 13266
+    }, {
+      "name" : "Daniel Sahuleka",
+      "streamCount" : 49,
+      "secondsPlayed" : 10700
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 333,
+      "secondsPlayed" : 132893
+    }, {
+      "name" : "pop",
+      "streamCount" : 190,
+      "secondsPlayed" : 77009
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 248,
+      "secondsPlayed" : 74741
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 190,
+      "secondsPlayed" : 71779
+    }, {
+      "name" : "classic rock",
+      "streamCount" : 186,
+      "secondsPlayed" : 67100
+    }, {
+      "name" : "english rock",
+      "streamCount" : 188,
+      "secondsPlayed" : 58472
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 148,
+      "secondsPlayed" : 57966
+    }, {
+      "name" : "glam rock",
+      "streamCount" : 146,
+      "secondsPlayed" : 55027
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 173,
+      "secondsPlayed" : 48433
+    }, {
+      "name" : "british rock",
+      "streamCount" : 155,
+      "secondsPlayed" : 41350
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 89716
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 134009
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 113210
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 149453
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 29303
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 8831
+    } ]
+  }, {
+    "date" : "2025-09",
+    "streamCount" : 1796,
+    "secondsPlayed" : 393137,
+    "topTracks" : [ {
+      "name" : "Ordinary Day",
+      "streamCount" : 75,
+      "secondsPlayed" : 16114
+    }, {
+      "name" : "Even The Nights Are Better",
+      "streamCount" : 58,
+      "secondsPlayed" : 12717
+    }, {
+      "name" : "Lost Without Your Love",
+      "streamCount" : 57,
+      "secondsPlayed" : 9929
+    }, {
+      "name" : "dreams, books, power and walls",
+      "streamCount" : 53,
+      "secondsPlayed" : 15203
+    }, {
+      "name" : "Lady, Lady, Lady",
+      "streamCount" : 46,
+      "secondsPlayed" : 10781
+    }, {
+      "name" : "Morning Train (Nine to Five) - Edit",
+      "streamCount" : 36,
+      "secondsPlayed" : 5930
+    }, {
+      "name" : "Sakura No Hanabiratachi",
+      "streamCount" : 25,
+      "secondsPlayed" : 4596
+    }, {
+      "name" : "Supermassive Black Hole",
+      "streamCount" : 25,
+      "secondsPlayed" : 5371
+    }, {
+      "name" : "Everybody's Changing - Live At Airwaves Festival, Reykjavík / 2004",
+      "streamCount" : 22,
+      "secondsPlayed" : 5161
+    }, {
+      "name" : "Percik Kecil",
+      "streamCount" : 22,
+      "secondsPlayed" : 4761
+    } ],
+    "topArtists" : [ {
+      "name" : "Muse",
+      "streamCount" : 401,
+      "secondsPlayed" : 92269
+    }, {
+      "name" : "Keane",
+      "streamCount" : 193,
+      "secondsPlayed" : 42999
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 78,
+      "secondsPlayed" : 16897
+    }, {
+      "name" : "Ardhito Pramono",
+      "streamCount" : 77,
+      "secondsPlayed" : 16328
+    }, {
+      "name" : "JANNABI",
+      "streamCount" : 76,
+      "secondsPlayed" : 19406
+    }, {
+      "name" : "Air Supply",
+      "streamCount" : 65,
+      "secondsPlayed" : 13994
+    }, {
+      "name" : "Bread",
+      "streamCount" : 61,
+      "secondsPlayed" : 10549
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 56,
+      "secondsPlayed" : 13201
+    }, {
+      "name" : "Mulan Jameela",
+      "streamCount" : 46,
+      "secondsPlayed" : 11914
+    }, {
+      "name" : "Joe \"Bean\" Esposito",
+      "streamCount" : 46,
+      "secondsPlayed" : 10781
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 323,
+      "secondsPlayed" : 107883
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 285,
+      "secondsPlayed" : 100619
+    }, {
+      "name" : "british rock",
+      "streamCount" : 250,
+      "secondsPlayed" : 81713
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 188,
+      "secondsPlayed" : 59997
+    }, {
+      "name" : "modern rock",
+      "streamCount" : 150,
+      "secondsPlayed" : 57720
+    }, {
+      "name" : "oldies",
+      "streamCount" : 135,
+      "secondsPlayed" : 45514
+    }, {
+      "name" : "english rock",
+      "streamCount" : 137,
+      "secondsPlayed" : 44365
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 145,
+      "secondsPlayed" : 41746
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 121,
+      "secondsPlayed" : 37344
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 102,
+      "secondsPlayed" : 31125
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-08",
+    "streamCount" : 2051,
+    "secondsPlayed" : 442283,
+    "topTracks" : [ {
+      "name" : "Percik Kecil",
+      "streamCount" : 147,
+      "secondsPlayed" : 34768
+    }, {
+      "name" : "Mencintaimu",
+      "streamCount" : 70,
+      "secondsPlayed" : 16676
+    }, {
+      "name" : "Pernikahan Dini",
+      "streamCount" : 40,
+      "secondsPlayed" : 9754
+    }, {
+      "name" : "dreams, books, power and walls",
+      "streamCount" : 39,
+      "secondsPlayed" : 11400
+    }, {
+      "name" : "Sakit Minta Ampun",
+      "streamCount" : 38,
+      "secondsPlayed" : 7117
+    }, {
+      "name" : "Sakura No Hanabiratachi",
+      "streamCount" : 37,
+      "secondsPlayed" : 10622
+    }, {
+      "name" : "Sendiri",
+      "streamCount" : 35,
+      "secondsPlayed" : 11118
+    }, {
+      "name" : "Sayonara Crawl",
+      "streamCount" : 31,
+      "secondsPlayed" : 8405
+    }, {
+      "name" : "Aku Cinta Kau Dan Dia",
+      "streamCount" : 31,
+      "secondsPlayed" : 8017
+    }, {
+      "name" : "A thought on an autumn night",
+      "streamCount" : 31,
+      "secondsPlayed" : 6213
+    } ],
+    "topArtists" : [ {
+      "name" : "Mulan Jameela",
+      "streamCount" : 206,
+      "secondsPlayed" : 46661
+    }, {
+      "name" : "JKT48",
+      "streamCount" : 276,
+      "secondsPlayed" : 66804
+    }, {
+      "name" : "Bernadya",
+      "streamCount" : 187,
+      "secondsPlayed" : 42468
+    }, {
+      "name" : "Keane",
+      "streamCount" : 174,
+      "secondsPlayed" : 37669
+    }, {
+      "name" : "Rosy & Andres",
+      "streamCount" : 119,
+      "secondsPlayed" : 19589
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 105,
+      "secondsPlayed" : 22719
+    }, {
+      "name" : "Sherina Munaf",
+      "streamCount" : 93,
+      "secondsPlayed" : 20358
+    }, {
+      "name" : "JANNABI",
+      "streamCount" : 86,
+      "secondsPlayed" : 20327
+    }, {
+      "name" : "Muse",
+      "streamCount" : 59,
+      "secondsPlayed" : 13958
+    }, {
+      "name" : "Tere",
+      "streamCount" : 44,
+      "secondsPlayed" : 13268
+    } ],
+    "topGenres" : [ {
+      "name" : "00s pop",
+      "streamCount" : 248,
+      "secondsPlayed" : 80721
+    }, {
+      "name" : "rara",
+      "streamCount" : 156,
+      "secondsPlayed" : 77021
+    }, {
+      "name" : "pop",
+      "streamCount" : 180,
+      "secondsPlayed" : 54398
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 160,
+      "secondsPlayed" : 39751
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 137,
+      "secondsPlayed" : 36844
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 103,
+      "secondsPlayed" : 28007
+    }, {
+      "name" : "british rock",
+      "streamCount" : 106,
+      "secondsPlayed" : 27706
+    }, {
+      "name" : "piano rock",
+      "streamCount" : 100,
+      "secondsPlayed" : 26288
+    }, {
+      "name" : "rock",
+      "streamCount" : 105,
+      "secondsPlayed" : 24037
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 43,
+      "secondsPlayed" : 22309
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-07",
+    "streamCount" : 2274,
+    "secondsPlayed" : 502585,
+    "topTracks" : [ {
+      "name" : "Abracadabra",
+      "streamCount" : 75,
+      "secondsPlayed" : 18184
+    }, {
+      "name" : "Ratu Sejagad",
+      "streamCount" : 58,
+      "secondsPlayed" : 13774
+    }, {
+      "name" : "Bukannya Aku Takut",
+      "streamCount" : 57,
+      "secondsPlayed" : 11972
+    }, {
+      "name" : "Pernikahan Dini",
+      "streamCount" : 53,
+      "secondsPlayed" : 16070
+    }, {
+      "name" : "Roman Picisan",
+      "streamCount" : 44,
+      "secondsPlayed" : 7754
+    }, {
+      "name" : "Supermassive Black Hole - Live from Wembley Stadium",
+      "streamCount" : 43,
+      "secondsPlayed" : 9175
+    }, {
+      "name" : "Kumpul Bocah",
+      "streamCount" : 41,
+      "secondsPlayed" : 12770
+    }, {
+      "name" : "Gubrak!!",
+      "streamCount" : 37,
+      "secondsPlayed" : 6395
+    }, {
+      "name" : "Dokter Cinta",
+      "streamCount" : 36,
+      "secondsPlayed" : 8283
+    }, {
+      "name" : "Cancer",
+      "streamCount" : 36,
+      "secondsPlayed" : 5189
+    } ],
+    "topArtists" : [ {
+      "name" : "Mulan Jameela",
+      "streamCount" : 175,
+      "secondsPlayed" : 40610
+    }, {
+      "name" : "Keane",
+      "streamCount" : 151,
+      "secondsPlayed" : 34784
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 148,
+      "secondsPlayed" : 29385
+    }, {
+      "name" : "My Chemical Romance",
+      "streamCount" : 141,
+      "secondsPlayed" : 28945
+    }, {
+      "name" : "Muse",
+      "streamCount" : 110,
+      "secondsPlayed" : 24687
+    }, {
+      "name" : "Dewi - Dewi",
+      "streamCount" : 95,
+      "secondsPlayed" : 19120
+    }, {
+      "name" : "Ratu",
+      "streamCount" : 86,
+      "secondsPlayed" : 20350
+    }, {
+      "name" : "Vina Panduwinata",
+      "streamCount" : 61,
+      "secondsPlayed" : 16867
+    }, {
+      "name" : "Agnes Monica",
+      "streamCount" : 58,
+      "secondsPlayed" : 17335
+    }, {
+      "name" : "Sherina Munaf",
+      "streamCount" : 47,
+      "secondsPlayed" : 10392
+    } ],
+    "topGenres" : [ {
+      "name" : "00s pop",
+      "streamCount" : 397,
+      "secondsPlayed" : 154759
+    }, {
+      "name" : "pop",
+      "streamCount" : 254,
+      "secondsPlayed" : 89972
+    }, {
+      "name" : "rock",
+      "streamCount" : 178,
+      "secondsPlayed" : 60114
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 146,
+      "secondsPlayed" : 46093
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 170,
+      "secondsPlayed" : 35266
+    }, {
+      "name" : "pop punk",
+      "streamCount" : 83,
+      "secondsPlayed" : 34874
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 108,
+      "secondsPlayed" : 34736
+    }, {
+      "name" : "english rock",
+      "streamCount" : 101,
+      "secondsPlayed" : 34512
+    }, {
+      "name" : "emo pop",
+      "streamCount" : 77,
+      "secondsPlayed" : 33617
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 100,
+      "secondsPlayed" : 33466
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-06",
+    "streamCount" : 1745,
+    "secondsPlayed" : 374621,
+    "topTracks" : [ {
+      "name" : "Dokter Cinta",
+      "streamCount" : 55,
+      "secondsPlayed" : 12098
+    }, {
+      "name" : "Alleen Is Maar Alleen - Live",
+      "streamCount" : 38,
+      "secondsPlayed" : 6142
+    }, {
+      "name" : "Everybody’s Changing - Live From Mexico City / 2024",
+      "streamCount" : 38,
+      "secondsPlayed" : 9238
+    }, {
+      "name" : "That's Me",
+      "streamCount" : 35,
+      "secondsPlayed" : 6339
+    }, {
+      "name" : "Kumpul Bocah (Original Soundtrack From “JUMBO\")",
+      "streamCount" : 28,
+      "secondsPlayed" : 6809
+    }, {
+      "name" : "Everybody's Changing - Live At Airwaves Festival, Reykjavík / 2004",
+      "streamCount" : 27,
+      "secondsPlayed" : 5841
+    }, {
+      "name" : "Man vill ju leva lite dessemellan",
+      "streamCount" : 26,
+      "secondsPlayed" : 3978
+    }, {
+      "name" : "Alone Again (Naturally)",
+      "streamCount" : 25,
+      "secondsPlayed" : 5420
+    }, {
+      "name" : "Oh Baby",
+      "streamCount" : 25,
+      "secondsPlayed" : 3579
+    }, {
+      "name" : "Thank You For The Music - Doris Day Mix",
+      "streamCount" : 22,
+      "secondsPlayed" : 3980
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 224,
+      "secondsPlayed" : 50935
+    }, {
+      "name" : "Muse",
+      "streamCount" : 193,
+      "secondsPlayed" : 47671
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 180,
+      "secondsPlayed" : 36534
+    }, {
+      "name" : "Queen",
+      "streamCount" : 80,
+      "secondsPlayed" : 18109
+    }, {
+      "name" : "Rob De Nijs",
+      "streamCount" : 63,
+      "secondsPlayed" : 12363
+    }, {
+      "name" : "Dewi - Dewi",
+      "streamCount" : 55,
+      "secondsPlayed" : 12098
+    }, {
+      "name" : "Gilbert O'Sullivan",
+      "streamCount" : 52,
+      "secondsPlayed" : 10398
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 49,
+      "secondsPlayed" : 11361
+    }, {
+      "name" : "Meryl Streep",
+      "streamCount" : 47,
+      "secondsPlayed" : 10132
+    }, {
+      "name" : "Benny Andersson",
+      "streamCount" : 38,
+      "secondsPlayed" : 6904
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 281,
+      "secondsPlayed" : 77094
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 260,
+      "secondsPlayed" : 68769
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 186,
+      "secondsPlayed" : 51936
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 133,
+      "secondsPlayed" : 39662
+    }, {
+      "name" : "oldies",
+      "streamCount" : 154,
+      "secondsPlayed" : 38417
+    }, {
+      "name" : "british rock",
+      "streamCount" : 137,
+      "secondsPlayed" : 36733
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 106,
+      "secondsPlayed" : 34222
+    }, {
+      "name" : "pop",
+      "streamCount" : 101,
+      "secondsPlayed" : 31623
+    }, {
+      "name" : "english rock",
+      "streamCount" : 109,
+      "secondsPlayed" : 30620
+    }, {
+      "name" : "rara",
+      "streamCount" : 105,
+      "secondsPlayed" : 29727
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-05",
+    "streamCount" : 2433,
+    "secondsPlayed" : 523908,
+    "topTracks" : [ {
+      "name" : "Dokter Cinta",
+      "streamCount" : 74,
+      "secondsPlayed" : 18739
+    }, {
+      "name" : "Cinta Sudah Lewat",
+      "streamCount" : 50,
+      "secondsPlayed" : 11464
+    }, {
+      "name" : "The Show Must Go On - Remastered 2011",
+      "streamCount" : 47,
+      "secondsPlayed" : 12531
+    }, {
+      "name" : "Winner Takes It All - From \"Mamma Mia!\"",
+      "streamCount" : 47,
+      "secondsPlayed" : 10378
+    }, {
+      "name" : "Oh Baby",
+      "streamCount" : 41,
+      "secondsPlayed" : 7853
+    }, {
+      "name" : "Play The Game - Remastered 2011",
+      "streamCount" : 40,
+      "secondsPlayed" : 8327
+    }, {
+      "name" : "Gelora Asmara",
+      "streamCount" : 39,
+      "secondsPlayed" : 9471
+    }, {
+      "name" : "Bunga Maaf",
+      "streamCount" : 39,
+      "secondsPlayed" : 8991
+    }, {
+      "name" : "Kumpul Bocah (Original Soundtrack From “JUMBO\")",
+      "streamCount" : 37,
+      "secondsPlayed" : 9914
+    }, {
+      "name" : "Hammer To Fall - Remastered 2011",
+      "streamCount" : 36,
+      "secondsPlayed" : 8889
+    } ],
+    "topArtists" : [ {
+      "name" : "Queen",
+      "streamCount" : 295,
+      "secondsPlayed" : 69093
+    }, {
+      "name" : "Benny Andersson",
+      "streamCount" : 217,
+      "secondsPlayed" : 40093
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 194,
+      "secondsPlayed" : 41419
+    }, {
+      "name" : "Rob De Nijs",
+      "streamCount" : 111,
+      "secondsPlayed" : 24814
+    }, {
+      "name" : "Björn Ulvaeus",
+      "streamCount" : 216,
+      "secondsPlayed" : 39819
+    }, {
+      "name" : "Keane",
+      "streamCount" : 100,
+      "secondsPlayed" : 22389
+    }, {
+      "name" : "Muse",
+      "streamCount" : 94,
+      "secondsPlayed" : 22382
+    }, {
+      "name" : "The Lantis",
+      "streamCount" : 80,
+      "secondsPlayed" : 18528
+    }, {
+      "name" : "Dewi - Dewi",
+      "streamCount" : 75,
+      "secondsPlayed" : 19006
+    }, {
+      "name" : "Kahitna",
+      "streamCount" : 64,
+      "secondsPlayed" : 13992
+    } ],
+    "topGenres" : [ {
+      "name" : "rock",
+      "streamCount" : 333,
+      "secondsPlayed" : 112267
+    }, {
+      "name" : "golden oldies",
+      "streamCount" : 316,
+      "secondsPlayed" : 104124
+    }, {
+      "name" : "classic rock",
+      "streamCount" : 200,
+      "secondsPlayed" : 76672
+    }, {
+      "name" : "00s pop",
+      "streamCount" : 157,
+      "secondsPlayed" : 71134
+    }, {
+      "name" : "rara",
+      "streamCount" : 172,
+      "secondsPlayed" : 66127
+    }, {
+      "name" : "english rock",
+      "streamCount" : 174,
+      "secondsPlayed" : 65930
+    }, {
+      "name" : "pop",
+      "streamCount" : 156,
+      "secondsPlayed" : 63359
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 151,
+      "secondsPlayed" : 62181
+    }, {
+      "name" : "musicals",
+      "streamCount" : 250,
+      "secondsPlayed" : 60745
+    }, {
+      "name" : "broadway",
+      "streamCount" : 250,
+      "secondsPlayed" : 60620
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-04",
+    "streamCount" : 2394,
+    "secondsPlayed" : 516867,
+    "topTracks" : [ {
+      "name" : "Top Of The World",
+      "streamCount" : 38,
+      "secondsPlayed" : 6530
+    }, {
+      "name" : "Everybody's Changing - Demo / July 2002",
+      "streamCount" : 37,
+      "secondsPlayed" : 7830
+    }, {
+      "name" : "dreams, books, power and walls",
+      "streamCount" : 35,
+      "secondsPlayed" : 10971
+    }, {
+      "name" : "Somewhere Only We Know - Demo / December 2002",
+      "streamCount" : 33,
+      "secondsPlayed" : 7456
+    }, {
+      "name" : "Alleen Is Maar Alleen",
+      "streamCount" : 31,
+      "secondsPlayed" : 4889
+    }, {
+      "name" : "I Do, I Do, I Do, I Do, I Do - 1999 / Musical \"Mamma Mia\"",
+      "streamCount" : 31,
+      "secondsPlayed" : 4525
+    }, {
+      "name" : "Thank You For The Music - 1999 / Musical \"Mamma Mia\"",
+      "streamCount" : 31,
+      "secondsPlayed" : 5889
+    }, {
+      "name" : "Winner Takes It All - From \"Mamma Mia!\"",
+      "streamCount" : 27,
+      "secondsPlayed" : 6723
+    }, {
+      "name" : "Somewhere Only We Know - Tim Demo / September 2002",
+      "streamCount" : 26,
+      "secondsPlayed" : 6276
+    }, {
+      "name" : "Everybody's Changing - Live At Airwaves Festival, Reykjavík / 2004",
+      "streamCount" : 25,
+      "secondsPlayed" : 5633
+    } ],
+    "topArtists" : [ {
+      "name" : "Keane",
+      "streamCount" : 388,
+      "secondsPlayed" : 88392
+    }, {
+      "name" : "Benny Andersson",
+      "streamCount" : 243,
+      "secondsPlayed" : 45047
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 224,
+      "secondsPlayed" : 51897
+    }, {
+      "name" : "Björn Ulvaeus",
+      "streamCount" : 243,
+      "secondsPlayed" : 45047
+    }, {
+      "name" : "Muse",
+      "streamCount" : 113,
+      "secondsPlayed" : 29731
+    }, {
+      "name" : "Green Day",
+      "streamCount" : 109,
+      "secondsPlayed" : 25953
+    }, {
+      "name" : "Carpenters",
+      "streamCount" : 69,
+      "secondsPlayed" : 13043
+    }, {
+      "name" : "JANNABI",
+      "streamCount" : 59,
+      "secondsPlayed" : 15560
+    }, {
+      "name" : "JKT48",
+      "streamCount" : 45,
+      "secondsPlayed" : 11545
+    }, {
+      "name" : "Rob De Nijs",
+      "streamCount" : 43,
+      "secondsPlayed" : 7739
+    } ],
+    "topGenres" : [ {
+      "name" : "golden oldies",
+      "streamCount" : 345,
+      "secondsPlayed" : 87873
+    }, {
+      "name" : "pop rock",
+      "streamCount" : 273,
+      "secondsPlayed" : 84666
+    }, {
+      "name" : "rock",
+      "streamCount" : 284,
+      "secondsPlayed" : 78768
+    }, {
+      "name" : "british rock",
+      "streamCount" : 250,
+      "secondsPlayed" : 70309
+    }, {
+      "name" : "musicals",
+      "streamCount" : 208,
+      "secondsPlayed" : 69859
+    }, {
+      "name" : "broadway",
+      "streamCount" : 207,
+      "secondsPlayed" : 69635
+    }, {
+      "name" : "oldies",
+      "streamCount" : 256,
+      "secondsPlayed" : 67111
+    }, {
+      "name" : "alternative rock",
+      "streamCount" : 173,
+      "secondsPlayed" : 53104
+    }, {
+      "name" : "english rock",
+      "streamCount" : 180,
+      "secondsPlayed" : 53045
+    }, {
+      "name" : "piano rock",
+      "streamCount" : 170,
+      "secondsPlayed" : 50019
+    } ],
+    "timeOfDayStats" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-03-29",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Rob De Nijs",
+      "milestoneListeningSeconds" : 20409
+    }
+  }, {
+    "date" : "2026-03-22",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Rob De Nijs",
+      "listeningPercentage" : 41.548653449186304
+    }
+  }, {
+    "date" : "2026-03-15",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Green Day",
+      "topPercentile" : 0.0038764163167966706
+    }
+  }, {
+    "date" : "2026-03-08",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Foto Van Vroeger",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2026-03-01",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "잘 가 크롤",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-02-22",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Give Me Love (Give Me Peace on Earth)",
+      "secondEntity" : "Kutukan Mantan"
+    }
+  }, {
+    "date" : "2026-02-15",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "17 To 70",
+      "country" : "ID",
+      "position" : 1080
+    }
+  }, {
+    "date" : "2026-02-08",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "My Chemical Romance",
+      "country" : "ID",
+      "secondsPlayed" : 8747,
+      "marketAvgSecondsPlayed" : 786.1947
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Alone Again (Naturally) - Songbook Version",
+      "topPercentile" : 0.004688546550569324
+    }
+  }, {
+    "date" : "2026-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Play The Game - Live",
+      "streamCount" : 56
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Alone Again (Naturally)",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 2
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Even The Nights Are Better",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Everybody’s Changing - Live From Mexico City / 2024",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Patricia Carey",
+      "secondEntity" : "Nikita"
+    }
+  }, {
+    "date" : "2026-01",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Keane",
+      "milestoneListeningSeconds" : 32448
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Ariana Grande",
+      "country" : "ID",
+      "secondsPlayed" : 8630,
+      "marketAvgSecondsPlayed" : 761.17566
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "I'm Alone - Remastered",
+      "streamCount" : 16
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Ardhito Pramono",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Why Did It Have To Be Me? - Live",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-12",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Everybody's Changing - Live At Airwaves Festival, Reykjavík / 2004",
+      "topPercentile" : 0.0030260837278381137
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Blue Christmas",
+      "topPercentile" : 0.0027900488258544524
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Keane", "Mariah Carey", "Michael Bublé", "Blue Christmas", "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)", "Alone Again (Naturally)", "Silent Night", "I'm Alone - Remastered", "Cold December Night" ],
+      "milestoneListeningSeconds" : 109631
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Keane",
+      "listeningPercentage" : 23.442001797244842
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lost Without Your Love",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Trouble Is a Friend - Spike Stent Remix",
+      "streamCount" : 29
+    }
+  }, {
+    "date" : "2025-11",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Athena",
+      "secondEntity" : "Herlin Pirena"
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Avenged Sevenfold",
+      "country" : "ID",
+      "secondsPlayed" : 6597,
+      "marketAvgSecondsPlayed" : 1530.734
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Nadin Amizah",
+      "secondEntity" : "Crosby, Stills, Nash & Young"
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Masih Ada Kamu",
+      "topPercentile" : 7.302524157132815E-4
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Muse",
+      "milestoneListeningSeconds" : 29862
+    }
+  }, {
+    "date" : "2025-10",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Jurus Rahasia Teleport",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Muse",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Ordinary Day",
+      "streamCount" : 32
+    }
+  }, {
+    "date" : "2025-09-14",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Ordinary Day",
+      "country" : "ID",
+      "position" : 6645
+    }
+  } ]
+}

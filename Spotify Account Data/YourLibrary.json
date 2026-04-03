@@ -1,0 +1,3091 @@
+{
+  "tracks" : [ {
+    "artist" : "Muse",
+    "album" : "Feeling Good / Hyper Music",
+    "track" : "Shine",
+    "uri" : "spotify:track:0et8hkT6NB9slDSMulahDp"
+  }, {
+    "artist" : "The Revivalists",
+    "album" : "Men Amongst Mountains",
+    "track" : "Wish I Knew You",
+    "uri" : "spotify:track:7AOhUY89PYUxswAQax48ZB"
+  }, {
+    "artist" : "Styx",
+    "album" : "Cornerstone",
+    "track" : "Boat On The River",
+    "uri" : "spotify:track:4o9DSo7c1ICv4CtFWFSmGx"
+  }, {
+    "artist" : "Queen",
+    "album" : "Hungarian Rhapsody",
+    "track" : "Friends Will Be Friends - Live",
+    "uri" : "spotify:track:3UfnnpAoRpnwSoGPdpdWJh"
+  }, {
+    "artist" : "Victor Hutabarat",
+    "album" : "Damai Sukacita Natal",
+    "track" : "Dari Pulau Dan Benua",
+    "uri" : "spotify:track:4qHcFn29JTCQwOVsT4S63z"
+  }, {
+    "artist" : "Vintonic",
+    "album" : "Semesta Asmara",
+    "track" : "Semesta Asmara",
+    "uri" : "spotify:track:0tn3dQuEHJEhGlILenLYnM"
+  }, {
+    "artist" : "Eelke Kleijn",
+    "album" : "Transmission",
+    "track" : "Transmission - Joris Voorn Remix",
+    "uri" : "spotify:track:6ziqWx82jgkQYhyIALoraH"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen Rock Montreal",
+    "track" : "Somebody To Love - Live",
+    "uri" : "spotify:track:0DdWFXRHEyCzAGCVCsb9LK"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music presents The Warblers",
+    "track" : "Somewhere Only We Know (feat. Darren Criss) - Cover of Keane",
+    "uri" : "spotify:track:7qekEQyGFRim7qNhxzkaLo"
+  }, {
+    "artist" : "Queen",
+    "album" : "Made In Heaven",
+    "track" : "I Was Born To Love You - 2011 Remaster",
+    "uri" : "spotify:track:7DtdhIJlSSOaAFNk4JdXCb"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live In Asunción",
+    "track" : "The Way I Feel - Live At Jockey Club del Paraguay, Asunción, Paraguay / 2019",
+    "uri" : "spotify:track:57oDTAXhNtIqRSA3vjM5Tt"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Arrival",
+    "track" : "Fernando",
+    "uri" : "spotify:track:4BM8yJ0PzBi2ZewpMTOxtx"
+  }, {
+    "artist" : "Keane",
+    "album" : "Under The Iron Sea",
+    "track" : "Try Again",
+    "uri" : "spotify:track:0STHSWnJXSKBp2XNzVtTX8"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Futures",
+    "track" : "Work",
+    "uri" : "spotify:track:0sfdLPLiWJCtV7Qj9tdNtI"
+  }, {
+    "artist" : "Michel Fugain & Le Big Bazar",
+    "album" : "Fais comme l'oiseau",
+    "track" : "Une belle histoire",
+    "uri" : "spotify:track:5oxKrYimzs8AZp8lkoar6V"
+  }, {
+    "artist" : "TOTO",
+    "album" : "Toto",
+    "track" : "Hold the Line",
+    "uri" : "spotify:track:4aVuWgvD0X63hcOCnZtNFA"
+  }, {
+    "artist" : "Keane",
+    "album" : "Somewhere Only We Know",
+    "track" : "Somewhere Only We Know - Live At The Hub, Roundhouse Studios, London / 2013",
+    "uri" : "spotify:track:0cjetTUsO66FsZjodcqq2T"
+  }, {
+    "artist" : "Tangga",
+    "album" : "Lost In Love",
+    "track" : "Kesempatan Kedua",
+    "uri" : "spotify:track:6W9EPH4b6fkgkERorDnuRz"
+  }, {
+    "artist" : "Gustav Joseph",
+    "album" : "Immunity",
+    "track" : "Immunity",
+    "uri" : "spotify:track:1ldGVJUNxjUDAJp0vZLMq5"
+  }, {
+    "artist" : "Miss Montreal",
+    "album" : "Beste Zangers 2020 (Miss Montreal)",
+    "track" : "Door De Wind",
+    "uri" : "spotify:track:3h7NZT1CATbn4GqUs51vwf"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "Evil Friends",
+    "track" : "Purple Yellow Red and Blue",
+    "uri" : "spotify:track:4WMuY659P2MKnoW40oGXe8"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Revolution Radio",
+    "track" : "Bang Bang",
+    "uri" : "spotify:track:278Ao6KQDxWGGszv24uvhI"
+  }, {
+    "artist" : "Queen",
+    "album" : "Greatest Hits II",
+    "track" : "Who Wants To Live Forever - Remastered 2011",
+    "uri" : "spotify:track:3SGP8It5WDnCONyApJKRTJ"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "Chiquitita - Live",
+    "uri" : "spotify:track:5VFWFYzo4stfWnux8rWdPO"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Selamat Hari Natal",
+    "uri" : "spotify:track:1QcaA2tx8ZJGFFrsaaMASQ"
+  }, {
+    "artist" : "Zeynep Baksi Karatağ",
+    "album" : "Gurbet",
+    "track" : "Gurbet",
+    "uri" : "spotify:track:5OLyJbv6nzZFLoF1mA1QhB"
+  }, {
+    "artist" : "Keane",
+    "album" : "Bend & Break",
+    "track" : "Bend & Break - Live From Wireless Festival, UK / 2005",
+    "uri" : "spotify:track:1anMVa8Toxkw6U1Dvz5SGi"
+  }, {
+    "artist" : "Richard Sanderson",
+    "album" : "Télé 80 et 90",
+    "track" : "Reality",
+    "uri" : "spotify:track:44fSIRBe0Kg8b0sX7PRINd"
+  }, {
+    "artist" : "Kevin D'Angello",
+    "album" : "Space Train",
+    "track" : "Space Train",
+    "uri" : "spotify:track:4eVXJrgK3AXU0IgujAgEjB"
+  }, {
+    "artist" : "Reality Club",
+    "album" : "What Do You Really Know?",
+    "track" : "Alexandra",
+    "uri" : "spotify:track:7JFFMicliyVArHQgwEqVBS"
+  }, {
+    "artist" : "Şebnem Ferah",
+    "album" : "Can Kırıkları",
+    "track" : "Çakıl Taşları",
+    "uri" : "spotify:track:03sf6gnuqZNE9sGrRi8WAc"
+  }, {
+    "artist" : "Queen",
+    "album" : "Bohemian Rhapsody",
+    "track" : "Hammer To Fall - Live Aid",
+    "uri" : "spotify:track:5ekobRVHvm435Eipr1StAg"
+  }, {
+    "artist" : "Daniel Sahuleka",
+    "album" : "Remake Mystyle",
+    "track" : "You Make My World so Colourful",
+    "uri" : "spotify:track:2AvgjAYv5HaEKPYB3n7DmR"
+  }, {
+    "artist" : "boy pablo",
+    "album" : "Flowers",
+    "track" : "Flowers",
+    "uri" : "spotify:track:7jkBx0MFLan4m2qxsayche"
+  }, {
+    "artist" : "Bernadya",
+    "album" : "Percik Kecil",
+    "track" : "Percik Kecil",
+    "uri" : "spotify:track:6CsSNFkQVVuQjRQMrzyDzq"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Tussen Zomer En Winter",
+    "track" : "Ik Laat Je Vrij",
+    "uri" : "spotify:track:7LzEITqRMPh6p4tdpy6PkH"
+  }, {
+    "artist" : "Plain White T's",
+    "album" : "Stop",
+    "track" : "A Lonely September",
+    "uri" : "spotify:track:2nRHrn77gdJDonjHGtxFfl"
+  }, {
+    "artist" : "Luis Fonsi",
+    "album" : "Échame La Culpa",
+    "track" : "Échame La Culpa",
+    "uri" : "spotify:track:1zsG4eaZmkA1dvjDDsAGLK"
+  }, {
+    "artist" : "R3HAB",
+    "album" : "Trouble",
+    "track" : "Shanghai",
+    "uri" : "spotify:track:1zNKrNBtDPje8fIodmzDOR"
+  }, {
+    "artist" : "Billy Cotton",
+    "album" : "My Southern Home",
+    "track" : "You Brought a New Kind of Love to Me",
+    "uri" : "spotify:track:5DxwmRPXWVT9Nkl4R7iF3P"
+  }, {
+    "artist" : "Vina Panduwinata",
+    "album" : "Cinta",
+    "track" : "Kumpul Bocah",
+    "uri" : "spotify:track:1lb83ObgvKCoJcUW6TEZvW"
+  }, {
+    "artist" : "Billy Joel",
+    "album" : "52nd Street",
+    "track" : "Honesty",
+    "uri" : "spotify:track:34E0Higz6fFVXlbVsn6TIW"
+  }, {
+    "artist" : "BENNETT",
+    "album" : "Vois sur ton chemin",
+    "track" : "Vois sur ton chemin - Techno Mix",
+    "uri" : "spotify:track:31nfdEooLEq7dn3UMcIeB5"
+  }, {
+    "artist" : "Hindia",
+    "album" : "Lagipula Hidup Akan Berakhir",
+    "track" : "Jangan Jadi Pahlawan",
+    "uri" : "spotify:track:4g4HBD31vBczahDYgnW2HL"
+  }, {
+    "artist" : "Roxy Dekker",
+    "album" : "Satisfyer",
+    "track" : "Satisfyer",
+    "uri" : "spotify:track:0Uy5VFlvsosR3YZbpsxYFh"
+  }, {
+    "artist" : "Post Malone",
+    "album" : "rockstar",
+    "track" : "rockstar",
+    "uri" : "spotify:track:7wGoVu4Dady5GV0Sv4UIsx"
+  }, {
+    "artist" : "Erwin Gutawa",
+    "album" : "SYMPHONESIA",
+    "track" : "Bukan Cinta Biasa",
+    "uri" : "spotify:track:0ITu4ncqhCS51DXzcqD0xl"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "A Stranger In My Own Back Yard",
+    "track" : "Happiness Is Me And You",
+    "uri" : "spotify:track:5bEENHk2DBCa5ZXWIGa1U8"
+  }, {
+    "artist" : "Muse",
+    "album" : "The 2nd Law",
+    "track" : "Big Freeze",
+    "uri" : "spotify:track:630CQp2prewTfH1UAvMgCA"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "The Essential Collection",
+    "track" : "Alone Again (Naturally)",
+    "uri" : "spotify:track:41d8yzTn55TyBNnvLdXb3F"
+  }, {
+    "artist" : "Queen",
+    "album" : "Made In Heaven",
+    "track" : "Too Much Love Will Kill You - Remastered 2011",
+    "uri" : "spotify:track:0W1uTK6I97CbjFKAVtRGfK"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Invented",
+    "track" : "My Best Theory",
+    "uri" : "spotify:track:62vYBYt9dJgI1Wn31iTdgC"
+  }, {
+    "artist" : "Björn Ulvaeus",
+    "album" : "ABBA for Orchestra",
+    "track" : "Thank You for the Music (Arr. C. Davis for Orchestra)",
+    "uri" : "spotify:track:1J7Z8QJyVcIk98HPoAmrbl"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "De Regen Voorbij",
+    "track" : "Zonder Jou",
+    "uri" : "spotify:track:161j3Aw5h8zPq80a7G6tmZ"
+  }, {
+    "artist" : "Kahitna",
+    "album" : "Cinta Sudah Lewat",
+    "track" : "Cinta Sudah Lewat",
+    "uri" : "spotify:track:4RE24kjn5HN6aeMqETfdG2"
+  }, {
+    "artist" : "Superman Is Dead",
+    "album" : "Sunset di Tanah Anarki",
+    "track" : "Sunset Di Tanah Anarki",
+    "uri" : "spotify:track:1bfbixjy7OPG2n3MbLKrKu"
+  }, {
+    "artist" : "Seringai",
+    "album" : "Seperti Api",
+    "track" : "Selamanya",
+    "uri" : "spotify:track:5Yu9yUEb2kq6CkB8jXTrfO"
+  }, {
+    "artist" : "John West",
+    "album" : "Je Raakt Me Zo",
+    "track" : "Je Raakt Me Zo",
+    "uri" : "spotify:track:0RTUDjc3FeUaMQ6LOSA2c9"
+  }, {
+    "artist" : "System Of A Down",
+    "album" : "Hypnotize",
+    "track" : "Lonely Day",
+    "uri" : "spotify:track:1VNWaY3uNfoeWqb5U8x2QX"
+  }, {
+    "artist" : "ABBA",
+    "album" : "I Have A Dream",
+    "track" : "I Have A Dream - from ABBA In Concert",
+    "uri" : "spotify:track:6bn6RgH5EOu0bbVr0Gzc1s"
+  }, {
+    "artist" : "Rex Orange County",
+    "album" : "Apricot Princess",
+    "track" : "Untitled",
+    "uri" : "spotify:track:3PbV3ocgAp3Xn0omGFC0cG"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "American Ghetto",
+    "track" : "When the War Ends",
+    "uri" : "spotify:track:6onGPPlA3MuXZdWqE5YBcX"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Complete Season Two",
+    "track" : "Welcome Christmas",
+    "uri" : "spotify:track:6AAmQM86SXxAq28rST7yjG"
+  }, {
+    "artist" : "Petra Sihombing",
+    "album" : "Denting",
+    "track" : "Denting",
+    "uri" : "spotify:track:4i7xD6pmEaV25wL6K7Pjd0"
+  }, {
+    "artist" : "Rammstein",
+    "album" : "Ausländer",
+    "track" : "Ausländer",
+    "uri" : "spotify:track:4D1VchY3LaTzchH12BCLoe"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Gingham Check",
+    "track" : "Sakura No Hanabiratachi",
+    "uri" : "spotify:track:5UqzcOEPhZ3YH1olsfa00l"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "Have Yourself A Merry Little Christmas",
+    "uri" : "spotify:track:5c3nsZDkyuV30YYzQfw1ZG"
+  }, {
+    "artist" : "Pulp",
+    "album" : "Different Class",
+    "track" : "Something Changed",
+    "uri" : "spotify:track:05FgZdqxXg40X0WG8MmWMA"
+  }, {
+    "artist" : "System Of A Down",
+    "album" : "Toxicity",
+    "track" : "Toxicity",
+    "uri" : "spotify:track:0snQkGI5qnAmohLE7jTsTn"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Mahagita - Kamikyokutachi",
+    "track" : "First Rabbit",
+    "uri" : "spotify:track:4JMV9PsclsFDTh4qEL6801"
+  }, {
+    "artist" : "Jikustik",
+    "album" : "Kembali Indah",
+    "track" : "Aku Bukan Untukmu",
+    "uri" : "spotify:track:28QtTXLKcRn0hyVBP64tQf"
+  }, {
+    "artist" : "Avenged Sevenfold",
+    "album" : "Avenged Sevenfold",
+    "track" : "Dear God",
+    "uri" : "spotify:track:2FML7gk7ac6quGFIjvkDb3"
+  }, {
+    "artist" : "Sia",
+    "album" : "Everyday Is Christmas",
+    "track" : "Sunshine",
+    "uri" : "spotify:track:7LRCzA2vlK4EIAdBPz2BEd"
+  }, {
+    "artist" : "Superman Is Dead",
+    "album" : "Angels And The Outsiders",
+    "track" : "Jika Kami Bersama",
+    "uri" : "spotify:track:1tjXK475zBScgGLld0IHEn"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Ik Laat Je Vrij - Live",
+    "uri" : "spotify:track:3ttOPkeIS8162Eb9xGNRjw"
+  }, {
+    "artist" : "Element",
+    "album" : "Paradoks",
+    "track" : "Rahasia Hati",
+    "uri" : "spotify:track:1X80KdFJpedU4as4WGIgYM"
+  }, {
+    "artist" : "Jaap Reesema",
+    "album" : "Ik Ben Bij Je",
+    "track" : "Ik Ben Bij Je - uit Liefde Voor Muziek",
+    "uri" : "spotify:track:4nmtCkLddprbJFVFI8IUni"
+  }, {
+    "artist" : "Glass Animals",
+    "album" : "How To Be A Human Being",
+    "track" : "Youth",
+    "uri" : "spotify:track:6xN6V82mRqClL3JXxbkcK8"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Pajama Drive",
+    "track" : "Shonichi",
+    "uri" : "spotify:track:08VI0BmJBfCqkmJcFAeyd0"
+  }, {
+    "artist" : "Ruth Sahanaya",
+    "album" : "Greatest Hits",
+    "track" : "Keliru",
+    "uri" : "spotify:track:3dhMAwX7UpdZcxLpD8tpSI"
+  }, {
+    "artist" : "Woodkid",
+    "album" : "The Golden Age",
+    "track" : "Run Boy Run",
+    "uri" : "spotify:track:2YhapA5E1qTZ1Ykw9Y86ql"
+  }, {
+    "artist" : "Mayu Watanabe",
+    "album" : "Best Regards!",
+    "track" : "シンクロときめき",
+    "uri" : "spotify:track:0K3sT3CZsmH1OWBvcFwiZa"
+  }, {
+    "artist" : "Lana Del Rey",
+    "album" : "Honeymoon",
+    "track" : "Salvatore",
+    "uri" : "spotify:track:21qg0IBZf8R12qHd9A3AA4"
+  }, {
+    "artist" : "Mochiii",
+    "album" : "Cánh Hoa Héo Tàn",
+    "track" : "Cánh Hoa Héo Tàn - Domino Remix",
+    "uri" : "spotify:track:5cY01Gpd3FrBbgGmOtSsyW"
+  }, {
+    "artist" : "Dream Theater",
+    "album" : "Octavarium",
+    "track" : "Panic Attack",
+    "uri" : "spotify:track:5axwj3ekvw85989jjO8Ov8"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Kesimpulan Yang Sedikit Membuatku Malu Setelah Beberapa Hari Berpikir Akan Berubah Seperti Apakah Hubungan Kita Jika Di Jalan Penuh Pohon Rindang Kukatakan \"Indahnya Senyum Manismu Dalam Mimpiku\"",
+    "track" : "Indahnya Senyum Manismu dst.",
+    "uri" : "spotify:track:7mk6OHTijenPEQ5dJKa5Ea"
+  }, {
+    "artist" : "Jet",
+    "album" : "Shine On",
+    "track" : "Eleanor",
+    "uri" : "spotify:track:63OijYf8j1CBs0b8y3EXOc"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution XX Anniversary",
+    "track" : "Thoughts of a Dying Atheist (Recorded Live at the Wiltern Theater 2004)",
+    "uri" : "spotify:track:4p0ENKCSGOvdJuUFIr1Q92"
+  }, {
+    "artist" : "Bread",
+    "album" : "Lost Without Your Love",
+    "track" : "Lost Without Your Love",
+    "uri" : "spotify:track:1aRncYBtdizYoVKcSt8oaY"
+  }, {
+    "artist" : "Betharia Sonatha",
+    "album" : "Lagu Terbaik",
+    "track" : "Hati Yang Luka",
+    "uri" : "spotify:track:7uxZ0y0CtnaD2eCX0gFUXu"
+  }, {
+    "artist" : "Maranatha Family",
+    "album" : "Natal Lagu-Lagu Nyanyian Puji Syukur",
+    "track" : "Gita Surga Bergema",
+    "uri" : "spotify:track:3PYS8XeAJ1DskyUenSCsub"
+  }, {
+    "artist" : "DJ Khaled",
+    "album" : "Grateful",
+    "track" : "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+    "uri" : "spotify:track:1OAh8uOEOvTDqkKFsKksCi"
+  }, {
+    "artist" : "Paramore",
+    "album" : "Paramore",
+    "track" : "(One of Those) Crazy Girls",
+    "uri" : "spotify:track:6JmV5cyTQ934NxLY4Z0tg1"
+  }, {
+    "artist" : "The Virgin",
+    "album" : "Yes I Am",
+    "track" : "Cinta Terlarang",
+    "uri" : "spotify:track:3pF1OGQdqegfytyVY0dBeA"
+  }, {
+    "artist" : "Efek Rumah Kaca",
+    "album" : "Efek Rumah Kaca",
+    "track" : "Cinta Melulu",
+    "uri" : "spotify:track:1jwaf6CWAWUrbqAT5mrKrA"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution XX Anniversary",
+    "track" : "Sing For Absolution (Recorded Live at The Antic Arena, Vienne 2004)",
+    "uri" : "spotify:track:6K5ElEqOj4vN6dLtCQVOh2"
+  }, {
+    "artist" : "Claudia De Breij",
+    "album" : "Wat ik zeker weet",
+    "track" : "Hoeveel ik van je hou",
+    "uri" : "spotify:track:0yhS760LQE7TqSsAe9VS6p"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears 20",
+    "track" : "She Has No Time - Demo / October 2002",
+    "uri" : "spotify:track:74HrlcvV73TsqQhASKKQs0"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live Around The World",
+    "track" : "Somebody To Love - Live At The Isle Of Wight Festival, UK, 2016",
+    "uri" : "spotify:track:0bbv6aSL5rcjKCu9Aj2Xxa"
+  }, {
+    "artist" : "Doe Maar",
+    "album" : "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
+    "track" : "Smoorverliefd",
+    "uri" : "spotify:track:0OFLK8St1n4C9smb4s7CKX"
+  }, {
+    "artist" : "Don McLean",
+    "album" : "American Pie",
+    "track" : "Vincent",
+    "uri" : "spotify:track:0VNzEY1G4GLqcNx5qaaTl6"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live In Asunción",
+    "track" : "Perfect Symmetry - Live At Jockey Club del Paraguay, Asunción, Paraguay / 2019",
+    "uri" : "spotify:track:4J6rYjLG3sgb3pIV9XytM7"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "De Singles 1962 - 1965",
+    "track" : "Voor Sonja Doe Ik Alles",
+    "uri" : "spotify:track:6DZPggP0VbjDy0ZtdqrZUQ"
+  }, {
+    "artist" : "John Denver",
+    "album" : "Back Home Again",
+    "track" : "Annie's Song",
+    "uri" : "spotify:track:4J0DbyODwZJcmIAiTSJfMF"
+  }, {
+    "artist" : "Andre Hazes",
+    "album" : "Gewoon Andre",
+    "track" : "Zij Gelooft In Mij",
+    "uri" : "spotify:track:4GrQPpjaZmBf67b9Uh83T8"
+  }, {
+    "artist" : "The Classics",
+    "album" : "Sweet Love to You",
+    "track" : "Sweet Love to You",
+    "uri" : "spotify:track:4m14zvdTl7rG9Sah6K1MLl"
+  }, {
+    "artist" : "The Longshot",
+    "album" : "Love Is for Losers",
+    "track" : "Turn Me Loose",
+    "uri" : "spotify:track:3WUKoji1aweSXxm2ChzjwS"
+  }, {
+    "artist" : "Neck Deep",
+    "album" : "The Peace And The Panic",
+    "track" : "Wish You Were Here",
+    "uri" : "spotify:track:4Ssi6tKwrTHi5qvDndrZRP"
+  }, {
+    "artist" : "Agnetha Fältskog",
+    "album" : "Wrap Your Arms Around Me",
+    "track" : "I Wish Tonight Could Last Forever",
+    "uri" : "spotify:track:1c40EqSeVNbh2JvapyKn8n"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Favorite Son",
+    "uri" : "spotify:track:5MSELgc7iHqHUxv31Z2x4B"
+  }, {
+    "artist" : "Kotak",
+    "album" : "Kotak Kedua",
+    "track" : "Masih Cinta",
+    "uri" : "spotify:track:6ryK8cWzk89UBm42KLHAQU"
+  }, {
+    "artist" : "Avenged Sevenfold",
+    "album" : "Waking The Fallen",
+    "track" : "I Won't See You Tonight Part 1",
+    "uri" : "spotify:track:67w1cb9ESAnCGJkC9hW2nO"
+  }, {
+    "artist" : "The Bangles",
+    "album" : "Different Light",
+    "track" : "Manic Monday",
+    "uri" : "spotify:track:4EhkMUdkAVAsfsjbWU6PPr"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Futures",
+    "track" : "Drugs Or Me",
+    "uri" : "spotify:track:7sGP1e7sW2ErNMm8WcZuV2"
+  }, {
+    "artist" : "Adamlar",
+    "album" : "Rüyalarda Buruşmuşuz",
+    "track" : "Ah Benim Hayatım",
+    "uri" : "spotify:track:4yVcisWyCMo4RPLihvBMTF"
+  }, {
+    "artist" : "Acha Septriasa",
+    "album" : "Heart",
+    "track" : "Sampai Menutup Mata",
+    "uri" : "spotify:track:6RbOugGEsbxhOmNCHJGqLu"
+  }, {
+    "artist" : "Stef Ekkel",
+    "album" : "Liever Te Dik In De Kist",
+    "track" : "Liever Te Dik In De Kist",
+    "uri" : "spotify:track:1pLuLSngbXW9ftvgeSge6E"
+  }, {
+    "artist" : "Roxy Dekker",
+    "album" : "Gaan We Weg?",
+    "track" : "Gaan We Weg?",
+    "uri" : "spotify:track:02nm2yGw7BygWmRcbFhAlC"
+  }, {
+    "artist" : "Muse",
+    "album" : "The Resistance",
+    "track" : "United States of Eurasia (+Collateral Damage)",
+    "uri" : "spotify:track:0tHbQRjL5phd8OoYl2Bdnd"
+  }, {
+    "artist" : "Muse",
+    "album" : "Live at Rome Olympic Stadium",
+    "track" : "Resistance - Live at Rome Olympic Stadium",
+    "uri" : "spotify:track:2h9iS5iELVA2jKtaY9DFgZ"
+  }, {
+    "artist" : "Payung Teduh",
+    "album" : "Payung Teduh",
+    "track" : "Kucari Kamu",
+    "uri" : "spotify:track:11m2Qis3Q4uX3pBKjYefAc"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Awesome as Fuck",
+    "track" : "21 Guns - Live at Shoreline Amphitheatre, Mountain View, CA, 9/4/10",
+    "uri" : "spotify:track:4sVDOSKAy5pNijbuJMOjKE"
+  }, {
+    "artist" : "Chrisye",
+    "album" : "Sendiri",
+    "track" : "Sendiri",
+    "uri" : "spotify:track:7nGPIJ1LzrM4tA6BchegLu"
+  }, {
+    "artist" : "Ardhito Pramono",
+    "album" : "a letter to my 17 year old (Live Studio Session)",
+    "track" : "superstar ( Live Studio Session)",
+    "uri" : "spotify:track:28t8eAKSzMnUZGloIaWxdI"
+  }, {
+    "artist" : "Erwin Gutawa",
+    "album" : "SYMPHONESIA",
+    "track" : "Menghitung Hari",
+    "uri" : "spotify:track:5tO9lph9uttWJdyNqT8Uhk"
+  }, {
+    "artist" : "Rio Clappy",
+    "album" : "Bunga Abadi",
+    "track" : "Bunga Abadi",
+    "uri" : "spotify:track:70Wtp9jCA3ZhGAxV0pnwS7"
+  }, {
+    "artist" : "Mahalini",
+    "album" : "Melawan Restu",
+    "track" : "Melawan Restu",
+    "uri" : "spotify:track:6shEr6AgLBDlfYlax2UzzL"
+  }, {
+    "artist" : "Radiohead",
+    "album" : "OK Computer",
+    "track" : "Paranoid Android",
+    "uri" : "spotify:track:6LgJvl0Xdtc73RJ1mmpotq"
+  }, {
+    "artist" : "Elton John",
+    "album" : "Blue Moves",
+    "track" : "Sorry Seems To Be The Hardest Word",
+    "uri" : "spotify:track:6XfxmT5QNCXvpZA6PKfWVL"
+  }, {
+    "artist" : "Seventeen",
+    "album" : "5ang Juara",
+    "track" : "Memikirkan Dia",
+    "uri" : "spotify:track:5iMfzmZXyTPJSuWA1Wg8Gi"
+  }, {
+    "artist" : "Ndarboy Genk",
+    "album" : "Mendung Tanpo Udan",
+    "track" : "Mendung Tanpo Udan",
+    "uri" : "spotify:track:0Z54rUZ81Vn0qphFR3jXUb"
+  }, {
+    "artist" : "Kok Viral",
+    "album" : "DJ Pak Cepak Cepak Jeder",
+    "track" : "DJ Pak Cepak Cepak Jeder",
+    "uri" : "spotify:track:6FsjmI5JI3IOlz5fAa6Ox4"
+  }, {
+    "artist" : "Stephen Sondheim",
+    "album" : "Company",
+    "track" : "Being Alive",
+    "uri" : "spotify:track:4GDSnxxtmIyVS4Twl7Y7UB"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "99 Volume 1",
+    "track" : "Sakit Minta Ampun",
+    "uri" : "spotify:track:44zYGs9fMqi0VU4fohkXAP"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Rapsodi",
+    "track" : "Sweet & Bitter",
+    "uri" : "spotify:track:00qtXpYwn757vgDjrwjd3k"
+  }, {
+    "artist" : "Tanju Okan",
+    "album" : "Bir Zamanlar",
+    "track" : "Öyle Sarhoş Olsam ki",
+    "uri" : "spotify:track:3iMBeyqsQSKjtT8G6wencW"
+  }, {
+    "artist" : "Ben Platt",
+    "album" : "Music From The Netflix Original Series The Politician",
+    "track" : "River",
+    "uri" : "spotify:track:6AhoLcPx9fkz8BRqCZtZTL"
+  }, {
+    "artist" : "Victor Hutabarat",
+    "album" : "Damai Sukacita Natal",
+    "track" : "Gita Sorga Bergema",
+    "uri" : "spotify:track:21Mrar9UQSJM9wjxvAuWnt"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live At Wembley Stadium",
+    "track" : "Friends Will Be Friends - Live At Wembley Stadium / July 1986",
+    "uri" : "spotify:track:41BwRC6nMwRsJddPyEkzqS"
+  }, {
+    "artist" : "Pinhani",
+    "album" : "İnandığın Masallar",
+    "track" : "Dön Bak Dünyaya",
+    "uri" : "spotify:track:7jasmsYWsjrsXTIDI5RApZ"
+  }, {
+    "artist" : "Athena",
+    "album" : "Athena",
+    "track" : "Skalonga",
+    "uri" : "spotify:track:6TIqxLdKVLvtUXf5joBdr2"
+  }, {
+    "artist" : "Electric Light Orchestra",
+    "album" : "Out of the Blue",
+    "track" : "Mr. Blue Sky",
+    "uri" : "spotify:track:2RlgNHKcydI9sayD2Df2xp"
+  }, {
+    "artist" : "Jaap Reesema",
+    "album" : "Als Je Voor Me Staat",
+    "track" : "Nu Wij Niet Meer Praten",
+    "uri" : "spotify:track:2DcgyrzipwNRBuAw9nzpDG"
+  }, {
+    "artist" : "Judika",
+    "album" : "Hati & Cinta",
+    "track" : "Apakah Ini Cinta",
+    "uri" : "spotify:track:4d6BC9xLU0UONa75k2mGqn"
+  }, {
+    "artist" : "The Mamas & The Papas",
+    "album" : "The Papas & The Mamas",
+    "track" : "Dream A Little Dream Of Me",
+    "uri" : "spotify:track:27hhIs2fp6w06N5zx4Eaa5"
+  }, {
+    "artist" : "NonaRia",
+    "album" : "NonaRia",
+    "track" : "Santai",
+    "uri" : "spotify:track:5THJJnQC4jKqdE0FFwD7Ud"
+  }, {
+    "artist" : "Plain White T's",
+    "album" : "All That We Needed",
+    "track" : "Hey There Delilah",
+    "uri" : "spotify:track:4RCWB3V8V0dignt99LZ8vH"
+  }, {
+    "artist" : "John West",
+    "album" : "Jouw Blik",
+    "track" : "Jouw Blik",
+    "uri" : "spotify:track:3kkb0mHyZJTFGrzaUscnkh"
+  }, {
+    "artist" : "The Adams",
+    "album" : "The Adams",
+    "track" : "Konservatif",
+    "uri" : "spotify:track:7qUkZhXym0LCTdcmwhGO3b"
+  }, {
+    "artist" : "alt-J",
+    "album" : "RELAXER",
+    "track" : "In Cold Blood",
+    "uri" : "spotify:track:5QD4hHEv8812JagZlH1MMy"
+  }, {
+    "artist" : "Dewa",
+    "album" : "Bintang Lima",
+    "track" : "Risalah Hati",
+    "uri" : "spotify:track:0cc9lgdfHqeS8t9BzbFFmj"
+  }, {
+    "artist" : "Jennifer Hudson",
+    "album" : "The Star-Spangled Banner",
+    "track" : "The Star-Spangled Banner - The National Anthem - As Performed At Super Bowl XLIII",
+    "uri" : "spotify:track:3rbvFYj6E1kJmYFdMpNecK"
+  }, {
+    "artist" : "Queen",
+    "album" : "Greatest Hits III",
+    "track" : "No One But You (Only The Good Die Young)",
+    "uri" : "spotify:track:6r862ZdyJEHbiZsBOd186U"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "With The Beatles",
+    "track" : "Till There Was You - Remastered 2009",
+    "uri" : "spotify:track:0ESIjVxnDnCDaTPo6sStHm"
+  }, {
+    "artist" : "André Hazes Jr.",
+    "album" : "Wijzer",
+    "track" : "Ik Haal Alles Uit Het Leven",
+    "uri" : "spotify:track:3y89jgmYORQ5OLXC3HUafs"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Arrival",
+    "track" : "Dum Dum Diddle",
+    "uri" : "spotify:track:5Ale7Htu2SdvOcBwlEdGhZ"
+  }, {
+    "artist" : "JANNABI",
+    "album" : "LEGEND",
+    "track" : "dreams, books, power and walls",
+    "uri" : "spotify:track:1deQhoZakgMT5fw0t9zliD"
+  }, {
+    "artist" : "Lyube",
+    "album" : "Рассея",
+    "track" : "Гимн России",
+    "uri" : "spotify:track:347t8aXVXd7c7ExYgCuzzX"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live Around The World",
+    "track" : "Bohemian Rhapsody - Live At Fire Fight Australia, ANZ Stadium, Sydney, Australia, 2020",
+    "uri" : "spotify:track:6KOhAOGfS5n0HwHHEWKuuU"
+  }, {
+    "artist" : "Ardhito Pramono",
+    "album" : "Roadtrip",
+    "track" : "Dreams",
+    "uri" : "spotify:track:5TwYmXgpOzJ7VZxWYfwfSQ"
+  }, {
+    "artist" : "Carpenters",
+    "album" : "A Kind Of Hush",
+    "track" : "There's A Kind Of Hush",
+    "uri" : "spotify:track:1D4cqpBqMQDYzwj5kxpMXy"
+  }, {
+    "artist" : "Dewa 19",
+    "album" : "Kerajaan Cinta",
+    "track" : "Kangen",
+    "uri" : "spotify:track:5LqanqJSmZwbwPtIi2RwTb"
+  }, {
+    "artist" : "Muse",
+    "album" : "Unintended",
+    "track" : "Recess",
+    "uri" : "spotify:track:7kxoJJy2SehMjJjm29dKZy"
+  }, {
+    "artist" : "Rex Orange County",
+    "album" : "Pony",
+    "track" : "Pluto Projector",
+    "uri" : "spotify:track:4EWBhKf1fOFnyMtUzACXEc"
+  }, {
+    "artist" : "Saint Motel",
+    "album" : "Voyeur",
+    "track" : "Puzzle Pieces",
+    "uri" : "spotify:track:2Zd9awmsA8KuF65snhz7YH"
+  }, {
+    "artist" : "Gogol Bordello",
+    "album" : "Gypsy Punks: Underdog World Strike",
+    "track" : "Start Wearing Purple",
+    "uri" : "spotify:track:2yn7MpYBdqhNSnN6lQCLaa"
+  }, {
+    "artist" : "DJ Haning",
+    "album" : "Jedag Jedug",
+    "track" : "Jedag Jedug",
+    "uri" : "spotify:track:4gybr75cczyvRHnnW6i9i4"
+  }, {
+    "artist" : "AKB48",
+    "album" : "ここがロドスだ、ここで跳べ!<Type A>【初回限定盤】",
+    "track" : "Birth(大和田南那、川本紗矢、北川綾巴、後藤萌咲、坂口渚沙、田島芽瑠、田中美久、朝長美緒、中野郁海、西野未姫、矢吹奈子)",
+    "uri" : "spotify:track:4hwlyT6SBjPDHW44c3MAPi"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen",
+    "track" : "Seven Seas Of Rhye - Remastered 2011",
+    "uri" : "spotify:track:6Si9ImvDVWAgjX3pfsldGM"
+  }, {
+    "artist" : "Simon & Garfunkel",
+    "album" : "Bridge Over Troubled Water",
+    "track" : "Bridge Over Troubled Water",
+    "uri" : "spotify:track:6l8EbYRtQMgKOyc1gcDHF9"
+  }, {
+    "artist" : "NWP",
+    "album" : "Dj Kanan Kiri Kanan Kiri",
+    "track" : "Dj Kanan Kiri Kanan Kiri",
+    "uri" : "spotify:track:2zhdSEPU2Eg46woS3jAyFh"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Met Je Ogen Dicht",
+    "track" : "Foto Van Vroeger",
+    "uri" : "spotify:track:2WIBgSc2K8bvTrc8SuEkOA"
+  }, {
+    "artist" : "Coast Modern",
+    "album" : "Dive",
+    "track" : "Dive",
+    "uri" : "spotify:track:3ezHsjftL6BdBL0uHOMOrd"
+  }, {
+    "artist" : "Keane",
+    "album" : "Somewhere Only We Know",
+    "track" : "Somewhere Only We Know - At Home Version",
+    "uri" : "spotify:track:3SVvW1Cxdhye4aiZOitLrE"
+  }, {
+    "artist" : "Don McLean",
+    "album" : "American Pie",
+    "track" : "Crossroads",
+    "uri" : "spotify:track:29OH7CQfqbPXdW4zgLlHt7"
+  }, {
+    "artist" : "Payung Teduh",
+    "album" : "Ruang Tunggu",
+    "track" : "Selalu Muda",
+    "uri" : "spotify:track:1UytIUDfvnat7ATY6s99WW"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Waterloo",
+    "track" : "Hasta Manana",
+    "uri" : "spotify:track:0ymYtcrJsfwI4y5Zdsj0WB"
+  }, {
+    "artist" : "Hip Hop Jawa",
+    "album" : "Picek Matamu Lali Konco",
+    "track" : "Picek Matamu Lali Konco",
+    "uri" : "spotify:track:4bfdHTfIGBl2Q4zZd5gj8S"
+  }, {
+    "artist" : "Liliane Saint-Pierre",
+    "album" : "Back in Time",
+    "track" : "We Gotta Stop",
+    "uri" : "spotify:track:3w0sTjHc6hqUssaclC7zS8"
+  }, {
+    "artist" : "HKT48",
+    "album" : "092",
+    "track" : "お願いヴァレンティヌ",
+    "uri" : "spotify:track:4NbUqEJnGQAEDvfb1LB5V3"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Yesus Putra Maria",
+    "uri" : "spotify:track:6GBvEgA1mLm6gomNg6aHZo"
+  }, {
+    "artist" : "Rauf & Faik",
+    "album" : "Я люблю тебя",
+    "track" : "Детство",
+    "uri" : "spotify:track:381kyofsIJKajRfX9iKLs8"
+  }, {
+    "artist" : "Danilla",
+    "album" : "Telisik (lagi)",
+    "track" : "Berdistraksi",
+    "uri" : "spotify:track:03y7TyEaDG5Re1dJVPsYXc"
+  }, {
+    "artist" : "Sertab Erener",
+    "album" : "Rengârenk",
+    "track" : "Bir Çaresi Bulunur",
+    "uri" : "spotify:track:3ebjR1dkhUhMwQ8NLYsAQ3"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Waterloo",
+    "track" : "Hasta Mañana - Spanish Version",
+    "uri" : "spotify:track:5r5IiLSBhMJ9mo77C3ZrJb"
+  }, {
+    "artist" : "ABBA",
+    "album" : "The Visitors",
+    "track" : "Under Attack",
+    "uri" : "spotify:track:3MsQJQPi172pXgXcYGlenx"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears 20",
+    "track" : "Sunshine - Demo / February 2002",
+    "uri" : "spotify:track:5OlhtqU3Wj3WJWq7L39NoK"
+  }, {
+    "artist" : "Carpenters",
+    "album" : "Carpenters With The Royal Philharmonic Orchestra",
+    "track" : "Top Of The World",
+    "uri" : "spotify:track:5ylU2GruSTLu4R9iJMIYmb"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "Mulan Jameela",
+    "track" : "Aku Cinta Kau Dan Dia",
+    "uri" : "spotify:track:3BKehphw1I3WXff9Kn27iW"
+  }, {
+    "artist" : "A Day To Remember",
+    "album" : "What Separates Me From You",
+    "track" : "All I Want",
+    "uri" : "spotify:track:3imITUqEhkebNbOoS1yrWm"
+  }, {
+    "artist" : "Foxboro Hottubs",
+    "album" : "Stop Drop And Roll!!!",
+    "track" : "Mother Mary",
+    "uri" : "spotify:track:5KcgqKXySkWnh4cZ4vG2A8"
+  }, {
+    "artist" : "Pamungkas",
+    "album" : "Walk the Talk",
+    "track" : "Monolog",
+    "uri" : "spotify:track:1zu5ZpnrSArdoaT6Qq3yo9"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Zonder Jou - Live",
+    "uri" : "spotify:track:099sCLMQkhQtoK0EDPGYLQ"
+  }, {
+    "artist" : "Tere",
+    "album" : "Awal Yang Indah",
+    "track" : "Sendiri",
+    "uri" : "spotify:track:02aqZ2LcrnbORUTN4e1xpy"
+  }, {
+    "artist" : "Keane",
+    "album" : "Retroactive - EP3",
+    "track" : "Sunshine - Demo / February 2002",
+    "uri" : "spotify:track:35O2wBTDlSfHoNI7p0pSrx"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee Love Songs",
+    "track" : "Stereo Hearts - Cover of Gym Class Heros feat. Adam Levine",
+    "uri" : "spotify:track:2M0627dznvRUfgc6jp7cst"
+  }, {
+    "artist" : "Hoobastank",
+    "album" : "The Reason",
+    "track" : "Out Of Control",
+    "uri" : "spotify:track:6mjHiGwrRGE8LVCXVc5QDU"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears 20",
+    "track" : "Sunshine - Remastered 2024",
+    "uri" : "spotify:track:4gECm7B4n7MmVtxZESt2J3"
+  }, {
+    "artist" : "Agnetha Fältskog",
+    "album" : "My Colouring Book",
+    "track" : "If I Thought You'd Ever Change Your Mind",
+    "uri" : "spotify:track:7o8cXOqiCTlC7x2gERvWxM"
+  }, {
+    "artist" : "AKB48",
+    "album" : "次の足跡 Type A <初回限定盤>",
+    "track" : "さよならクロール",
+    "uri" : "spotify:track:0oVF6jeL7qg7dcZo2gVdB1"
+  }, {
+    "artist" : "Josh Groban",
+    "album" : "Closer",
+    "track" : "Hymne à l'amour",
+    "uri" : "spotify:track:4S8lAig0iGkXPlxGim3gPS"
+  }, {
+    "artist" : "Ashira Zamita",
+    "album" : "Kekasih Impian",
+    "track" : "Kekasih Impian",
+    "uri" : "spotify:track:28vdWYNK4XPMd88MaMH9a9"
+  }, {
+    "artist" : "Céline Dion",
+    "album" : "Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+    "track" : "Hymne à l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
+    "uri" : "spotify:track:4hPz8nqYC8yG7X29imHEv5"
+  }, {
+    "artist" : "Maranatha Family",
+    "album" : "Natal Lagu-Lagu Nyanyian Puji Syukur",
+    "track" : "Malam Kudus",
+    "uri" : "spotify:track:5hrhSRUZ4pXrO56rP4UAUI"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Gerangan Bayi Apakah",
+    "uri" : "spotify:track:3yZabYInx5RW3PphtC7F8V"
+  }, {
+    "artist" : "Sam Smith",
+    "album" : "Spotify Singles",
+    "track" : "Burning - Recorded At RAK Studios, London",
+    "uri" : "spotify:track:6lOQn2bDMHo7Xi9fRQKzq5"
+  }, {
+    "artist" : "Adit Permana",
+    "album" : "Jedag Jedug Viral",
+    "track" : "Jedag Jedug Viral",
+    "uri" : "spotify:track:5V0KSA0AnlujE0uBusvVMN"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "The First Noel",
+    "uri" : "spotify:track:6Lu8BYRVgnlgEj65RvpFdH"
+  }, {
+    "artist" : "Lorde",
+    "album" : "Melodrama",
+    "track" : "Homemade Dynamite",
+    "uri" : "spotify:track:02oAUzv4M0ItuTDy2RT3IT"
+  }, {
+    "artist" : "Jeff Buckley",
+    "album" : "Grace",
+    "track" : "Hallelujah",
+    "uri" : "spotify:track:3pRaLNL3b8x5uBOcsgvdqM"
+  }, {
+    "artist" : "Seventeen",
+    "album" : "Dunia Yang Indah",
+    "track" : "Tanpa Pesan Terakhir",
+    "uri" : "spotify:track:4v9JJX3ZzuFFOKrMOYHTVZ"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "Revolver",
+    "track" : "Here, There And Everywhere - Remastered 2009",
+    "uri" : "spotify:track:2B4Y9u4ERAFiMo13XPJyGP"
+  }, {
+    "artist" : "Sal Priadi",
+    "album" : "Mencintaimu",
+    "track" : "Mencintaimu",
+    "uri" : "spotify:track:26aNjbOgTVrFZEx7was69A"
+  }, {
+    "artist" : "Get Scared",
+    "album" : "Built for Blame, Laced With Shame - Spotify Exclusive",
+    "track" : "Keep Myself Alive",
+    "uri" : "spotify:track:7oVSeyiX1W2RVdkkLKeSvg"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "99 Volume 1",
+    "track" : "Abracadabra",
+    "uri" : "spotify:track:08F2f8SFFC5UwPC3vo15he"
+  }, {
+    "artist" : "Franz Xaver Gruber",
+    "album" : "Traditional Christmas Music",
+    "track" : "Silent Night",
+    "uri" : "spotify:track:60LcgaCzqG38Abahsdwcou"
+  }, {
+    "artist" : "Miss Montreal",
+    "album" : "The Singles Collection",
+    "track" : "Hoe",
+    "uri" : "spotify:track:3w3IGsMYKM4pXZIYIBW3Gk"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Chiquitita",
+    "track" : "Chiquitita - from ABBA In Concert",
+    "uri" : "spotify:track:4UXahJByiJThkcWKVui7bd"
+  }, {
+    "artist" : "Louie Smith",
+    "album" : "Can't Live If Living Is Without You",
+    "track" : "Can't Live If Living Is Without You",
+    "uri" : "spotify:track:3rXGnNJFCUYEnx6sH3L3Ob"
+  }, {
+    "artist" : "Radiohead",
+    "album" : "OK Computer",
+    "track" : "No Surprises",
+    "uri" : "spotify:track:10nyNJ6zNy2YVYLrcwLccB"
+  }, {
+    "artist" : "Edu Sitepu XDS",
+    "album" : "Parjamban",
+    "track" : "Paha dan Dada",
+    "uri" : "spotify:track:29j1ifm0UbJjz6fXFie2Td"
+  }, {
+    "artist" : "BENNETT",
+    "album" : "Vois sur ton chemin",
+    "track" : "Vois sur ton chemin - DnB Remix",
+    "uri" : "spotify:track:7cmJwhf4ERDBJPTe2ab8eW"
+  }, {
+    "artist" : "Keane",
+    "album" : "Strangeland",
+    "track" : "Sovereign Light Café",
+    "uri" : "spotify:track:4QRkCwqwHFaZ7xeoR9CHL6"
+  }, {
+    "artist" : "Muse",
+    "album" : "Origin of Symmetry",
+    "track" : "New Born",
+    "uri" : "spotify:track:2VrJMuLt2m9HbifGrKWHqk"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Met Je Ogen Dicht",
+    "track" : "Alleen Is Maar Alleen",
+    "uri" : "spotify:track:3W1e1txgsViGSxcuzqMj7R"
+  }, {
+    "artist" : "Scorpions",
+    "album" : "Live Bites",
+    "track" : "When The Smoke Is Going Down - Live",
+    "uri" : "spotify:track:0C9eI0xwHF5n1W5fDpve6i"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Bleed American",
+    "track" : "Bleed American",
+    "uri" : "spotify:track:61XspFITuKmAlYdQacNCbF"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution",
+    "track" : "Thoughts of a Dying Atheist",
+    "uri" : "spotify:track:7LB6xhGZ0jCbP3PfUDA7yw"
+  }, {
+    "artist" : "Jimmy Eat World",
+    "album" : "Futures",
+    "track" : "Pain",
+    "uri" : "spotify:track:2WhDg8UWljoAl8oNh8uZbJ"
+  }, {
+    "artist" : "Muse",
+    "album" : "The Resistance",
+    "track" : "Unnatural Selection",
+    "uri" : "spotify:track:28FJMlLUu9NHuwlZWFKDn7"
+  }, {
+    "artist" : "Air Supply",
+    "album" : "Now And Forever",
+    "track" : "Even the Nights Are Better",
+    "uri" : "spotify:track:09bRmFRViBORKQ2miwp04P"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "Sgt. Pepper's Lonely Hearts Club Band",
+    "track" : "Penny Lane - Stereo Mix 2017",
+    "uri" : "spotify:track:7k1gXoiBTddulMBVlKuJIs"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Hé Speelman / Zet Een Kaars Voor Je Raam Vannacht / Zuster Ursula / Jan Klaassen - Live",
+    "uri" : "spotify:track:2tOjZ5k6UzUgUb52tJ76EY"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Gembiralah Saudara",
+    "uri" : "spotify:track:2NAgmUFYKqy8r7mQncHVON"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Whatsername",
+    "uri" : "spotify:track:6CVWD0WRqwbR4HsiKHk1j3"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Nimrod",
+    "track" : "When It’s Time - Demo",
+    "uri" : "spotify:track:5Wm8DZvy88usJDbkZ5IdrL"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "Abbey Road",
+    "track" : "Something - Remastered",
+    "uri" : "spotify:track:7oSUp4yZ0FbuSvVmCxH2ty"
+  }, {
+    "artist" : "Maranatha Family",
+    "album" : "Natal Lagu-Lagu Nyanyian Puji Syukur",
+    "track" : "Para Malaikat Bernyanyi",
+    "uri" : "spotify:track:3eVkjayHQJlnMpJ37Bfhxn"
+  }, {
+    "artist" : "The Strokes",
+    "album" : "Room On Fire",
+    "track" : "Reptilia",
+    "uri" : "spotify:track:57Xjny5yNzAcsxnusKmAfA"
+  }, {
+    "artist" : "Queen",
+    "album" : "A Day At The Races",
+    "track" : "The Millionaire Waltz - Remastered 2011",
+    "uri" : "spotify:track:4byYaWrhnyZO5hujb3Qx53"
+  }, {
+    "artist" : "Bobby Brown",
+    "album" : "Don't Be Cruel",
+    "track" : "Every Little Step",
+    "uri" : "spotify:track:77jafF0LW3uR4CDx04OK3F"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Arrival",
+    "track" : "Why Did It Have To Be Me?",
+    "uri" : "spotify:track:65EhfozJEurgR34SyrNV3P"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Hey Mamma / Anna Paulowna / Sonja / Ritme Van De Regen - Live",
+    "uri" : "spotify:track:3kwI4WA56EHTyjfQZmTWt6"
+  }, {
+    "artist" : "System Of A Down",
+    "album" : "Hypnotize",
+    "track" : "Soldier Side",
+    "uri" : "spotify:track:1ez4uWPnJwYufNhYTLVsJr"
+  }, {
+    "artist" : "Memory Lane",
+    "album" : "Remember 1972: A Trip Down Memory Lane...",
+    "track" : "Alone Again (Naturally)",
+    "uri" : "spotify:track:5JdzZtZ1KxfiOWAmAxOC2K"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "Evil Friends",
+    "track" : "Modern Jesus",
+    "uri" : "spotify:track:7iOyMOxdOULvXqUqC26spJ"
+  }, {
+    "artist" : "Roxy Dekker",
+    "album" : "Anne-Fleur Vakantie",
+    "track" : "Anne-Fleur Vakantie",
+    "uri" : "spotify:track:3nmLhV0YJNqmExxHcrzhFU"
+  }, {
+    "artist" : "Dream Theater",
+    "album" : "Octavarium",
+    "track" : "Panic Attack - 2009 Remaster",
+    "uri" : "spotify:track:1Wjv9DU0smGPmUXrzDEezL"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Abba",
+    "track" : "I've Been Waiting For You",
+    "uri" : "spotify:track:3F2sMDeuhueiBpDqEbRhCF"
+  }, {
+    "artist" : "The Prodigy",
+    "album" : "Invaders Must Die",
+    "track" : "O",
+    "uri" : "spotify:track:4FbbLeFZHry6ajZzBbeh1B"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Revolution Radio",
+    "track" : "Ordinary World",
+    "uri" : "spotify:track:35weSxL477aChs1wx7oZS5"
+  }, {
+    "artist" : "Freddie Mercury",
+    "album" : "Never Boring",
+    "track" : "Time Waits For No One",
+    "uri" : "spotify:track:0UkCqv8ec7D1W3uGzZa1CP"
+  }, {
+    "artist" : "ABBA",
+    "album" : "ABBA Gold",
+    "track" : "Money, Money, Money",
+    "uri" : "spotify:track:29FNeqjOV2kPWGS55qhtGB"
+  }, {
+    "artist" : "Simple Plan",
+    "album" : "Get Your Heart On!",
+    "track" : "Astronaut",
+    "uri" : "spotify:track:3y2kWqVwRjwU49sbz5QGRD"
+  }, {
+    "artist" : "Ebiet G. Ade",
+    "album" : "Camellia 4",
+    "track" : "Titip Rindu Buat Ayah",
+    "uri" : "spotify:track:3meMrWmiIPjlidIkRx9ndv"
+  }, {
+    "artist" : "Chrisye",
+    "album" : "Aku Cinta Dia",
+    "track" : "Aku Cinta Dia",
+    "uri" : "spotify:track:4fDWO9Z69ydDGbtB1xMsCn"
+  }, {
+    "artist" : "BLØF",
+    "album" : "Hier - Het Beste Van 20 Jaar BLØF",
+    "track" : "Alles Is Liefde",
+    "uri" : "spotify:track:4zdf0FuRioClijrZyAou9i"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "99 Volume 1",
+    "track" : "Cinta Mati, Pt. 3",
+    "uri" : "spotify:track:04DEVtU7IoCJAXfhY7uOLu"
+  }, {
+    "artist" : "Ucil Fvnky",
+    "album" : "Di Dunia Ini Tenang Aja",
+    "track" : "Di Dunia Ini Tenang Aja",
+    "uri" : "spotify:track:0WOuRYndtOzqUWcuJXG8gR"
+  }, {
+    "artist" : "DJ Breakbeats",
+    "album" : "Satru",
+    "track" : "Satru",
+    "uri" : "spotify:track:4zqcO2zxLNL5TKNeUZ2q6E"
+  }, {
+    "artist" : "Queen",
+    "album" : "A Night At The Opera",
+    "track" : "Lazing On A Sunday Afternoon - Remastered 2011",
+    "uri" : "spotify:track:1DL2gvMBTCFmg2dREI9Lwp"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "Dancing Queen - Live",
+    "uri" : "spotify:track:7uCt8IA0PnfsEoTMk7By1Q"
+  }, {
+    "artist" : "Saint Motel",
+    "album" : "My Type EP",
+    "track" : "Cold Cold Man",
+    "uri" : "spotify:track:7AN4zvlHUTqpl25bqOhFcG"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "If It Wasn't For The Nights - Live",
+    "uri" : "spotify:track:3GcRxtoMaxXe4zjvRLzZlr"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Rapsodi",
+    "track" : "Rapsodi",
+    "uri" : "spotify:track:0WwLkbYBjwPYoEKegzOYVu"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "Songbook",
+    "track" : "Nothing Rhymed - Songbook Version",
+    "uri" : "spotify:track:6dbdMH662roi1XddGb0tVm"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Malam Kudus",
+    "uri" : "spotify:track:1QrR875T6NX0hNIF1mAeex"
+  }, {
+    "artist" : "Muse",
+    "album" : "Black Holes and Revelations",
+    "track" : "Invincible",
+    "uri" : "spotify:track:2zmR3FG7iOGDAdwrVPzdg9"
+  }, {
+    "artist" : "Ariana Grande",
+    "album" : "God is a woman",
+    "track" : "God is a woman",
+    "uri" : "spotify:track:0DOe3Bfu8BJkBY9TaVLqG7"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live Around The World",
+    "track" : "Don't Stop Me Now - Live At Rock In Rio, Lisbon, Portugal, 2016",
+    "uri" : "spotify:track:0OMHIc3h1jXfR6V4GKVVAg"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Hai Kota Mungil Bethlehem",
+    "uri" : "spotify:track:09KPjBKt6mLbUw5FREJlDN"
+  }, {
+    "artist" : "Dawn",
+    "album" : "Legends",
+    "track" : "Tie a Yellow Ribbon Round the Ole Oak Tree (feat. Tony Orlando)",
+    "uri" : "spotify:track:2EnzSQ4CcxxpBrTGvS85Wz"
+  }, {
+    "artist" : "Clare Burt",
+    "album" : "Annie",
+    "track" : "You're Never Fully Dressed Without a Smile",
+    "uri" : "spotify:track:7r4HJDpFNAn3mVTKaJaXzZ"
+  }, {
+    "artist" : "My Chemical Romance",
+    "album" : "I Don't Love You",
+    "track" : "Cancer - Live at O2 Music-Flash, E-Werk, Berlin, Germany, 10/14/2006",
+    "uri" : "spotify:track:1JasJeYDkyO21pKlyHoDnh"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live At Wembley Stadium",
+    "track" : "Bohemian Rhapsody - Live At Wembley Stadium / July 1986",
+    "uri" : "spotify:track:2XbcujvemK0hGh0Ob4HAXQ"
+  }, {
+    "artist" : "Bad Suns",
+    "album" : "Disappear Here",
+    "track" : "Swimming in the Moonlight",
+    "uri" : "spotify:track:4cevHqmQmzCqFer1R9NTL4"
+  }, {
+    "artist" : "JKT48",
+    "album" : "Pajama Drive",
+    "track" : "Jurus Rahasia Teleport",
+    "uri" : "spotify:track:6T9Mo2AWa9JeMdlW8VLKJ8"
+  }, {
+    "artist" : "Foster The People",
+    "album" : "Sacred Hearts Club",
+    "track" : "Sit Next to Me",
+    "uri" : "spotify:track:4BdGO1CaObRD4La9l5Zanz"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution",
+    "track" : "Ruled by Secrecy",
+    "uri" : "spotify:track:4o4xJOBtK5keCSzmrEVP6K"
+  }, {
+    "artist" : "Muse",
+    "album" : "Black Holes and Revelations",
+    "track" : "Exo-Politics",
+    "uri" : "spotify:track:20vZII9Yu52czI9Fk4p39r"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Het Werd Zomer - Live",
+    "uri" : "spotify:track:5cORFCjd3iVfIXKIHFeIeH"
+  }, {
+    "artist" : "J-Rocks",
+    "album" : "Topeng Sahabat",
+    "track" : "Berharap Kau Kembali",
+    "uri" : "spotify:track:0s2WlCbHephai1tCj58f8Q"
+  }, {
+    "artist" : "Rio Febrian",
+    "album" : "Aku Bertahan",
+    "track" : "Aku Bertahan",
+    "uri" : "spotify:track:0uG4W1mvsLHMrjOaxbrEqo"
+  }, {
+    "artist" : "Marco Borsato",
+    "album" : "Marco",
+    "track" : "Dromen Zijn Bedrog",
+    "uri" : "spotify:track:2o4iWZOFE8kkl0tK66WADw"
+  }, {
+    "artist" : "Carpenters",
+    "album" : "A Song For You",
+    "track" : "Top Of The World",
+    "uri" : "spotify:track:1Ehdm1PDlKrdfyBsjwEvd1"
+  }, {
+    "artist" : "Jikustik",
+    "album" : "Siang",
+    "track" : "Puisi",
+    "uri" : "spotify:track:4XmNQ2LLbVq8MDn8MG8HUS"
+  }, {
+    "artist" : "The Longshot",
+    "album" : "Love Is for Losers",
+    "track" : "Goodbye To Romance",
+    "uri" : "spotify:track:4WRM2bqX7NJtT4w82VcYF1"
+  }, {
+    "artist" : "Escape the Fate",
+    "album" : "This War Is Ours",
+    "track" : "Harder Than You Know",
+    "uri" : "spotify:track:354bs7EDkFxcmQYcKB6ya6"
+  }, {
+    "artist" : "Rocket Rockers",
+    "album" : "April",
+    "track" : "April - Cover",
+    "uri" : "spotify:track:3FALdtKv5JSKImZllidgSt"
+  }, {
+    "artist" : "J-Rocks",
+    "album" : "Topeng Sahabat",
+    "track" : "Ceria",
+    "uri" : "spotify:track:10RtTP5oG5coNZK0sxrbUP"
+  }, {
+    "artist" : "Intan Nuraini",
+    "album" : "Salut",
+    "track" : "Gubrak!!",
+    "uri" : "spotify:track:0BWFi7gy6VXiYaGGJv3Pkz"
+  }, {
+    "artist" : "Pusakata",
+    "album" : "Ruang Tunggu",
+    "track" : "Ruang Tunggu",
+    "uri" : "spotify:track:6TpTSCn6IoqarfvZiQikne"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "DAMN.",
+    "track" : "HUMBLE.",
+    "uri" : "spotify:track:7KXjTSCq5nL1LoYtL7XAwS"
+  }, {
+    "artist" : "Luis Miguel",
+    "album" : "Romance",
+    "track" : "La Mentira",
+    "uri" : "spotify:track:3wogsSWyEEu5eVgLqUqySF"
+  }, {
+    "artist" : "Hoobastank",
+    "album" : "Hoobastank: Live From The Wiltern",
+    "track" : "The Reason - Live From The Wiltern",
+    "uri" : "spotify:track:3cgFW1luvogicYSIAloxut"
+  }, {
+    "artist" : "Don McLean",
+    "album" : "American Pie",
+    "track" : "American Pie",
+    "uri" : "spotify:track:1fDsrQ23eTAVFElUMaf38X"
+  }, {
+    "artist" : "Maranatha Family",
+    "album" : "Natal Lagu-Lagu Nyanyian Puji Syukur",
+    "track" : "Hai Siarkan Di Gunung",
+    "uri" : "spotify:track:1O0gcMPccZ9eNNi8vFQl3k"
+  }, {
+    "artist" : "Olivia Newton-John",
+    "album" : "Grease",
+    "track" : "Hopelessly Devoted To You - From “Grease”",
+    "uri" : "spotify:track:5BUq9bdtsm3LWw5laJeJ4R"
+  }, {
+    "artist" : "Taylor Swift",
+    "album" : "reputation",
+    "track" : "Look What You Made Me Do",
+    "uri" : "spotify:track:5troof8mcGO3AafoDbk1gc"
+  }, {
+    "artist" : "Queen",
+    "album" : "The Works",
+    "track" : "I Want To Break Free - Single Remix",
+    "uri" : "spotify:track:2AkmdLbVKS1steeZdy8H1l"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Foto Van Vroeger - Live",
+    "uri" : "spotify:track:3h9k4hZVdPWV9E3xQwZuKI"
+  }, {
+    "artist" : "Pee Wee Gaskins",
+    "album" : "A Youth Not Wasted",
+    "track" : "Serotonin",
+    "uri" : "spotify:track:44wWwFCjFT6U6dZHbbdPXF"
+  }, {
+    "artist" : "Noh Salleh",
+    "album" : "Angin Kencang",
+    "track" : "Angin Kencang",
+    "uri" : "spotify:track:2kLXuubLYEDyDcxNGpPd6s"
+  }, {
+    "artist" : "Goodbye Felicia",
+    "album" : "Bimbang",
+    "track" : "Bimbang",
+    "uri" : "spotify:track:50nrTiLGWnmJTnV2kl8kwB"
+  }, {
+    "artist" : "Akon",
+    "album" : "Heartbreakers",
+    "track" : "Lonely",
+    "uri" : "spotify:track:4mNGNMcsoMS6F9SGycmHWM"
+  }, {
+    "artist" : "DEPAPEPE",
+    "album" : "The Collections",
+    "track" : "Start",
+    "uri" : "spotify:track:7CCY00I0MjRSqRmhA0Ak1s"
+  }, {
+    "artist" : "Chappell Roan",
+    "album" : "Good Luck, Babe!",
+    "track" : "Good Luck, Babe!",
+    "uri" : "spotify:track:0WbMK4wrZ1wFSty9F7FCgu"
+  }, {
+    "artist" : "Afrian Af",
+    "album" : "Jedag Jedug Preman",
+    "track" : "Jedag Jedug Preman",
+    "uri" : "spotify:track:6tEo9H8ZaaYJldU41gfu1P"
+  }, {
+    "artist" : "Inger Öst",
+    "album" : "Rör vid mej",
+    "track" : "Rör vid mej",
+    "uri" : "spotify:track:2mUm7OobP1Qemaw9UrUmtC"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears",
+    "track" : "Bend & Break",
+    "uri" : "spotify:track:4mPiTSD96K4Dha1irhqpW3"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "Mulan Jameela",
+    "track" : "Bukannya Aku Takut",
+    "uri" : "spotify:track:20cxd3BRDztgrbbV2UKgBk"
+  }, {
+    "artist" : "Coldplay",
+    "album" : "X&Y",
+    "track" : "Fix You",
+    "uri" : "spotify:track:7LVHVU3tWfcxj5aiPFEW4Q"
+  }, {
+    "artist" : "Chrisye",
+    "album" : "Greatest Hits",
+    "track" : "Andai Aku Bisa",
+    "uri" : "spotify:track:18X25e2bXGKncwtYnT1GGl"
+  }, {
+    "artist" : "Lexs Trio",
+    "album" : "Merry Christmas",
+    "track" : "Datanglah Imanuel - S'Lamat S'Lamat Datang Yesus Tuhanku - Dimalam Sunyi Bergema - Gita Surga Bergema - Jingle Bells - Didalam Palungan - Hai Mari Berhimpun",
+    "uri" : "spotify:track:1ign6fxXTHJMOYrNjvHUCT"
+  }, {
+    "artist" : "Big Star",
+    "album" : "#1 Record",
+    "track" : "Thirteen",
+    "uri" : "spotify:track:2vk8PCaUuAZ63dsi1lqkn0"
+  }, {
+    "artist" : "Fitz and The Tantrums",
+    "album" : "Fitz and The Tantrums",
+    "track" : "Fool",
+    "uri" : "spotify:track:7rt7ywY9yekwaYXk2Zt4Q5"
+  }, {
+    "artist" : "Keane",
+    "album" : "Nothing In My Way",
+    "track" : "Nothing In My Way - Live At ULU, London, UK / 2006",
+    "uri" : "spotify:track:0xiwACAQAizpVCQfLwDwvE"
+  }, {
+    "artist" : "Freddie Mercury",
+    "album" : "Mr Bad Guy",
+    "track" : "Love Me Like There's No Tomorrow - Special Edition",
+    "uri" : "spotify:track:0otmxJEwq9JI1CidrcYEq4"
+  }, {
+    "artist" : "D’MASIV",
+    "album" : "Perjalanan",
+    "track" : "Apa Salahku",
+    "uri" : "spotify:track:0mJb3WyCiuqDacZBtSJmBr"
+  }, {
+    "artist" : "Muse",
+    "album" : "Cave",
+    "track" : "Cave - Remix",
+    "uri" : "spotify:track:1zUsnNnwOc2xBGlsABZD91"
+  }, {
+    "artist" : "Queen",
+    "album" : "Live At Wembley Stadium",
+    "track" : "Love of My Life - Live At Wembley Stadium / July 1986",
+    "uri" : "spotify:track:7yXI9x0EGCBBTTz35DBJEo"
+  }, {
+    "artist" : "mor ve ötesi",
+    "album" : "Melekler Ölmez",
+    "track" : "Melekler Ölmez",
+    "uri" : "spotify:track:091JWwKWMhDRQT89QN9x5r"
+  }, {
+    "artist" : "Mulan Jameela",
+    "album" : "99 Volume 1",
+    "track" : "Mencintaimu",
+    "uri" : "spotify:track:07WJATHv8ufGWzxKks9ZZ8"
+  }, {
+    "artist" : "Freddie Mercury",
+    "album" : "Mr Bad Guy",
+    "track" : "Your Kind Of Lover - Special Edition",
+    "uri" : "spotify:track:2jzS0f1C4af20OavmCodWQ"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Demolicious",
+    "track" : "Stray Heart - Demo",
+    "uri" : "spotify:track:12l2Hmu2yqUXPkEO6nIYzi"
+  }, {
+    "artist" : "Afrian Af",
+    "album" : "Fak Boy",
+    "track" : "Sewel Dan Para Sewa",
+    "uri" : "spotify:track:5CmhyZilc5BCrFXpHphwjQ"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Working Class Hero",
+    "track" : "Working Class Hero",
+    "uri" : "spotify:track:1VylyWcBUNYGZex80qCAdi"
+  }, {
+    "artist" : "The Offspring",
+    "album" : "Americana",
+    "track" : "The Kids Aren't Alright",
+    "uri" : "spotify:track:4EchqUKQ3qAQuRNKmeIpnf"
+  }, {
+    "artist" : "Maranatha Family",
+    "album" : "Natal Lagu-Lagu Nyanyian Puji Syukur",
+    "track" : "Hai Dunia Gembiralah",
+    "uri" : "spotify:track:79nC6k6dzqU57AWBJhbAM4"
+  }, {
+    "artist" : "boy pablo",
+    "album" : "Soy Pablo",
+    "track" : "wtf",
+    "uri" : "spotify:track:3OYSWIgKXiwjutuQ4NEk1b"
+  }, {
+    "artist" : "Muse",
+    "album" : "Origin of Symmetry (XX Anniversary RemiXX)",
+    "track" : "Darkshines - XX Anniversary RemiXX",
+    "uri" : "spotify:track:4H9NeQ1ohmLvjkVZEaIVrJ"
+  }, {
+    "artist" : "Queen",
+    "album" : "Hot Space",
+    "track" : "Under Pressure - Remastered 2011",
+    "uri" : "spotify:track:2fuCquhmrzHpu5xcA1ci9x"
+  }, {
+    "artist" : "TIA",
+    "album" : "Ai Đưa Em Về",
+    "track" : "Ai Đưa Em Về",
+    "uri" : "spotify:track:7LTdc7R99Q9sHlD3I0e10t"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live At Paradiso 29.11.04",
+    "track" : "Can't Stop Now - Live At Paradiso, Amsterdam / 29.11.04",
+    "uri" : "spotify:track:0PeBSSiUbbJS6HgixHxHVo"
+  }, {
+    "artist" : "Roxy Dekker",
+    "album" : "Sugardaddy",
+    "track" : "Sugardaddy",
+    "uri" : "spotify:track:2hIFhSltVcRU1oJ3kf8Zy4"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live From Mexico City 2024",
+    "track" : "Can't Stop Now - Live From Mexico City / 2024",
+    "uri" : "spotify:track:6oghyIRu4hfiaWiFWQMeqs"
+  }, {
+    "artist" : "Radiohead",
+    "album" : "OK Computer",
+    "track" : "No Surprises",
+    "uri" : "spotify:track:1bSpwPhAxZwlR2enJJsv7U"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution XX Anniversary",
+    "track" : "Endlessly (Recorded Live at the Columbiahalle, Berlin 2003)",
+    "uri" : "spotify:track:6ZLVGrNEfeUx6fqOmqEkF2"
+  }, {
+    "artist" : "Panic! At The Disco",
+    "album" : "Vices & Virtues",
+    "track" : "Always",
+    "uri" : "spotify:track:5VL7pScLlKe4MbB8EAivgA"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "Woodstock",
+    "track" : "Noise Pollution (feat. Mary Elizabeth Winstead & Zoe Manville) - Version A, Vocal up Mix 1.3",
+    "uri" : "spotify:track:6E69aBnq0hr6cTGBo39cWD"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live At Paradiso 29.11.04",
+    "track" : "Snowed Under - Live At Paradiso, Amsterdam / 29.11.04",
+    "uri" : "spotify:track:3dQ1yF862wvzifwXEZx91r"
+  }, {
+    "artist" : "NWP",
+    "album" : "Tanam Tanam Ubi Bacot Kau Babi",
+    "track" : "Tanam Tanam Ubi Bacot Kau Babi",
+    "uri" : "spotify:track:4yY8FhNLAw5BMSeIK5DfgC"
+  }, {
+    "artist" : "Secondhand Serenade",
+    "album" : "A Twist in My Story",
+    "track" : "Fall for You",
+    "uri" : "spotify:track:7J5prjNs67L9W7YPPzIxVl"
+  }, {
+    "artist" : "Ardhito Pramono",
+    "album" : "Ordinary Day",
+    "track" : "Ordinary Day",
+    "uri" : "spotify:track:1cvtW4ZA6Tfmap44lhb5GG"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Homecoming",
+    "uri" : "spotify:track:4jfSQoit10V1Q6waV6ZyZ3"
+  }, {
+    "artist" : "JP Cooper",
+    "album" : "Raised Under Grey Skies",
+    "track" : "She's On My Mind",
+    "uri" : "spotify:track:1t0UbGPCjGpLeH7KiLBuBv"
+  }, {
+    "artist" : "Gerard Way",
+    "album" : "Hesitant Alien",
+    "track" : "Drugstore Perfume",
+    "uri" : "spotify:track:6iwithG74PfTNOQ9mQcsKx"
+  }, {
+    "artist" : "En Vogue",
+    "album" : "Funky Divas",
+    "track" : "My Lovin' (You're Never Gonna Get It)",
+    "uri" : "spotify:track:3R97rNX7JnmshCWBwOSFet"
+  }, {
+    "artist" : "Speernorman",
+    "album" : "TikTok Viral",
+    "track" : "Chikaki Viral TikTok",
+    "uri" : "spotify:track:0tdakjK3PYT1ZsPepGvq3O"
+  }, {
+    "artist" : "Billy Joel",
+    "album" : "The Stranger (Legacy Edition)",
+    "track" : "Movin' Out (Anthony's Song)",
+    "uri" : "spotify:track:16GUMo6u3D2qo9a19AkYct"
+  }, {
+    "artist" : "Howard Carpendale",
+    "album" : "Seine Grossen Erfolge",
+    "track" : "Du Fängst Den Wind Niemals Ein",
+    "uri" : "spotify:track:5zpUMHhSuGRmov5NI9lRO1"
+  }, {
+    "artist" : "Céline Dion",
+    "album" : "These are Special Times",
+    "track" : "The Prayer",
+    "uri" : "spotify:track:6zlY4xmlgqvn4LxjzoS2mz"
+  }, {
+    "artist" : "The SIGIT",
+    "album" : "Another Day",
+    "track" : "Another Day",
+    "uri" : "spotify:track:06CTBs4mTFwJzlrmAvU6d0"
+  }, {
+    "artist" : "ONE OK ROCK",
+    "album" : "JINSEI KAKETE BOKU WA",
+    "track" : "The Beginning",
+    "uri" : "spotify:track:4f3nDjgqXurMryYBSp0TZD"
+  }, {
+    "artist" : "AKB48",
+    "album" : "AKB48 15th Anniversary Single PLAYLIST IV",
+    "track" : "サステナブル",
+    "uri" : "spotify:track:1MWJog77vVzG5GNBMuROCa"
+  }, {
+    "artist" : "Muse",
+    "album" : "The Resistance",
+    "track" : "Guiding Light",
+    "uri" : "spotify:track:7jZ5A8bf63qYaUXfuGoxVk"
+  }, {
+    "artist" : "Juliette",
+    "album" : "Lagi Terluka",
+    "track" : "Bukannya Aku Takut",
+    "uri" : "spotify:track:15hkZfdl2cQYQfNwqfFlpS"
+  }, {
+    "artist" : "Adele",
+    "album" : "21",
+    "track" : "Don't You Remember",
+    "uri" : "spotify:track:1CRtJS94Hq3PbBZT9LuF90"
+  }, {
+    "artist" : "Memes",
+    "album" : "Lief Java",
+    "track" : "Juwita Malam",
+    "uri" : "spotify:track:5jKFqw3veLJy0HaG8B2SWe"
+  }, {
+    "artist" : "Thirty Seconds To Mars",
+    "album" : "A Beautiful Lie",
+    "track" : "A Beautiful Lie",
+    "uri" : "spotify:track:2FcE7B1p3qVvLvwV5qPljV"
+  }, {
+    "artist" : "Sakin",
+    "album" : "Hayat",
+    "track" : "Yağmur Güncesi",
+    "uri" : "spotify:track:0swicd4mudWGOOURjG07oO"
+  }, {
+    "artist" : "Freddie Mercury",
+    "album" : "Mr Bad Guy",
+    "track" : "I Was Born To Love You - Special Edition",
+    "uri" : "spotify:track:4A3U94BsyUELJZ3uHZC7c8"
+  }, {
+    "artist" : "PianoDreams",
+    "album" : "PianoDreams - Originals and Classics",
+    "track" : "Chopin - Nocturne Op. 9 No. 2 In E Flat Major",
+    "uri" : "spotify:track:7GDiHI4QQPPHDg5CvWrLqo"
+  }, {
+    "artist" : "Brenda Lee",
+    "album" : "A Brenda Lee Christmas",
+    "track" : "Rockin' Around the Christmas Tree - Rerecorded Version",
+    "uri" : "spotify:track:09OojFvtrM9YRzRjnXqJjA"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "Thank You For The Music - Live",
+    "uri" : "spotify:track:1PnrWsfhSFLcNhaKD7bANM"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen",
+    "track" : "My Fairy King - Remastered 2011",
+    "uri" : "spotify:track:3G0FqZoEi8Za1oEXdGYcNG"
+  }, {
+    "artist" : "Ceylan Ertem",
+    "album" : "Zalım",
+    "track" : "Zalım",
+    "uri" : "spotify:track:2tcTksk6qFbYSaZogGmgfO"
+  }, {
+    "artist" : "Sampurna",
+    "album" : "tuhan penuh benci",
+    "track" : "tuhan penuh benci",
+    "uri" : "spotify:track:35n7vCksp7OprNNhad7WvN"
+  }, {
+    "artist" : "Ice Nine Kills",
+    "album" : "Can't Help Falling In Love",
+    "track" : "Can't Help Falling In Love",
+    "uri" : "spotify:track:66Ceo7qZOyyX3J8AUsT2Vt"
+  }, {
+    "artist" : "Lucy Dacus",
+    "album" : "Historian",
+    "track" : "Pillar of Truth",
+    "uri" : "spotify:track:0n7UlTyt1ENJgkFHoH0bhk"
+  }, {
+    "artist" : "Endank Soekamti",
+    "album" : "KOLABORASOE",
+    "track" : "Benci Untuk Mencinta",
+    "uri" : "spotify:track:3fA0755Iymd8kgFb3EGDvO"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "The Essential Collection",
+    "track" : "Nothing Rhymed",
+    "uri" : "spotify:track:7p4nOXEqkT7NtNjdmhQbav"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "In De Uren Van De Middag",
+    "track" : "Dag Zuster Ursula",
+    "uri" : "spotify:track:4Cwqb2CC75ul4MTthoHRPC"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "Woodstock",
+    "track" : "Feel It Still",
+    "uri" : "spotify:track:6QgjcU0zLnzq5OrUoSZ3OK"
+  }, {
+    "artist" : "Lenka",
+    "album" : "Trouble Is A Friend - The Remixes",
+    "track" : "Trouble Is a Friend - Spike Stent Remix",
+    "uri" : "spotify:track:6PSDUT45pSOTZ3EzTQ3uui"
+  }, {
+    "artist" : "Howard Carpendale",
+    "album" : "40 Hits - Die Originale !",
+    "track" : "Fremde oder Freunde",
+    "uri" : "spotify:track:6fFCFEX3FeuqG3c1kRzXCS"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen Rock Montreal",
+    "track" : "Love Of My Life - Live",
+    "uri" : "spotify:track:08Om4kly8Qc3a1eBOQlkee"
+  }, {
+    "artist" : "Kahitna",
+    "album" : "Cinta Sudah Lewat",
+    "track" : "Menikahimu",
+    "uri" : "spotify:track:3XtOmsBy3rkhFv8pYL9D0B"
+  }, {
+    "artist" : "Future",
+    "album" : "FUTURE",
+    "track" : "Mask Off",
+    "uri" : "spotify:track:3rOSwuTsUlJp0Pu0MkN8r8"
+  }, {
+    "artist" : "R3HAB",
+    "album" : "All Around The World (La La La)",
+    "track" : "All Around The World (La La La)",
+    "uri" : "spotify:track:02itaCXOdC54J0ISjqqFAp"
+  }, {
+    "artist" : "Saweetie",
+    "album" : "ICY",
+    "track" : "My Type",
+    "uri" : "spotify:track:5KBARWIxeMGkvUax9VtVC9"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "Abbey Road",
+    "track" : "Here Comes The Sun - Remastered",
+    "uri" : "spotify:track:45yEy5WJywhJ3sDI28ajTm"
+  }, {
+    "artist" : "Tame Impala",
+    "album" : "Lonerism",
+    "track" : "Feels Like We Only Go Backwards",
+    "uri" : "spotify:track:6vTtMyCg96xwpoIBws9K0Q"
+  }, {
+    "artist" : "Ungu",
+    "album" : "Untukmu Selamanya",
+    "track" : "Cinta Dalam Hati",
+    "uri" : "spotify:track:4NOniDRyYcBjF6m1x3U8TK"
+  }, {
+    "artist" : "Agnes Monica",
+    "album" : "Rindu",
+    "track" : "Rindu",
+    "uri" : "spotify:track:5gfV3clsxxJpYkpPEGgXg4"
+  }, {
+    "artist" : "Benny Andersson",
+    "album" : "Mamma Mia",
+    "track" : "Dancin Queen - Reprise 2004",
+    "uri" : "spotify:track:4ybpRC2bpA1rMLcBEaemwe"
+  }, {
+    "artist" : "Kim Taeri",
+    "album" : "Twenty-Five Twenty-One OST",
+    "track" : "With",
+    "uri" : "spotify:track:73ZHqY7Ma03NpKiKs26yQU"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "Joy To The World",
+    "uri" : "spotify:track:0aJqGV3Maoy9zaALwOMWX8"
+  }, {
+    "artist" : "Wijaya 80",
+    "album" : "Perjumpaan",
+    "track" : "Masih Ada Kamu",
+    "uri" : "spotify:track:72eZ9t6Y9yfpwyqy3uikEm"
+  }, {
+    "artist" : "F.R. David",
+    "album" : "Words",
+    "track" : "Words - Original Version 1983",
+    "uri" : "spotify:track:1HPJOoIVdUPuaebxzMrVaD"
+  }, {
+    "artist" : "Sleeping At Last",
+    "album" : "Atlas: I",
+    "track" : "Saturn",
+    "uri" : "spotify:track:3tJjZMHLqhD8DaGgdBICnc"
+  }, {
+    "artist" : "Hosana Singers",
+    "album" : "Damai Sukacita Natal",
+    "track" : "Malam Kudus",
+    "uri" : "spotify:track:3tRSFJ77lSkU5Ml5giR2PU"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Malam Sunyi Senyap",
+    "uri" : "spotify:track:6bP2xUHjoljjw8wl3Aq3ZZ"
+  }, {
+    "artist" : "Dewa 19",
+    "album" : "Format Masa Depan",
+    "track" : "Aku Milikmu",
+    "uri" : "spotify:track:5JESuE80fvausWHjcT9QVh"
+  }, {
+    "artist" : "J-Rocks",
+    "album" : "Topeng Sahabat",
+    "track" : "Lepaskan Diriku",
+    "uri" : "spotify:track:4HM7F8ymm5Ice2If8vRUfl"
+  }, {
+    "artist" : "Three Days Grace",
+    "album" : "Three Days Grace",
+    "track" : "I Hate Everything About You",
+    "uri" : "spotify:track:6rUp7v3l8yC4TKxAAR5Bmx"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen Rock Montreal",
+    "track" : "Play The Game - Live",
+    "uri" : "spotify:track:1Qj4THoRNH91oZm1xhMfXI"
+  }, {
+    "artist" : "Element",
+    "album" : "Paradoks",
+    "track" : "Maaf Dari Surga",
+    "uri" : "spotify:track:6lzSXZwNIS5U4dq4oEFa70"
+  }, {
+    "artist" : "Wijaya 80",
+    "album" : "Seharusnya Aku",
+    "track" : "Seharusnya Aku",
+    "uri" : "spotify:track:56WKyC8LbR3W7MNfF465sS"
+  }, {
+    "artist" : "Tame Impala",
+    "album" : "Currents",
+    "track" : "The Less I Know The Better",
+    "uri" : "spotify:track:4g3Ax56IslQkI6XVfYKVc5"
+  }, {
+    "artist" : "Marco Borsato",
+    "album" : "De Waarheid",
+    "track" : "De Waarheid",
+    "uri" : "spotify:track:76wIe1sRiW5whxjY0PsDr4"
+  }, {
+    "artist" : "Jet",
+    "album" : "Get Born",
+    "track" : "Look What You've Done",
+    "uri" : "spotify:track:0ZSmRnXnP5fdANtVlCok1g"
+  }, {
+    "artist" : "Ouse",
+    "album" : "Adventure Time",
+    "track" : "Adventure Time",
+    "uri" : "spotify:track:2wheAj3JIOq3Qt4IzcY0CI"
+  }, {
+    "artist" : "Billy Joel",
+    "album" : "Turnstiles",
+    "track" : "New York State of Mind",
+    "uri" : "spotify:track:6yjKlmm7vOszkXEUku1EM1"
+  }, {
+    "artist" : "L'Arc-en-Ciel",
+    "album" : "25th L'Anniversary LIVE",
+    "track" : "瞳の住人 (25th L'Anniversary LIVE)",
+    "uri" : "spotify:track:1lEL3ahlp2vESIVbo3zRuy"
+  }, {
+    "artist" : "Kim Wilde",
+    "album" : "Kim Wilde",
+    "track" : "Kids In America",
+    "uri" : "spotify:track:1YGZyfvdgZxzipWoWYVKxi"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, Volume 4",
+    "track" : "Valerie - Cover of Mark Ronson feat. Amy Winehouse",
+    "uri" : "spotify:track:4hBW3h6FnQNh7NRmyxLLG7"
+  }, {
+    "artist" : "Adamlar",
+    "album" : "Rüyalarda Buruşmuşuz",
+    "track" : "Rüyalarda Buruşmuşum",
+    "uri" : "spotify:track:4cQSOn9oP0MiM7BgiRngFk"
+  }, {
+    "artist" : "Keane",
+    "album" : "Nothing In My Way",
+    "track" : "Nothing In My Way - Live From ULU, London / 5th May 2006",
+    "uri" : "spotify:track:033WemIAabX38ZtHHFIwMm"
+  }, {
+    "artist" : "Carpenters",
+    "album" : "Now & Then",
+    "track" : "The End Of The World",
+    "uri" : "spotify:track:1zxxbq3UMRXIo4i82MFmjY"
+  }, {
+    "artist" : "The Strokes",
+    "album" : "Angles",
+    "track" : "Under Cover of Darkness",
+    "uri" : "spotify:track:6u0x5ad9ewHvs3z6u9Oe3c"
+  }, {
+    "artist" : "Melly Goeslaw",
+    "album" : "Mindnsoul",
+    "track" : "Gantung",
+    "uri" : "spotify:track:7oeZRlt1qxVjZepnxwnxzt"
+  }, {
+    "artist" : "Carpenters",
+    "album" : "Carpenters With The Royal Philharmonic Orchestra",
+    "track" : "Yesterday Once More",
+    "uri" : "spotify:track:4HTm4S84Mmxxx2qbBEl0aa"
+  }, {
+    "artist" : "Keane",
+    "album" : "Everybody's Changing",
+    "track" : "Everybody's Changing - Live At Jockey Club del Paraguay, Asunción, Paraguay / 2019",
+    "uri" : "spotify:track:77biQcfLEjqlbdLs4idwkN"
+  }, {
+    "artist" : "Maan",
+    "album" : "Leven",
+    "track" : "Stiekem",
+    "uri" : "spotify:track:4fWyBvLIPO68D2Ff87t1em"
+  }, {
+    "artist" : "Omar Apollo",
+    "album" : "Ivory",
+    "track" : "Evergreen (You Didn’t Deserve Me At All)",
+    "uri" : "spotify:track:2TktkzfozZifbQhXjT6I33"
+  }, {
+    "artist" : "Muse",
+    "album" : "HAARP",
+    "track" : "Supermassive Black Hole - Live from Wembley Stadium",
+    "uri" : "spotify:track:6orRbaAgk8QyiXthlxsMnh"
+  }, {
+    "artist" : "Kris Dayanti",
+    "album" : "Persembahan Ratu Cinta",
+    "track" : "Mencintaimu",
+    "uri" : "spotify:track:3bv9eKpaeBiOZoKeZRzULY"
+  }, {
+    "artist" : "Şebnem Ferah",
+    "album" : "Özgürce Yaşa",
+    "track" : "Özgürce Yaşa",
+    "uri" : "spotify:track:1qK8P9vwdoTMNKzq7SAopU"
+  }, {
+    "artist" : "Derby",
+    "album" : "Derby",
+    "track" : "Gelora Asmara",
+    "uri" : "spotify:track:5qt7cA8S357FY4COgxLOsK"
+  }, {
+    "artist" : "Young Dreams",
+    "album" : "Wildwind",
+    "track" : "Wildwind",
+    "uri" : "spotify:track:3W8tKuCcQBsU2ylIJoGTIl"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "Silent Night",
+    "uri" : "spotify:track:1yaS9hvt6CwULOgWFXB2VM"
+  }, {
+    "artist" : "Andy Williams",
+    "album" : "The Andy Williams Christmas Album",
+    "track" : "It's the Most Wonderful Time of the Year",
+    "uri" : "spotify:track:5hslUAKq9I9CG2bAulFkHN"
+  }, {
+    "artist" : "Batas Senja",
+    "album" : "Kita Usahakan Lagi",
+    "track" : "Kita Usahakan Lagi",
+    "uri" : "spotify:track:1wfbqUSPWbnPjkiBA9UmoF"
+  }, {
+    "artist" : "Abel",
+    "album" : "De Stilte Voorbij",
+    "track" : "Zonder Een Woord",
+    "uri" : "spotify:track:70YcjHytjY6GmEg6VLeb8o"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Governator",
+    "uri" : "spotify:track:6fT1sPkPsqW1xqNFrxN26e"
+  }, {
+    "artist" : "Meadows",
+    "album" : "The Only Boy Awake",
+    "track" : "Dream of You",
+    "uri" : "spotify:track:1JYJH9IhULXL1p9gf69Alq"
+  }, {
+    "artist" : "The Rock",
+    "album" : "Master Mister Ahmad Dhani I",
+    "track" : "Munajat Cinta",
+    "uri" : "spotify:track:3LcfOGrnhpaPgOy7221VcB"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live At Paradiso 29.11.04",
+    "track" : "Everybody's Changing - Live At Paradiso, Amsterdam / 29.11.04",
+    "uri" : "spotify:track:1Ks3olptIKovje1txNDb9b"
+  }, {
+    "artist" : "Jaap Reesema",
+    "album" : "Grijs",
+    "track" : "Grijs",
+    "uri" : "spotify:track:64hayhfzodjwBrQcZ69SVp"
+  }, {
+    "artist" : "The Lantis",
+    "album" : "Pilot",
+    "track" : "Lampu Merah",
+    "uri" : "spotify:track:6E7DsxwI4eOcMHLYRUDCaw"
+  }, {
+    "artist" : "Ансамбль Весёлые ребята",
+    "album" : "Музыкальный Глобус",
+    "track" : "В последний раз",
+    "uri" : "spotify:track:3AQaEqdtm7DVQlBZBw6ZQh"
+  }, {
+    "artist" : "Deborah Hanna",
+    "album" : "Takkan Berpaling DariMu",
+    "track" : "Takkan Berpaling DariMu",
+    "uri" : "spotify:track:6y7zdBxB5u3d8QihkDaAwj"
+  }, {
+    "artist" : "Don McLean",
+    "album" : "Favorites & Rarities",
+    "track" : "And I Love You So",
+    "uri" : "spotify:track:4bgfMOKbX5q7XHRECffBl5"
+  }, {
+    "artist" : "Billie Eilish",
+    "album" : "lovely (with Khalid)",
+    "track" : "lovely (with Khalid)",
+    "uri" : "spotify:track:0u2P5u6lvoDfwTYjAADbn4"
+  }, {
+    "artist" : "Yves Berendse",
+    "album" : "Zin In Jou",
+    "track" : "Zin In Jou",
+    "uri" : "spotify:track:0wUmqryk6MdL2k5yDVGnk8"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Ketika Tuhan Yesus Lahir",
+    "uri" : "spotify:track:6xAKy2nSdcwgGKlEBr39ng"
+  }, {
+    "artist" : "Endank Soekamti",
+    "album" : "Soekamti Com",
+    "track" : "Semoga Kau Dineraka",
+    "uri" : "spotify:track:6FbDi6zR4Oz4sqcSoykYb0"
+  }, {
+    "artist" : "Cage The Elephant",
+    "album" : "Melophobia",
+    "track" : "Cigarette Daydreams",
+    "uri" : "spotify:track:2tznHmp70DxMyr2XhWLOW0"
+  }, {
+    "artist" : "Media Kasih Singers",
+    "album" : "Lagu Natal Media Kasih Singers",
+    "track" : "Putri Sion",
+    "uri" : "spotify:track:26P4WnZmGhW3rTWyrWxQQ0"
+  }, {
+    "artist" : "John West",
+    "album" : "Ome Jan",
+    "track" : "Ome Jan",
+    "uri" : "spotify:track:3Hl3EDROyNrrqdn8yKuxxq"
+  }, {
+    "artist" : "The Beatles",
+    "album" : "The Beatles",
+    "track" : "Blackbird - 2018 Mix",
+    "uri" : "spotify:track:2oMVSmJx1l2FVXjVbx5DTc"
+  }, {
+    "artist" : "Muse",
+    "album" : "Origin of Symmetry",
+    "track" : "Bliss",
+    "uri" : "spotify:track:09oOhscdjOI4JzxgP9t0x3"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Springlevend",
+    "track" : "Alleen Is Maar Alleen - Live",
+    "uri" : "spotify:track:4JMQS0C0QsCdkJqFGR1dT4"
+  }, {
+    "artist" : "Muse",
+    "album" : "Will Of The People",
+    "track" : "Kill Or Be Killed",
+    "uri" : "spotify:track:4scqfHWE0J9dgdbjqstjS3"
+  }, {
+    "artist" : "The Panturas",
+    "album" : "Queen of The South",
+    "track" : "Queen of The South",
+    "uri" : "spotify:track:65Y2vY9zirG11USMyryRqu"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "The Satanic Satanist",
+    "track" : "Mornings",
+    "uri" : "spotify:track:5ROyw8Y6491Nhp8uZaKW6Y"
+  }, {
+    "artist" : "Gerard Cox",
+    "album" : "Grootste Hits",
+    "track" : "1948 (Toen Was Geluk Heel Gewoon)",
+    "uri" : "spotify:track:12lKjWZSwRMejGWKTrvukB"
+  }, {
+    "artist" : "Kerispatih",
+    "album" : "Kenyataan Perasaan",
+    "track" : "Mengenangmu",
+    "uri" : "spotify:track:6l9L0ssWzD5XI1aJgVFpaS"
+  }, {
+    "artist" : "ABBA",
+    "album" : "The Album",
+    "track" : "Thank You For The Music - Doris Day Mix",
+    "uri" : "spotify:track:59l71sxjX2oBVPQGYlqvnb"
+  }, {
+    "artist" : "The Lantis",
+    "album" : "Bunga Maaf",
+    "track" : "Bunga Maaf",
+    "uri" : "spotify:track:26KhLgFuPymkm1uiZkc6Rv"
+  }, {
+    "artist" : "Glass Animals",
+    "album" : "How To Be A Human Being",
+    "track" : "The Other Side Of Paradise",
+    "uri" : "spotify:track:3aTrurxagDJfsQRBEOGfMb"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Arrival",
+    "track" : "My Love, My Life",
+    "uri" : "spotify:track:7qbQFKgGOxk7aoCBGwLZuA"
+  }, {
+    "artist" : "Electric Light Orchestra",
+    "album" : "Jeff Lynne's ELO - Alone in the Universe",
+    "track" : "When I Was a Boy",
+    "uri" : "spotify:track:7oZpnpAQYHe936t9pd3HKr"
+  }, {
+    "artist" : "DEABDIL",
+    "album" : "SPONTAN ( tanpa ) UHUY!",
+    "track" : "SPONTAN ( tanpa ) UHUY!",
+    "uri" : "spotify:track:1d5ZCpPVFKWsJOWUzrfiwj"
+  }, {
+    "artist" : "Payung Teduh",
+    "album" : "Akad",
+    "track" : "Akad",
+    "uri" : "spotify:track:5CwcXgsF9jcyqwkl5uxKnD"
+  }, {
+    "artist" : "Sheena Easton",
+    "album" : "Take My Time",
+    "track" : "Morning Train (Nine to Five) - Edit",
+    "uri" : "spotify:track:1qvDt6W8oaTO9Q4pFNMFEm"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Gracias Por La Musica",
+    "track" : "Al Andar - Spanish Version",
+    "uri" : "spotify:track:4Hf1dWUUlP4WzX4VMJVj4E"
+  }, {
+    "artist" : "AFI",
+    "album" : "DECEMBERUNDERGROUND",
+    "track" : "Miss Murder",
+    "uri" : "spotify:track:0Ti2dlF2xLjXblvdU5fCxM"
+  }, {
+    "artist" : "Dr. Hook",
+    "album" : "Completely Hooked",
+    "track" : "A Little Bit More - Single Version",
+    "uri" : "spotify:track:0IyaUK4bo54AnnNVhS9RSW"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Bayi Kecil",
+    "uri" : "spotify:track:7fld3SD6YAnRz1lQJ5idpk"
+  }, {
+    "artist" : "Muse",
+    "album" : "HAARP",
+    "track" : "Unintended - Live from Wembley Stadium",
+    "uri" : "spotify:track:0xMAeD0G1XkCwpwXvYLNtx"
+  }, {
+    "artist" : "John Lennon",
+    "album" : "Power To The People - The Hits",
+    "track" : "Happy Xmas (War Is Over) - Remastered 2010",
+    "uri" : "spotify:track:3zJw3rugfpVrmBeDDnUYzy"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "Happy Xmas (War Is Over)",
+    "uri" : "spotify:track:4EOgGvIDRxIiR0O7FWSCA2"
+  }, {
+    "artist" : "Vieze Asbak",
+    "album" : "Koningsdag 2022",
+    "track" : "Draaiorgel",
+    "uri" : "spotify:track:39gv3JJoy6mu79VgxUJOT3"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "O Malam Kudus",
+    "uri" : "spotify:track:4L3o1ukxJWM0TJ9v12x3OB"
+  }, {
+    "artist" : "Rise Against",
+    "album" : "Siren Song Of The Counter-Culture",
+    "track" : "Give It All",
+    "uri" : "spotify:track:5O6SumCYk8Ug81UbfXAPJC"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Wake Me Up When September Ends - Demo",
+    "uri" : "spotify:track:5S14ByxIXo3Wik4aYS2Tj3"
+  }, {
+    "artist" : "Lee Moon Sae",
+    "album" : "이문세 4집",
+    "track" : "깊은 밤을 날아서",
+    "uri" : "spotify:track:5vVL45nncczKCWS0uIQpzN"
+  }, {
+    "artist" : "Jaap Reesema",
+    "album" : "Als Je Voor Me Staat",
+    "track" : "Alles Komt Goed",
+    "uri" : "spotify:track:69hW6buKEIRogWne4PTPO5"
+  }, {
+    "artist" : "Gerard Cox",
+    "album" : "Aangenaam",
+    "track" : "Toch Hou Ik Van Je, Rotterdam - Remastered",
+    "uri" : "spotify:track:3yrsJFekPvQqTjdllQ4e8t"
+  }, {
+    "artist" : "Donnie",
+    "album" : "Hier Mag Alles",
+    "track" : "Hier Mag Alles",
+    "uri" : "spotify:track:1sqe31TzOsjCeex1INgmsq"
+  }, {
+    "artist" : "Don McLean",
+    "album" : "American Pie",
+    "track" : "Empty Chairs",
+    "uri" : "spotify:track:60Rvgly3lLXctiaiMOOZlx"
+  }, {
+    "artist" : "Myuu",
+    "album" : "Silent Night (Dark Piano Version)",
+    "track" : "Silent Night (Dark Piano Version)",
+    "uri" : "spotify:track:0WjqesV2gOlARIi8McQl9U"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Arrival",
+    "track" : "That's Me",
+    "uri" : "spotify:track:32SHYXEJZkpsnJkcggucM0"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live From Mexico City 2024",
+    "track" : "Everybody’s Changing - Live From Mexico City / 2024",
+    "uri" : "spotify:track:7aOZ2H1hOmIxQzourwRj0m"
+  }, {
+    "artist" : "5 Seconds of Summer",
+    "album" : "Sounds Good Feels Good",
+    "track" : "Broken Home",
+    "uri" : "spotify:track:5TMjhlh25Oitlh3LBKdfMi"
+  }, {
+    "artist" : "Muse",
+    "album" : "The Resistance",
+    "track" : "Uprising",
+    "uri" : "spotify:track:4VqPOruhp5EdPBeR92t6lQ"
+  }, {
+    "artist" : "Dream Theater",
+    "album" : "Metropolis, Pt. 2: Scenes from a Memory",
+    "track" : "Scene Eight: The Spirit Carries On",
+    "uri" : "spotify:track:7ycz6sgZWp4wvF53BZVTjE"
+  }, {
+    "artist" : "Hivi!",
+    "album" : "CERITERA",
+    "track" : "Tersenyum, Untuk Siapa?",
+    "uri" : "spotify:track:6wqmvAct0xhX6plr6wv5Jp"
+  }, {
+    "artist" : "Wings",
+    "album" : "Red Rose Speedway",
+    "track" : "My Love - 2018 Remaster",
+    "uri" : "spotify:track:0Oj0TT23GBH2XuHAaSsloH"
+  }, {
+    "artist" : "Perunggu",
+    "album" : "Memorandum",
+    "track" : "Ini Abadi",
+    "uri" : "spotify:track:6cgBRhTzwk0OBhRX2E5F3V"
+  }, {
+    "artist" : "Donovan Woods",
+    "album" : "Portland, Maine",
+    "track" : "Portland, Maine",
+    "uri" : "spotify:track:6u1E03WKp0QsOfK5FEzzGr"
+  }, {
+    "artist" : "Gita Gutawa",
+    "album" : "Gita Puja Indonesia",
+    "track" : "Tanah Air",
+    "uri" : "spotify:track:2okiK7YjiwjiNVmwpWSbp3"
+  }, {
+    "artist" : "Muse",
+    "album" : "Butterflies and Hurricanes",
+    "track" : "Butterflies and Hurricanes - Additional Guitars Remix; Full Length Version",
+    "uri" : "spotify:track:2FOu8GzRClMrHBhMJ24QMZ"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears",
+    "track" : "Sunshine",
+    "uri" : "spotify:track:1YgaIKDgm7IQpq9MVAmExQ"
+  }, {
+    "artist" : "Keane",
+    "album" : "Live From Mexico City 2024",
+    "track" : "Somewhere Only We Know - Live From Mexico City / 2024 / Edit",
+    "uri" : "spotify:track:12js5c5Yn7o5RNe5iB3HR3"
+  }, {
+    "artist" : "Tony Dallara",
+    "album" : "I grandi successi di Tony Dallara: le più belle canzoni di sempre",
+    "track" : "Come prima",
+    "uri" : "spotify:track:6m8fzdK14sJldkat1CMUrZ"
+  }, {
+    "artist" : "The Byrds",
+    "album" : "Mr. Tambourine Man",
+    "track" : "Mr. Tambourine Man",
+    "uri" : "spotify:track:2HCaIYjkvWSZzaSKUoOh3d"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Kini Tiba Saatnya",
+    "uri" : "spotify:track:2zIsKQ1XIPwgFNAgPeSK0S"
+  }, {
+    "artist" : "Queen",
+    "album" : "The Game",
+    "track" : "Another One Bites The Dust - Remastered 2011",
+    "uri" : "spotify:track:5vdp5UmvTsnMEMESIF2Ym7"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "Why Did It Have To Be Me? - Live",
+    "uri" : "spotify:track:1FwzC6Wsw5a6YJQsSxGL8n"
+  }, {
+    "artist" : "Yves Berendse",
+    "album" : "Terug In De Tijd",
+    "track" : "Terug In De Tijd",
+    "uri" : "spotify:track:0vrKBjEBQAVn3sdhIXmpHE"
+  }, {
+    "artist" : "Herlin Pirena",
+    "album" : "Natal",
+    "track" : "Seribu Lilin",
+    "uri" : "spotify:track:2HCB81BeBdkvw93Ng0Qts5"
+  }, {
+    "artist" : "Green Day",
+    "album" : "¡TRÉ!",
+    "track" : "Brutal Love",
+    "uri" : "spotify:track:7iXP6euYfDfeiD36vQlfnn"
+  }, {
+    "artist" : "Muse",
+    "album" : "Drones",
+    "track" : "Aftermath",
+    "uri" : "spotify:track:2z1D4PqjWYEsXeXxE6euQ2"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "Songbook",
+    "track" : "Alone Again (Naturally) - Songbook Version",
+    "uri" : "spotify:track:4q676CzJ5EGdCH98yNTCcN"
+  }, {
+    "artist" : "Dewa 19",
+    "album" : "Republik Cinta",
+    "track" : "Selimut Hati",
+    "uri" : "spotify:track:0BkviP5t2RRYH7u4bMWRaA"
+  }, {
+    "artist" : "Lil Uzi Vert",
+    "album" : "XO TOUR Llif3",
+    "track" : "XO TOUR Llif3",
+    "uri" : "spotify:track:2eMwDehkIC1j68U6FA3Eiq"
+  }, {
+    "artist" : "Air Supply",
+    "album" : "The Earth Is...",
+    "track" : "Without You",
+    "uri" : "spotify:track:0aW5JH6RnfTv5cGvPS3cca"
+  }, {
+    "artist" : "Queen",
+    "album" : "Bohemian Rhapsody",
+    "track" : "Don't Stop Me Now - ...Revisited",
+    "uri" : "spotify:track:3INsYP1Y8GG4qJvBsKCdXC"
+  }, {
+    "artist" : "Keane",
+    "album" : "Everybody's Changing",
+    "track" : "Everybody's Changing - Live AOL Session / 2004",
+    "uri" : "spotify:track:0WpQBc7aQccxAIxFRcMLzo"
+  }, {
+    "artist" : "White Shoes & The Couples Company",
+    "album" : "Together Whatever Sessions",
+    "track" : "Windu Defrina",
+    "uri" : "spotify:track:6ranigSlkydYuwhHjBtTEp"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Chansons",
+    "track" : "Eeuwig Jong",
+    "uri" : "spotify:track:4gL8gO5WLz3jmy4S7HEmmr"
+  }, {
+    "artist" : "AKB48",
+    "album" : "Team B 1st stage 「青春ガールズ」 〜studio recordings コレクション〜",
+    "track" : "禁じられた2人(チームB Ver.)",
+    "uri" : "spotify:track:5p1upy6Mr0y8NkXhEipdhc"
+  }, {
+    "artist" : "Sherina Munaf",
+    "album" : "Andai Aku Besar Nanti",
+    "track" : "Kembali Ke Sekolah",
+    "uri" : "spotify:track:6o1T02zgmG4wpDqXiaskz5"
+  }, {
+    "artist" : "Sleeping At Last",
+    "album" : "Covers, Vol. 2",
+    "track" : "Make You Feel My Love",
+    "uri" : "spotify:track:2NZEJxIUnsP18o2aNzeuZW"
+  }, {
+    "artist" : "rumahsakit",
+    "album" : "1+2",
+    "track" : "Kuning",
+    "uri" : "spotify:track:6hq8w9e1cj0nxe0YwW3IVJ"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution",
+    "track" : "Sing for Absolution",
+    "uri" : "spotify:track:1hHuyqVCZCbhYQixEkdQCo"
+  }, {
+    "artist" : "Agnes Monica",
+    "album" : "Love Theme",
+    "track" : "Pernikahan Dini",
+    "uri" : "spotify:track:2gXMcUb5lQ9T0irQzluXUQ"
+  }, {
+    "artist" : "Unwritten Law",
+    "album" : "Here's To The Mourning",
+    "track" : "Fight",
+    "uri" : "spotify:track:1ZNXzr9QxJpddq6UDL0fVM"
+  }, {
+    "artist" : "Fariz RM",
+    "album" : "Kurnia Dan Pesona",
+    "track" : "Sakura",
+    "uri" : "spotify:track:4dHV4pntVEY62Z3KdrofPX"
+  }, {
+    "artist" : "Muse",
+    "album" : "The Resistance",
+    "track" : "I Belong to You (+Mon Coeur S'Ouvre a Ta Voix)",
+    "uri" : "spotify:track:114rzL6VEy9bb3amPcY3tw"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears",
+    "track" : "Somewhere Only We Know",
+    "uri" : "spotify:track:1SKPmfSYaPsETbRHaiA18G"
+  }, {
+    "artist" : "Yves Berendse",
+    "album" : "Alleen Met Jou",
+    "track" : "Alleen Met Jou",
+    "uri" : "spotify:track:2K7HqkHEUfz7c4BzEO33Qd"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution",
+    "track" : "Hysteria",
+    "uri" : "spotify:track:7xyYsOvq5Ec3P4fr6mM9fD"
+  }, {
+    "artist" : "Portugal. The Man",
+    "album" : "Feel It Still",
+    "track" : "Feel It Still",
+    "uri" : "spotify:track:7FESgYLcOufHqKlwrvJN60"
+  }, {
+    "artist" : "Rita Ora",
+    "album" : "Your Song",
+    "track" : "Your Song",
+    "uri" : "spotify:track:5Mszd2USbXSLWGyN3NCwi2"
+  }, {
+    "artist" : "The Offspring",
+    "album" : "Rise And Fall, Rage And Grace",
+    "track" : "You're Gonna Go Far, Kid",
+    "uri" : "spotify:track:6TfBA04WJ3X1d1wXhaCFVT"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Cluster Bomb - Demo",
+    "uri" : "spotify:track:07rkmYOcw73FjIKUftQaQD"
+  }, {
+    "artist" : "MALIQ & D'Essentials",
+    "album" : "Aku Cinta Kau Dan Dia",
+    "track" : "Aku Cinta Kau Dan Dia",
+    "uri" : "spotify:track:3PHc0M7QXIwPUDnZ9dBVCu"
+  }, {
+    "artist" : "Joe \"Bean\" Esposito",
+    "album" : "Flashdance",
+    "track" : "Lady, Lady, Lady",
+    "uri" : "spotify:track:3NtaLjEfNvafq0UM0dfUoc"
+  }, {
+    "artist" : "ABBA",
+    "album" : "Live At Wembley Arena",
+    "track" : "Fernando - Live",
+    "uri" : "spotify:track:1N2NXpj3uukS8QsHURfnQv"
+  }, {
+    "artist" : "iamjakehill",
+    "album" : "By the Sword",
+    "track" : "By the Sword",
+    "uri" : "spotify:track:3HsFSrIsbO54TFDfG66pZm"
+  }, {
+    "artist" : "Dewi - Dewi",
+    "album" : "Recycle +",
+    "track" : "Roman Picisan",
+    "uri" : "spotify:track:4zAn5v6nlrquEQTRgwHujS"
+  }, {
+    "artist" : "Marco Schuitmaker",
+    "album" : "Engelbewaarder",
+    "track" : "Engelbewaarder",
+    "uri" : "spotify:track:2C2vSufLm1wLq2GjDH3iMh"
+  }, {
+    "artist" : "Muse",
+    "album" : "Absolution",
+    "track" : "Butterflies and Hurricanes",
+    "uri" : "spotify:track:0xJLcjd0gaZct43xG1UlXS"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Warning",
+    "track" : "Waiting",
+    "uri" : "spotify:track:390SemxFYgPZ3FfGVqiIqt"
+  }, {
+    "artist" : "Element",
+    "album" : "Resonansi",
+    "track" : "Cinta Tak Bersyarat",
+    "uri" : "spotify:track:0H9n1TQl1qEVoQFNFDhVAB"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Give Me Novacaine - Live from VH1 Storytellers",
+    "uri" : "spotify:track:2PpbOHNtD8YYzFHl36X7TS"
+  }, {
+    "artist" : "Muse",
+    "album" : "Will Of The People",
+    "track" : "Won’t Stand Down",
+    "uri" : "spotify:track:6Wi8Byfq6xH0lEkqZbOZg9"
+  }, {
+    "artist" : "Avril Lavigne",
+    "album" : "The Best Damn Thing (Expanded Edition)",
+    "track" : "When You're Gone",
+    "uri" : "spotify:track:54JKnDB3CzVu8wNAOM27BI"
+  }, {
+    "artist" : "BLØF",
+    "album" : "April",
+    "track" : "Midzomernacht",
+    "uri" : "spotify:track:3TFsLvUmCf0f8gAs3BCuDo"
+  }, {
+    "artist" : "Ratu",
+    "album" : "No. Satu",
+    "track" : "Ratu Sejagad",
+    "uri" : "spotify:track:0Mpjzmyf3rGpjCAjB95M9W"
+  }, {
+    "artist" : "Benny Andersson",
+    "album" : "Mamma Mia!",
+    "track" : "Winner Takes It All - From \"Mamma Mia!\"",
+    "uri" : "spotify:track:0vqyU5ugo3jlFMVYP9DChM"
+  }, {
+    "artist" : "Ardhito Pramono",
+    "album" : "Waking Up Together With You",
+    "track" : "Waking Up Together With You",
+    "uri" : "spotify:track:6WsG550j67Aj29z0iel7lo"
+  }, {
+    "artist" : "Michael B. Tretow",
+    "album" : "Let's Boogie",
+    "track" : "Paper Dolls (feat. ABBA & Ted Gärdestad)",
+    "uri" : "spotify:track:4r82K3lSi6ox3JDPrrHKM9"
+  }, {
+    "artist" : "Marco Schuitmaker",
+    "album" : "Zomernacht In Griekenland",
+    "track" : "Zomernacht In Griekenland",
+    "uri" : "spotify:track:3OpUqZZuzcibtcWqgyCyPn"
+  }, {
+    "artist" : "Pierce The Veil",
+    "album" : "Collide With The Sky",
+    "track" : "Hold On Till May",
+    "uri" : "spotify:track:5u2FOoFhp495GIj5BJC77J"
+  }, {
+    "artist" : "Ardhito Pramono",
+    "album" : "Roadtrip",
+    "track" : "Waking Up Together With You - Live",
+    "uri" : "spotify:track:6J6mlw6HcctswDHkz1hq6r"
+  }, {
+    "artist" : "Joost",
+    "album" : "Fryslân",
+    "track" : "Florida 2009",
+    "uri" : "spotify:track:23M2pHxtt3QACQJKSYd69Y"
+  }, {
+    "artist" : "Naif",
+    "album" : "7 Bidadari",
+    "track" : "Berubah",
+    "uri" : "spotify:track:3LQbj4IDMkAt9UEB7qW1cG"
+  }, {
+    "artist" : "Kok Viral",
+    "album" : "Ganteng Review Saldonya Dong",
+    "track" : "Ganteng Review Saldonya Dong",
+    "uri" : "spotify:track:0wkFKkukNas3MgihO56hml"
+  }, {
+    "artist" : "Masdo",
+    "album" : "Dinda",
+    "track" : "Dinda",
+    "uri" : "spotify:track:49aLn6dhgqf1XOjxQGG15w"
+  }, {
+    "artist" : "Cage The Elephant",
+    "album" : "Tell Me I'm Pretty",
+    "track" : "Trouble",
+    "uri" : "spotify:track:5n0CTysih20NYdT2S0Wpe8"
+  }, {
+    "artist" : "Sia",
+    "album" : "Everyday Is Christmas",
+    "track" : "Puppies Are Forever",
+    "uri" : "spotify:track:0rFmOqwMT4hSaHYFTNIpyP"
+  }, {
+    "artist" : "Bread",
+    "album" : "Manna",
+    "track" : "If",
+    "uri" : "spotify:track:40W8Mm9t3ZO1iNQlls35lL"
+  }, {
+    "artist" : "Ertan Tekin",
+    "album" : "Itri & Bach",
+    "track" : "Air on G String From Orchestral Suite No.3 in D Major, BWV 1068",
+    "uri" : "spotify:track:6kKKRN6637ZYkttdTvrGgE"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "Hanukkah, Oh Hanukkah",
+    "uri" : "spotify:track:58r8dYXFBGvbw0rZ06gcnT"
+  }, {
+    "artist" : "Khalid",
+    "album" : "American Teen",
+    "track" : "Young Dumb & Broke",
+    "uri" : "spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears",
+    "track" : "We Might As Well Be Strangers",
+    "uri" : "spotify:track:4U4wBmE5KUP39VIpWMWGA3"
+  }, {
+    "artist" : "TRUSTcompany",
+    "album" : "The Lonely Position Of Neutral",
+    "track" : "Downfall",
+    "uri" : "spotify:track:55a9zQ8GXMw3gApQosXMHC"
+  }, {
+    "artist" : "Green Day",
+    "album" : "21 Guns",
+    "track" : "Favorite Son",
+    "uri" : "spotify:track:5Gayhazgs9FKmcgLC7VuFL"
+  }, {
+    "artist" : "Daniel Avery",
+    "album" : "Drone Logic",
+    "track" : "Water Jump",
+    "uri" : "spotify:track:5G1JHhg90lYoi23g4RSWzV"
+  }, {
+    "artist" : "MALIQ & D'Essentials",
+    "album" : "Kumpul Bocah (Original Soundtrack From “JUMBO\")",
+    "track" : "Kumpul Bocah (Original Soundtrack From “JUMBO\")",
+    "uri" : "spotify:track:0V6nKCvWMIXgsvyiSyiLPT"
+  }, {
+    "artist" : "Sektor Gaza",
+    "album" : "Нажми на Газ",
+    "track" : "Взял вину на себя",
+    "uri" : "spotify:track:2BBx5x4z8fhDVuAXsfpIHC"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album Vol. 3",
+    "track" : "I'll Be Home For Christmas",
+    "uri" : "spotify:track:1USsqWEMdSZ9380vRlXOIn"
+  }, {
+    "artist" : "Post Malone",
+    "album" : "Stoney",
+    "track" : "Go Flex",
+    "uri" : "spotify:track:2rgP2WKh9eDa5boVA4ez4T"
+  }, {
+    "artist" : "Paramore",
+    "album" : "Paramore",
+    "track" : "Hate to See Your Heart Break",
+    "uri" : "spotify:track:3AX4HIRJY6GT6tgMkO5987"
+  }, {
+    "artist" : "Veys Colak",
+    "album" : "Hal",
+    "track" : "Hal",
+    "uri" : "spotify:track:2OAWYRnBtVBYj31kEXnbfh"
+  }, {
+    "artist" : "Céline Dion",
+    "album" : "The Collector's Series Vol. 1",
+    "track" : "The Power Of The Dream",
+    "uri" : "spotify:track:3U5Tb6EP3fwzSZaufISnLX"
+  }, {
+    "artist" : "André Rieu",
+    "album" : "Jewels Of Romance",
+    "track" : "Voilà",
+    "uri" : "spotify:track:1XU9zTJSeuZg3qSJJj9kl6"
+  }, {
+    "artist" : "The Monkees",
+    "album" : "The Birds, The Bees, & The Monkees",
+    "track" : "Daydream Believer",
+    "uri" : "spotify:track:7uEcCGtM1FBBGIhPozhJjv"
+  }, {
+    "artist" : "Frida",
+    "album" : "Ensam",
+    "track" : "Fernando",
+    "uri" : "spotify:track:0nzCZIbxhUQxBL0qAf74FC"
+  }, {
+    "artist" : "ABBA",
+    "album" : "The Visitors",
+    "track" : "Head Over Heels",
+    "uri" : "spotify:track:5boJKR3VLBW0dc5167wKDE"
+  }, {
+    "artist" : "Queen",
+    "album" : "A Kind Of Magic",
+    "track" : "Friends Will Be Friends - Remastered 2011",
+    "uri" : "spotify:track:3EGlnkJGcwz73rT0oE0X1X"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "track" : "Novacaine - Demo",
+    "uri" : "spotify:track:15ckhYrxgGRhRElUMRLjjU"
+  }, {
+    "artist" : "NGT48",
+    "album" : "青春時計 (Special Edition)",
+    "track" : "青春時計",
+    "uri" : "spotify:track:62bPGqh8IYBpVOzxIxkrXA"
+  }, {
+    "artist" : "Rob De Nijs",
+    "album" : "Tijdloos",
+    "track" : "Foto Van Vroeger - Live",
+    "uri" : "spotify:track:5A0vXxkrIHLVT6dryTJAik"
+  }, {
+    "artist" : "Glee Cast",
+    "album" : "Glee: The Music, The Christmas Album, Vol. 4 - EP",
+    "track" : "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+    "uri" : "spotify:track:79JxN987ZcVnbXBODFoS0y"
+  }, {
+    "artist" : "Hivi!",
+    "album" : "Kereta Kencan",
+    "track" : "Kereta Kencan",
+    "uri" : "spotify:track:3x3rREiGYpZFooxt9OZMAy"
+  }, {
+    "artist" : "Benny Andersson",
+    "album" : "ABBA for Orchestra",
+    "track" : "The Winner Takes It All (Arr. C. Davis for Orchestra)",
+    "uri" : "spotify:track:0sjBLxOoR97XG5eCYG0tUy"
+  }, {
+    "artist" : "Green Day",
+    "album" : "Bullet in a Bible",
+    "track" : "Jesus of Suburbia - Live at Milton Keynes National Bowl, Milton Keynes, England, 6/18/05",
+    "uri" : "spotify:track:3uu779jxtrIdcRIHQWqqU3"
+  }, {
+    "artist" : "Keane",
+    "album" : "Hopes And Fears 20",
+    "track" : "The Way You Want It - Fierce Panda Single / Remastered 2024",
+    "uri" : "spotify:track:2E2hFmdvuoWdPrVHhqYhII"
+  }, {
+    "artist" : "Verka Serduchka",
+    "album" : "Do Re Mi",
+    "track" : "Dancing Lasha Tumbai",
+    "uri" : "spotify:track:3ve2mVR6BkXuNWfHVoA5yu"
+  }, {
+    "artist" : "Hippo Campus",
+    "album" : "landmark",
+    "track" : "way it goes",
+    "uri" : "spotify:track:14qApXn4L9UI0jQozlq6st"
+  }, {
+    "artist" : "Killing Me Inside",
+    "album" : "Selftitled",
+    "track" : "Torment",
+    "uri" : "spotify:track:6USgemtsfcRaqfcd1fpsFl"
+  }, {
+    "artist" : "Disco Lines",
+    "album" : "No Broke Boys",
+    "track" : "No Broke Boys",
+    "uri" : "spotify:track:3cZajhyr8LmtPfHZ9296tj"
+  }, {
+    "artist" : "Gilbert O'Sullivan",
+    "album" : "Songbook",
+    "track" : "Happiness Is Me and You - Songbook Version",
+    "uri" : "spotify:track:1SU7YS19WuktePy16BhNS7"
+  } ],
+  "albums" : [ {
+    "artist" : "Aria",
+    "album" : "Легенды русского рока: Ария",
+    "uri" : "spotify:album:3ke0AwigfXAH8duC7ZSD58"
+  }, {
+    "artist" : "Sam Fender",
+    "album" : "Hypersonic Missiles",
+    "uri" : "spotify:album:7FWCgfnTgupXdyBy51ME9m"
+  }, {
+    "artist" : "Kino",
+    "album" : "Виктор Цой 55",
+    "uri" : "spotify:album:7trila5XMOsUUkcujWqzcn"
+  }, {
+    "artist" : "Green Day",
+    "album" : "American Idiot",
+    "uri" : "spotify:album:19ObsGobUuBr11M6ysFMug"
+  }, {
+    "artist" : "Jeff Rosenstock",
+    "album" : "WORRY.",
+    "uri" : "spotify:album:18doqXfbCTpyz1PeO3d4eB"
+  }, {
+    "artist" : "Barbra Streisand",
+    "album" : "Funny Girl - Original Soundtrack Recording",
+    "uri" : "spotify:album:0G8qWYPobQUV9wDm2XABPp"
+  }, {
+    "artist" : "Various Artists",
+    "album" : "Live 8",
+    "uri" : "spotify:album:15t7NAV9KXOtPo7HefS39H"
+  }, {
+    "artist" : "Kok Viral",
+    "album" : "Ganteng Review Saldonya Dong",
+    "uri" : "spotify:album:1XV1pTaV33QP6RAa3hUtDq"
+  }, {
+    "artist" : "André Rieu",
+    "album" : "The Sound of Heaven",
+    "uri" : "spotify:album:5al1TnP3jdoRnRHmQ1BU16"
+  }, {
+    "artist" : "Queen",
+    "album" : "Queen II",
+    "uri" : "spotify:album:1HFobzrUk120xHeop7rC5D"
+  } ],
+  "shows" : [ {
+    "name" : "",
+    "publisher" : "",
+    "uri" : "spotify:show:408HDt2IxRxZfrWyTGkMiL"
+  }, {
+    "name" : "Apa Kata Dunia?",
+    "publisher" : "Amnesty Indonesia Chapter UI",
+    "uri" : "spotify:show:7FMl6FyNzNK7gyPXC7Ssip"
+  }, {
+    "name" : "Asumsi Bersuara",
+    "publisher" : "Box2BoxID",
+    "uri" : "spotify:show:5bCRb1bfzSWlfEPbVQbJob"
+  }, {
+    "name" : "Communism learning time",
+    "publisher" : "Bob Shnider",
+    "uri" : "spotify:show:1K2pmX4L7f7tGy4Pd8cg3U"
+  }, {
+    "name" : "Communist Potato Salad",
+    "publisher" : "Communist Potato Salad ",
+    "uri" : "spotify:show:02Kxjk3JSmsccR4mHKAa8l"
+  }, {
+    "name" : "Drunken Philosophy",
+    "publisher" : "Drunken Philosophy",
+    "uri" : "spotify:show:1lg1B6zuFfUxXiqosHHO1n"
+  }, {
+    "name" : "In Our Time: Philosophy",
+    "publisher" : "BBC Radio 4",
+    "uri" : "spotify:show:5is2mhWCz6l7pHZoWarhc4"
+  }, {
+    "name" : "MJS Podcast ",
+    "publisher" : "Masjid Jendral Sudirman",
+    "uri" : "spotify:show:4MDawWeQh909VqZcZPEWiY"
+  }, {
+    "name" : "Magdalene's Mind ",
+    "publisher" : "Magdalene Indonesia",
+    "uri" : "spotify:show:6XDGLkJrygX4k1SPbQoBv6"
+  }, {
+    "name" : "Philosophize This!",
+    "publisher" : "Stephen West",
+    "uri" : "spotify:show:2Shpxw7dPoxRJCdfFXTWLE"
+  }, {
+    "name" : "Podcast Bebas Aktif",
+    "publisher" : "Kontekstual",
+    "uri" : "spotify:show:0SyqsUX0Cc6UqmOh63harj"
+  }, {
+    "name" : "Political Conversation",
+    "publisher" : "Rama Bagaskara",
+    "uri" : "spotify:show:4lXqZYbuv7lOAg4d8mLe10"
+  }, {
+    "name" : "Politik Kemarin Sore",
+    "publisher" : "KaloKataku x Box2BoxID",
+    "uri" : "spotify:show:6lG8IFEvqu4P3fVrsk7SIo"
+  }, {
+    "name" : "Politisasi Rasional",
+    "publisher" : "Baskoro Adi Sumantri",
+    "uri" : "spotify:show:4OK5q598PMhZ2adBwLUCZ7"
+  }, {
+    "name" : "The BEATLES Radio",
+    "publisher" : "TheMonsterCinemaProduction",
+    "uri" : "spotify:show:3RfKBn2xLZe0SESp5FwpVq"
+  }, {
+    "name" : "Today, Explained",
+    "publisher" : "Vox",
+    "uri" : "spotify:show:3pXx5SXzXwJxnf4A5pWN2A"
+  }, {
+    "name" : "Worldly",
+    "publisher" : "Vox",
+    "uri" : "spotify:show:2ChhfoVUC3abZJn9geRvQn"
+  }, {
+    "name" : "Yes& Body Politics",
+    "publisher" : "Tresla and Guru Shabd",
+    "uri" : "spotify:show:7vTSCwzXPYwS2RHb22968K"
+  } ],
+  "episodes" : [ ],
+  "bannedTracks" : [ ],
+  "artists" : [ {
+    "name" : ".Feast",
+    "uri" : "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+  }, {
+    "name" : "Beyoncé",
+    "uri" : "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+  }, {
+    "name" : "Cage The Elephant",
+    "uri" : "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+  }, {
+    "name" : "Ecco2k",
+    "uri" : "spotify:artist:6hG0VsXXlD10l60TqiIHIX"
+  }, {
+    "name" : "Extremoduro",
+    "uri" : "spotify:artist:3bgsNtcf5d5h9jbQbohfBK"
+  }, {
+    "name" : "Glee Cast",
+    "uri" : "spotify:artist:0SCbttzoZTnLFebDYmAWCm"
+  }, {
+    "name" : "Gogol Bordello",
+    "uri" : "spotify:artist:2SVw939fwuqSobLjF8u78b"
+  }, {
+    "name" : "Green Day",
+    "uri" : "spotify:artist:7oPftvlwr6VrsViSDV7fJY"
+  }, {
+    "name" : "Hivi!",
+    "uri" : "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+  }, {
+    "name" : "Keane",
+    "uri" : "spotify:artist:53A0W3U0s8diEn9RhXQhVz"
+  }, {
+    "name" : "Lana Del Rey",
+    "uri" : "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+  }, {
+    "name" : "Lil Uzi Vert",
+    "uri" : "spotify:artist:4O15NlyKLIASxsJ0PrXPfz"
+  }, {
+    "name" : "Lorde",
+    "uri" : "spotify:artist:163tK9Wjr9P9DmM0AVK7lm"
+  }, {
+    "name" : "Muse",
+    "uri" : "spotify:artist:12Chz98pHFMPJEknJQMWvI"
+  }, {
+    "name" : "Nicki Minaj",
+    "uri" : "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+  }, {
+    "name" : "Niels Littooij",
+    "uri" : "spotify:artist:0ySkV0Z1YLiOQn5fBOIKrG"
+  }, {
+    "name" : "Nielson",
+    "uri" : "spotify:artist:5m5Fh8zrb0uHM85qwkIkVT"
+  }, {
+    "name" : "Oasis",
+    "uri" : "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+  }, {
+    "name" : "Queen",
+    "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+  }, {
+    "name" : "Tame Impala",
+    "uri" : "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+  }, {
+    "name" : "The Beatles",
+    "uri" : "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+  }, {
+    "name" : "The Network",
+    "uri" : "spotify:artist:0vDdlaPkN2w0ibESVsrI3F"
+  }, {
+    "name" : "The Panturas",
+    "uri" : "spotify:artist:1eblwVFP5H4whVZrYmXQLl"
+  }, {
+    "name" : "White Shoes & The Couples Company",
+    "uri" : "spotify:artist:5wm369wshLgPTaW2TDwkus"
+  } ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "kallaxes" : [ ],
+  "other" : [ ]
+}

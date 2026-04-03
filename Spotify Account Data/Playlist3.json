@@ -1,0 +1,1541 @@
+{
+  "playlists" : [ {
+    "name" : "lonely dreamers",
+    "lastModifiedDate" : "2022-01-30",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Feel It Still",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Woodstock",
+        "trackUri" : "spotify:track:6QgjcU0zLnzq5OrUoSZ3OK"
+      },
+      "addedDate" : "2018-01-09"
+    }, {
+      "track" : {
+        "trackName" : "The Other Side Of Paradise",
+        "artistName" : "Glass Animals",
+        "albumName" : "How To Be A Human Being",
+        "trackUri" : "spotify:track:3aTrurxagDJfsQRBEOGfMb"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "The Less I Know The Better",
+        "artistName" : "Tame Impala",
+        "albumName" : "Currents",
+        "trackUri" : "spotify:track:4g3Ax56IslQkI6XVfYKVc5"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Tidal Wave",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Woodstock",
+        "trackUri" : "spotify:track:384TqRlwlMfeUAODhXfF3O"
+      },
+      "addedDate" : "2018-01-12"
+    }, {
+      "track" : {
+        "trackName" : "Noise Pollution (feat. Mary Elizabeth Winstead & Zoe Manville) - Version A, Vocal up Mix 1.3",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Woodstock",
+        "trackUri" : "spotify:track:6E69aBnq0hr6cTGBo39cWD"
+      },
+      "addedDate" : "2018-01-12"
+    }, {
+      "track" : {
+        "trackName" : "Silvertongue",
+        "artistName" : "Young the Giant",
+        "albumName" : "Home of the Strange",
+        "trackUri" : "spotify:track:0yTJtxZJ5VLfBEHhiNUNeY"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Fool",
+        "artistName" : "Fitz and The Tantrums",
+        "albumName" : "Fitz and The Tantrums",
+        "trackUri" : "spotify:track:7rt7ywY9yekwaYXk2Zt4Q5"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Dive",
+        "artistName" : "Coast Modern",
+        "albumName" : "Dive",
+        "trackUri" : "spotify:track:3ezHsjftL6BdBL0uHOMOrd"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "When the War Ends",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "American Ghetto",
+        "trackUri" : "spotify:track:6onGPPlA3MuXZdWqE5YBcX"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Mornings",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "The Satanic Satanist",
+        "trackUri" : "spotify:track:5ROyw8Y6491Nhp8uZaKW6Y"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "buttercup",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Landmark",
+        "trackUri" : "spotify:track:5q88vK8yqVkT7LBbjB6dic"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "HandClap",
+        "artistName" : "Fitz and The Tantrums",
+        "albumName" : "Fitz and The Tantrums",
+        "trackUri" : "spotify:track:4qRaZYiaOsSvWC7VgcxrI0"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "In Cold Blood",
+        "artistName" : "alt-J",
+        "albumName" : "RELAXER",
+        "trackUri" : "spotify:track:5QD4hHEv8812JagZlH1MMy"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "So Young",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Woodstock",
+        "trackUri" : "spotify:track:4SNtyKNyYJ8ERT7YLlnFBr"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Talk Too Much",
+        "artistName" : "COIN",
+        "albumName" : "Talk Too Much",
+        "trackUri" : "spotify:track:7FX3ZWE70VRjsprg5oeECc"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Your Song",
+        "artistName" : "Rita Ora",
+        "albumName" : "Your Song",
+        "trackUri" : "spotify:track:5Mszd2USbXSLWGyN3NCwi2"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "She's On My Mind",
+        "artistName" : "JP Cooper",
+        "albumName" : "Raised Under Grey Skies",
+        "trackUri" : "spotify:track:1t0UbGPCjGpLeH7KiLBuBv"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Sit Next to Me",
+        "artistName" : "Foster The People",
+        "albumName" : "Sacred Hearts Club",
+        "trackUri" : "spotify:track:4BdGO1CaObRD4La9l5Zanz"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Wish I Knew You",
+        "artistName" : "The Revivalists",
+        "albumName" : "Men Amongst Mountains",
+        "trackUri" : "spotify:track:7AOhUY89PYUxswAQax48ZB"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Youth",
+        "artistName" : "Glass Animals",
+        "albumName" : "How To Be A Human Being",
+        "trackUri" : "spotify:track:6xN6V82mRqClL3JXxbkcK8"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Ric Flair Drip (with Metro Boomin)",
+        "artistName" : "Offset",
+        "albumName" : "Without Warning",
+        "trackUri" : "spotify:track:7sO5G9EABYOXQKNPNiE9NR"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "way it goes",
+        "artistName" : "Hippo Campus",
+        "albumName" : "landmark",
+        "trackUri" : "spotify:track:14qApXn4L9UI0jQozlq6st"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Cocoon",
+        "artistName" : "Milky Chance",
+        "albumName" : "Blossom",
+        "trackUri" : "spotify:track:09ktDKfoIaTmPbDMIJycYp"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Modern Jesus",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Evil Friends",
+        "trackUri" : "spotify:track:7iOyMOxdOULvXqUqC26spJ"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Trouble",
+        "artistName" : "Cage The Elephant",
+        "albumName" : "Tell Me I'm Pretty",
+        "trackUri" : "spotify:track:5n0CTysih20NYdT2S0Wpe8"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Purple Yellow Red and Blue",
+        "artistName" : "Portugal. The Man",
+        "albumName" : "Evil Friends",
+        "trackUri" : "spotify:track:4WMuY659P2MKnoW40oGXe8"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Cigarette Daydreams",
+        "artistName" : "Cage The Elephant",
+        "albumName" : "Melophobia",
+        "trackUri" : "spotify:track:2tznHmp70DxMyr2XhWLOW0"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Feels Like We Only Go Backwards",
+        "artistName" : "Tame Impala",
+        "albumName" : "Lonerism",
+        "trackUri" : "spotify:track:6vTtMyCg96xwpoIBws9K0Q"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Cold Cold Man",
+        "artistName" : "Saint Motel",
+        "albumName" : "My Type EP",
+        "trackUri" : "spotify:track:7AN4zvlHUTqpl25bqOhFcG"
+      },
+      "addedDate" : "2018-01-13"
+    }, {
+      "track" : {
+        "trackName" : "Look What You Made Me Do",
+        "artistName" : "Taylor Swift",
+        "albumName" : "reputation",
+        "trackUri" : "spotify:track:5troof8mcGO3AafoDbk1gc"
+      },
+      "addedDate" : "2018-01-14"
+    }, {
+      "track" : {
+        "trackName" : "Portland, Maine",
+        "artistName" : "Donovan Woods",
+        "albumName" : "Portland, Maine",
+        "trackUri" : "spotify:track:6u1E03WKp0QsOfK5FEzzGr"
+      },
+      "addedDate" : "2018-01-14"
+    }, {
+      "track" : {
+        "trackName" : "Concrete Jungle - Acoustic",
+        "artistName" : "Au/Ra",
+        "albumName" : "Concrete Jungle (Acoustic)",
+        "trackUri" : "spotify:track:4yxL6eoSsZ04lN0VezKgcr"
+      },
+      "addedDate" : "2018-01-14"
+    }, {
+      "track" : {
+        "trackName" : "Run Boy Run",
+        "artistName" : "Woodkid",
+        "albumName" : "The Golden Age",
+        "trackUri" : "spotify:track:2YhapA5E1qTZ1Ykw9Y86ql"
+      },
+      "addedDate" : "2018-01-17"
+    }, {
+      "track" : {
+        "trackName" : "The Only Boy Awake",
+        "artistName" : "Meadows",
+        "albumName" : "The Only Boy Awake",
+        "trackUri" : "spotify:track:4tRt91OQSbE9eFA3RwgqSd"
+      },
+      "addedDate" : "2018-01-17"
+    }, {
+      "track" : {
+        "trackName" : "Dream of You",
+        "artistName" : "Meadows",
+        "albumName" : "The Only Boy Awake",
+        "trackUri" : "spotify:track:1JYJH9IhULXL1p9gf69Alq"
+      },
+      "addedDate" : "2018-01-20"
+    }, {
+      "track" : {
+        "trackName" : "Imaginary Parties",
+        "artistName" : "Superfruit",
+        "albumName" : "Future Friends - Part One",
+        "trackUri" : "spotify:track:2bopUyK6ll0CZFw03TDKAY"
+      },
+      "addedDate" : "2018-01-20"
+    }, {
+      "track" : {
+        "trackName" : "Blue Ain't Your Color",
+        "artistName" : "Home Free",
+        "albumName" : "Blue Ain't Your Color",
+        "trackUri" : "spotify:track:1eSATRNexdeISaAJ5swi1n"
+      },
+      "addedDate" : "2018-01-20"
+    }, {
+      "track" : {
+        "trackName" : "Lonely",
+        "artistName" : "Akon",
+        "albumName" : "Heartbreakers",
+        "trackUri" : "spotify:track:4mNGNMcsoMS6F9SGycmHWM"
+      },
+      "addedDate" : "2018-01-26"
+    }, {
+      "track" : {
+        "trackName" : "Shanghai",
+        "artistName" : "R3HAB",
+        "albumName" : "Trouble",
+        "trackUri" : "spotify:track:1zNKrNBtDPje8fIodmzDOR"
+      },
+      "addedDate" : "2018-01-27"
+    }, {
+      "track" : {
+        "trackName" : "Burning - Recorded At RAK Studios, London",
+        "artistName" : "Sam Smith",
+        "albumName" : "Spotify Singles",
+        "trackUri" : "spotify:track:6lOQn2bDMHo7Xi9fRQKzq5"
+      },
+      "addedDate" : "2018-02-02"
+    }, {
+      "track" : {
+        "trackName" : "Amen",
+        "artistName" : "Rich Brian",
+        "albumName" : "Amen",
+        "trackUri" : "spotify:track:4gAakyurZ4cbgnPyTuswp7"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "Glow Like Dat",
+        "artistName" : "Rich Brian",
+        "albumName" : "Amen",
+        "trackUri" : "spotify:track:7MXcmkmyxEYAJf04cbqKoI"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "Suit & Tie (feat. JAY-Z)",
+        "artistName" : "Justin Timberlake",
+        "albumName" : "The 20/20 Experience (Deluxe Version)",
+        "trackUri" : "spotify:track:6vt0I1cw1YmAIKDJvHVIM5"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "True Colors",
+        "artistName" : "Anna Kendrick",
+        "albumName" : "True Colors",
+        "trackUri" : "spotify:track:2ORrgw8M0ZbrFlm5cpaKCv"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "Outsiders (Acoustic)",
+        "artistName" : "Au/Ra",
+        "albumName" : "Outsiders (Acoustic)",
+        "trackUri" : "spotify:track:4VyvzQoIfG49xiNuYVYBiv"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "Why Do You Feel So Down",
+        "artistName" : "Declan McKenna",
+        "albumName" : "What Do You Think About the Car?",
+        "trackUri" : "spotify:track:5Bge1Dsqjc14hhGguYML5w"
+      },
+      "addedDate" : "2018-02-03"
+    }, {
+      "track" : {
+        "trackName" : "Something - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "Abbey Road",
+        "trackUri" : "spotify:track:7oSUp4yZ0FbuSvVmCxH2ty"
+      },
+      "addedDate" : "2018-02-04"
+    }, {
+      "track" : {
+        "trackName" : "Finesse - Remix; feat. Cardi B",
+        "artistName" : "Bruno Mars",
+        "albumName" : "Finesse (Remix) [feat. Cardi B]",
+        "trackUri" : "spotify:track:3Vo4wInECJQuz9BIBMOu8i"
+      },
+      "addedDate" : "2018-02-04"
+    }, {
+      "track" : {
+        "trackName" : "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "artistName" : "Justin Timberlake",
+        "albumName" : "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "trackUri" : "spotify:track:6JV2JOEocMgcZxYSZelKcc"
+      },
+      "addedDate" : "2018-02-07"
+    }, {
+      "track" : {
+        "trackName" : "Bohemian Rhapsody",
+        "artistName" : "Pentatonix",
+        "albumName" : "PTX Vol. IV - Classics",
+        "trackUri" : "spotify:track:0lrkMvRttmoXjMNS8YONvj"
+      },
+      "addedDate" : "2018-02-09"
+    }, {
+      "track" : {
+        "trackName" : "The Night We Met",
+        "artistName" : "Lord Huron",
+        "albumName" : "Strange Trails",
+        "trackUri" : "spotify:track:6mORGLOz79w6VsCRLWYYuK"
+      },
+      "addedDate" : "2018-02-11"
+    }, {
+      "track" : {
+        "trackName" : "Make Me Your Queen",
+        "artistName" : "Declan McKenna",
+        "albumName" : "What Do You Think About the Car?",
+        "trackUri" : "spotify:track:5QJuMhGWTUB4t9BqR7ndL3"
+      },
+      "addedDate" : "2018-02-09"
+    }, {
+      "track" : {
+        "trackName" : "No One Has To Know",
+        "artistName" : "RAC",
+        "albumName" : "EGO",
+        "trackUri" : "spotify:track:6T8CvGpqoOLlS8B160ciGR"
+      },
+      "addedDate" : "2018-02-09"
+    }, {
+      "track" : {
+        "trackName" : "God's Plan",
+        "artistName" : "Drake",
+        "albumName" : "Scary Hours",
+        "trackUri" : "spotify:track:2XW4DbS6NddZxRPm5rMCeY"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Halo",
+        "artistName" : "Beyoncé",
+        "albumName" : "I AM...SASHA FIERCE - Platinum Edition",
+        "trackUri" : "spotify:track:2CvOqDpQIMw69cCzWqr5yr"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Kereta Kencan",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:0ibNB0ddusp5eJVnBJnMMu"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Remaja",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:1SaQZoFXNu7ZAxxKImzFgf"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Havana (feat. Young Thug)",
+        "artistName" : "Camila Cabello",
+        "albumName" : "Havana (feat. Young Thug)",
+        "trackUri" : "spotify:track:0ofbQMrRDsUaVKq2mGLEAb"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Pelangi",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:5BgZ1bi8xeWVxmg12RfWzv"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:1SbpxkBg8DnkbTDgflkf6w"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Emotions",
+        "artistName" : "Mariah Carey",
+        "albumName" : "Emotions",
+        "trackUri" : "spotify:track:0cELvuwJW1acISUHYB6suj"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Here Comes The Sun - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "Abbey Road",
+        "trackUri" : "spotify:track:45yEy5WJywhJ3sDI28ajTm"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Hey Jude - Remastered 2015",
+        "artistName" : "The Beatles",
+        "albumName" : "1",
+        "trackUri" : "spotify:track:3H7sv3Krffn15BufUuXzf3"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Let It Be - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "Let It Be",
+        "trackUri" : "spotify:track:5V1AHQugSTASVez5ffJtFo"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Here Comes The Sun (Glee Cast Version) (feat. Demi Lovato)",
+        "artistName" : "Glee Cast",
+        "albumName" : "Glee Sings The Beatles",
+        "trackUri" : "spotify:track:7oUqrkz1A5D6XIVZUya44D"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Yesterday - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "Help!",
+        "trackUri" : "spotify:track:1e0hllQ23AG0QGFgezgLOq"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Sgt. Pepper's Lonely Hearts Club Band - Remix",
+        "artistName" : "The Beatles",
+        "albumName" : "Sgt. Pepper's Lonely Hearts Club Band",
+        "trackUri" : "spotify:track:6bxyTE0a0SFneMeIxXDCm7"
+      },
+      "addedDate" : "2018-02-10"
+    }, {
+      "track" : {
+        "trackName" : "Believer",
+        "artistName" : "Imagine Dragons",
+        "albumName" : "Evolve",
+        "trackUri" : "spotify:track:0CcQNd8CINkwQfe1RDtGV6"
+      },
+      "addedDate" : "2018-02-14"
+    }, {
+      "track" : {
+        "trackName" : "Blackbird - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "The Beatles",
+        "trackUri" : "spotify:track:4Z92RMiyJpUrApZi3LtpJ6"
+      },
+      "addedDate" : "2018-02-14"
+    }, {
+      "track" : {
+        "trackName" : "Maxwell's Silver Hammer - Remastered",
+        "artistName" : "The Beatles",
+        "albumName" : "Abbey Road",
+        "trackUri" : "spotify:track:5sCAPvnUDnxHduLLhM5agY"
+      },
+      "addedDate" : "2018-02-15"
+    }, {
+      "track" : {
+        "trackName" : "Selalu Muda",
+        "artistName" : "Payung Teduh",
+        "albumName" : "Ruang Tunggu",
+        "trackUri" : "spotify:track:1UytIUDfvnat7ATY6s99WW"
+      },
+      "addedDate" : "2018-02-15"
+    }, {
+      "track" : {
+        "trackName" : "All I Ask",
+        "artistName" : "Adele",
+        "albumName" : "25",
+        "trackUri" : "spotify:track:6HbI4e2Y2f6HYVV6r04M4W"
+      },
+      "addedDate" : "2018-02-15"
+    }, {
+      "track" : {
+        "trackName" : "Send My Love (To Your New Lover)",
+        "artistName" : "Adele",
+        "albumName" : "25",
+        "trackUri" : "spotify:track:3KZcrZ36LW9RnChK1iIkth"
+      },
+      "addedDate" : "2018-02-15"
+    }, {
+      "track" : {
+        "trackName" : "Tired",
+        "artistName" : "Zach Farache",
+        "albumName" : "Fatigue",
+        "trackUri" : "spotify:track:0hjywDvx3Tgs94gJAzhAkr"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "Hand It Over",
+        "artistName" : "MGMT",
+        "albumName" : "Little Dark Age",
+        "trackUri" : "spotify:track:1s2oewEkFG9eF9Mq7MyvCV"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "Every Little Step",
+        "artistName" : "Bobby Brown",
+        "albumName" : "Don't Be Cruel",
+        "trackUri" : "spotify:track:77jafF0LW3uR4CDx04OK3F"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "We Belong Together",
+        "artistName" : "Mariah Carey",
+        "albumName" : "The Emancipation of Mimi",
+        "trackUri" : "spotify:track:1qR8saLKsf4oIGdpt4QUQc"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "Sweet Talk",
+        "artistName" : "Saint Motel",
+        "albumName" : "saintmotelevision",
+        "trackUri" : "spotify:track:6kcHg7XL6SKyPNd78daRBL"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "Headphones",
+        "artistName" : "WALK THE MOON",
+        "albumName" : "Headphones",
+        "trackUri" : "spotify:track:3v94lXvmQ4q80RJpYnBuGY"
+      },
+      "addedDate" : "2018-02-18"
+    }, {
+      "track" : {
+        "trackName" : "Million Bucks",
+        "artistName" : "Smallpools",
+        "albumName" : "Million Bucks",
+        "trackUri" : "spotify:track:6Hx7kdHB9kGdxnw2EwSx2V"
+      },
+      "addedDate" : "2018-02-19"
+    }, {
+      "track" : {
+        "trackName" : "Second Night Of Summer",
+        "artistName" : "BØRNS",
+        "albumName" : "Blue Madonna",
+        "trackUri" : "spotify:track:1BHgFH5E5gEZBHKyyIuaFM"
+      },
+      "addedDate" : "2018-02-19"
+    }, {
+      "track" : {
+        "trackName" : "Last To Leave (feat. Caroline Ailin)",
+        "artistName" : "Louis The Child",
+        "albumName" : "Last To Leave (feat. Caroline Ailin)",
+        "trackUri" : "spotify:track:2Uom73ehNYdAY6JopMRJ3M"
+      },
+      "addedDate" : "2018-02-19"
+    }, {
+      "track" : {
+        "trackName" : "Glorious Warrior",
+        "artistName" : "Electric Guest",
+        "albumName" : "Plural",
+        "trackUri" : "spotify:track:1tSCZ4qyXEvA8B6ELGwEQK"
+      },
+      "addedDate" : "2018-02-19"
+    }, {
+      "track" : {
+        "trackName" : "Swimming in the Moonlight",
+        "artistName" : "Bad Suns",
+        "albumName" : "Disappear Here",
+        "trackUri" : "spotify:track:4cevHqmQmzCqFer1R9NTL4"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Ghostbusters",
+        "artistName" : "WALK THE MOON",
+        "albumName" : "Ghostbusters (Original Motion Picture Soundtrack)",
+        "trackUri" : "spotify:track:4xTMKnLtz1PVfZRElleujx"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Pretend",
+        "artistName" : "Bad Suns",
+        "albumName" : "Language & Perspective",
+        "trackUri" : "spotify:track:3ZhqRE1m26PZtqC8bJrHpo"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Get Right Back",
+        "artistName" : "Fitz and The Tantrums",
+        "albumName" : "Fitz and The Tantrums",
+        "trackUri" : "spotify:track:4BlBO4fLXCoh5nd7Oj0YvK"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Growing Pains",
+        "artistName" : "COIN",
+        "albumName" : "Growing Pains",
+        "trackUri" : "spotify:track:6B3VHoemogRyAp6VokPNKF"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Mine",
+        "artistName" : "Bazzi",
+        "albumName" : "Mine",
+        "trackUri" : "spotify:track:6tHWl8ows5JOZq9Yfaqn3M"
+      },
+      "addedDate" : "2018-02-21"
+    }, {
+      "track" : {
+        "trackName" : "Traveler",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Warm Glow",
+        "trackUri" : "spotify:track:7DWrZfK0AQ1P5aGtoIXgvx"
+      },
+      "addedDate" : "2018-02-22"
+    }, {
+      "track" : {
+        "trackName" : "Everything Now",
+        "artistName" : "Arcade Fire",
+        "albumName" : "Everything Now",
+        "trackUri" : "spotify:track:7KsZHCfOitA5V9oQYVdltG"
+      },
+      "addedDate" : "2018-02-22"
+    }, {
+      "track" : {
+        "trackName" : "Two High",
+        "artistName" : "Moon Taxi",
+        "albumName" : "Two High",
+        "trackUri" : "spotify:track:0Z9HQ8YvHqdeOjTwsR3cS7"
+      },
+      "addedDate" : "2018-02-22"
+    }, {
+      "track" : {
+        "trackName" : "vines",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Landmark",
+        "trackUri" : "spotify:track:2mfynHLm15ZOP91gWIUybL"
+      },
+      "addedDate" : "2018-02-22"
+    }, {
+      "track" : {
+        "trackName" : "Puzzle Pieces",
+        "artistName" : "Saint Motel",
+        "albumName" : "Voyeur",
+        "trackUri" : "spotify:track:2Zd9awmsA8KuF65snhz7YH"
+      },
+      "addedDate" : "2018-02-22"
+    }, {
+      "track" : {
+        "trackName" : "vacation",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Landmark",
+        "trackUri" : "spotify:track:1mgd8h31LqvYxupNqDMVm1"
+      },
+      "addedDate" : "2018-02-23"
+    }, {
+      "track" : {
+        "trackName" : "The Only Heirs",
+        "artistName" : "Local Natives",
+        "albumName" : "The Only Heirs",
+        "trackUri" : "spotify:track:4UC3idzH0C2165D2hMvYrX"
+      },
+      "addedDate" : "2018-02-23"
+    }, {
+      "track" : {
+        "trackName" : "1997",
+        "artistName" : "Saint Motel",
+        "albumName" : "Voyeur",
+        "trackUri" : "spotify:track:7jbIhbNMWgtfkenoeZLDNg"
+      },
+      "addedDate" : "2018-02-23"
+    }, {
+      "track" : {
+        "trackName" : "Everything All At Once",
+        "artistName" : "Local Natives",
+        "albumName" : "Sunlit Youth",
+        "trackUri" : "spotify:track:7LMzm5kiwaHeZnJPLvX2MD"
+      },
+      "addedDate" : "2018-02-23"
+    }, {
+      "track" : {
+        "trackName" : "Sweeterman",
+        "artistName" : "Zach Farache",
+        "albumName" : "Fatigue",
+        "trackUri" : "spotify:track:5c4f0rFb1IJ0BTvENGIyh1"
+      },
+      "addedDate" : "2018-03-03"
+    }, {
+      "track" : {
+        "trackName" : "Menuju Senja",
+        "artistName" : "Payung Teduh",
+        "albumName" : "Dunia Batas",
+        "trackUri" : "spotify:track:6ctfCjsLBJfadmBH41SFkl"
+      },
+      "addedDate" : "2018-03-11"
+    }, {
+      "track" : {
+        "trackName" : "Akad",
+        "artistName" : "Payung Teduh",
+        "albumName" : "Akad",
+        "trackUri" : "spotify:track:5CwcXgsF9jcyqwkl5uxKnD"
+      },
+      "addedDate" : "2018-03-11"
+    }, {
+      "track" : {
+        "trackName" : "Rahasia",
+        "artistName" : "Payung Teduh",
+        "albumName" : "Dunia Batas",
+        "trackUri" : "spotify:track:1k8wWtaL30ncdF7Mrginys"
+      },
+      "addedDate" : "2018-03-11"
+    }, {
+      "track" : {
+        "trackName" : "Look Alive (feat. Drake)",
+        "artistName" : "BlocBoy JB",
+        "albumName" : "Look Alive (feat. Drake)",
+        "trackUri" : "spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Metrotech",
+        "artistName" : "Public Access T.V.",
+        "albumName" : "Metrotech",
+        "trackUri" : "spotify:track:00cGnQ7Z3EzNAXLaNGlfBs"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Beat of My Drum",
+        "artistName" : "POWERS",
+        "albumName" : "Beat of My Drum",
+        "trackUri" : "spotify:track:7hVsdXC9zRDiWFfhdmkYC8"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Homage",
+        "artistName" : "Mild High Club",
+        "albumName" : "Skiptracing",
+        "trackUri" : "spotify:track:7pegxVesMmE2qK0o58xoFG"
+      },
+      "addedDate" : "2020-03-20"
+    }, {
+      "track" : {
+        "trackName" : "Painting (Masterpiece)",
+        "artistName" : "Lewis Del Mar",
+        "albumName" : "Lewis Del Mar",
+        "trackUri" : "spotify:track:4kK14radw0XfwxJDPt9tnP"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Open Your Eyes",
+        "artistName" : "STRFKR",
+        "albumName" : "Being No One, Going Nowhere",
+        "trackUri" : "spotify:track:0xxm1WskKZSCvbkGjkSMr2"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Excuses",
+        "artistName" : "The Morning Benders",
+        "albumName" : "Big Echo",
+        "trackUri" : "spotify:track:2ARB3fKvRkMGhAtZuTnE5J"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Getting Along",
+        "artistName" : "The Magic Gang",
+        "albumName" : "Getting Along",
+        "trackUri" : "spotify:track:1QkzFkSZuQOef8iLeA1uth"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "On My Own",
+        "artistName" : "Caveman",
+        "albumName" : "Otero War",
+        "trackUri" : "spotify:track:1PP8coQMZcpyQfaPk54Vxo"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "All Day All Night",
+        "artistName" : "Moon Taxi",
+        "albumName" : "All Day All Night",
+        "trackUri" : "spotify:track:2gzKrevrRv9ihRiDItYPBJ"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Novocain",
+        "artistName" : "BLOXX",
+        "albumName" : "Novocain",
+        "trackUri" : "spotify:track:0XIAZIR0POawfn7LbBteKc"
+      },
+      "addedDate" : "2018-03-16"
+    }, {
+      "track" : {
+        "trackName" : "Love Lies",
+        "artistName" : "Khalid",
+        "albumName" : "Love Lies",
+        "trackUri" : "spotify:track:45Egmo7icyopuzJN0oMEdk"
+      },
+      "addedDate" : "2018-03-19"
+    }, {
+      "track" : {
+        "trackName" : "Adventure Time",
+        "artistName" : "Ouse",
+        "albumName" : "Adventure Time",
+        "trackUri" : "spotify:track:2wheAj3JIOq3Qt4IzcY0CI"
+      },
+      "addedDate" : "2018-03-24"
+    }, {
+      "track" : {
+        "trackName" : "Drunk in Love (feat. JAY-Z)",
+        "artistName" : "Beyoncé",
+        "albumName" : "BEYONCÉ [Platinum Edition]",
+        "trackUri" : "spotify:track:6jG2YzhxptolDzLHTGLt7S"
+      },
+      "addedDate" : "2018-04-03"
+    }, {
+      "track" : {
+        "trackName" : "Drunk in the Morning",
+        "artistName" : "Lukas Graham",
+        "albumName" : "Lukas Graham",
+        "trackUri" : "spotify:track:3xi7d2yGx09UKMAAr7A3az"
+      },
+      "addedDate" : "2018-04-03"
+    }, {
+      "track" : {
+        "trackName" : "Now",
+        "artistName" : "Neon Bunny",
+        "albumName" : "Now",
+        "trackUri" : "spotify:track:7mgIY97hXWORj7TkrmOTTj"
+      },
+      "addedDate" : "2018-04-07"
+    }, {
+      "track" : {
+        "trackName" : "I Like It",
+        "artistName" : "Cardi B",
+        "albumName" : "Invasion of Privacy",
+        "trackUri" : "spotify:track:58q2HKrzhC3ozto2nDdN4z"
+      },
+      "addedDate" : "2018-04-15"
+    }, {
+      "track" : {
+        "trackName" : "Nice For What",
+        "artistName" : "Drake",
+        "albumName" : "Nice For What",
+        "trackUri" : "spotify:track:1cTZMwcBJT0Ka3UJPXOeeN"
+      },
+      "addedDate" : "2018-04-15"
+    }, {
+      "track" : {
+        "trackName" : "Gadis Sampul",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:7A3c5EZzk1XHlpzuRU3nGB"
+      },
+      "addedDate" : "2018-04-16"
+    }, {
+      "track" : {
+        "trackName" : "Freaky Friday (feat. Chris Brown)",
+        "artistName" : "Lil Dicky",
+        "albumName" : "Freaky Friday (feat. Chris Brown)",
+        "trackUri" : "spotify:track:10Igtw8bSDyyFs7KIsKngZ"
+      },
+      "addedDate" : "2018-04-16"
+    }, {
+      "track" : {
+        "trackName" : "Apa Adanya",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:5Vl1IWmW8JiyH9dwwxIct6"
+      },
+      "addedDate" : "2018-04-16"
+    }, {
+      "track" : {
+        "trackName" : "Merakit Perahu",
+        "artistName" : "Hivi!",
+        "albumName" : "Kereta Kencan",
+        "trackUri" : "spotify:track:2opadtKGBFWBwpId765qax"
+      },
+      "addedDate" : "2018-04-16"
+    }, {
+      "track" : {
+        "trackName" : "Midnight Train",
+        "artistName" : "Sam Smith",
+        "albumName" : "The Thrill Of It All",
+        "trackUri" : "spotify:track:1A85fOmviQuGgkF6Lww6Nd"
+      },
+      "addedDate" : "2018-05-10"
+    }, {
+      "track" : {
+        "trackName" : "Something (Glee Cast Version)",
+        "artistName" : "Glee Cast",
+        "albumName" : "Glee Sings The Beatles",
+        "trackUri" : "spotify:track:0sFg8HTuP3L7Zds4FaooCK"
+      },
+      "addedDate" : "2018-05-22"
+    }, {
+      "track" : {
+        "trackName" : "Ain't It Fun",
+        "artistName" : "Paramore",
+        "albumName" : "Paramore",
+        "trackUri" : "spotify:track:1j8z4TTjJ1YOdoFEDwJTQa"
+      },
+      "addedDate" : "2018-08-28"
+    }, {
+      "track" : {
+        "trackName" : "Bambi",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Bambi",
+        "trackUri" : "spotify:track:63lRxMdXLzJh6lywzItVf4"
+      },
+      "addedDate" : "2018-09-11"
+    }, {
+      "track" : {
+        "trackName" : "Sick Feeling",
+        "artistName" : "boy pablo",
+        "albumName" : "Sick Feeling",
+        "trackUri" : "spotify:track:3lk13KpxuQkAWEZMb4A4DL"
+      },
+      "addedDate" : "2018-09-15"
+    }, {
+      "track" : {
+        "trackName" : "My Brain on Love",
+        "artistName" : "Young Dreams",
+        "albumName" : "My Brain on Love",
+        "trackUri" : "spotify:track:3yObBhodqYbUfXH41HxAq3"
+      },
+      "addedDate" : "2018-09-17"
+    }, {
+      "track" : {
+        "trackName" : "Everytime",
+        "artistName" : "boy pablo",
+        "albumName" : "Roy Pablo",
+        "trackUri" : "spotify:track:4zvHZWOGyL7WcmqHOgtGCW"
+      },
+      "addedDate" : "2018-09-17"
+    }, {
+      "track" : {
+        "trackName" : "Losing You",
+        "artistName" : "boy pablo",
+        "albumName" : "Losing You",
+        "trackUri" : "spotify:track:3q6KBsRwxFxXo6RWDUqK4C"
+      },
+      "addedDate" : "2018-09-17"
+    }, {
+      "track" : {
+        "trackName" : "Satu-Satunya",
+        "artistName" : "Hivi!",
+        "albumName" : "Satu-Satunya",
+        "trackUri" : "spotify:track:5EI6BtkbtGAckv3TJMHbEH"
+      },
+      "addedDate" : "2019-01-20"
+    }, {
+      "track" : {
+        "trackName" : "Tomorrow Never Came (feat. Sean Ono Lennon)",
+        "artistName" : "Lana Del Rey",
+        "albumName" : "Lust For Life",
+        "trackUri" : "spotify:track:6VZwnDUMkAZs36g6v9MVQX"
+      },
+      "addedDate" : "2019-01-23"
+    }, {
+      "track" : {
+        "trackName" : "Bambi",
+        "artistName" : "Hippo Campus",
+        "albumName" : "Bambi",
+        "trackUri" : "spotify:track:4p8u2pwlPFEYEJE9zsrEmg"
+      },
+      "addedDate" : "2019-05-08"
+    }, {
+      "track" : {
+        "trackName" : "Supercut",
+        "artistName" : "Lorde",
+        "albumName" : "Melodrama",
+        "trackUri" : "spotify:track:6K8VQ84MqhsoakN5MjrnVR"
+      },
+      "addedDate" : "2019-08-20"
+    }, {
+      "track" : {
+        "trackName" : "Homemade Dynamite",
+        "artistName" : "Lorde",
+        "albumName" : "Melodrama",
+        "trackUri" : "spotify:track:02oAUzv4M0ItuTDy2RT3IT"
+      },
+      "addedDate" : "2019-08-20"
+    }, {
+      "track" : {
+        "trackName" : "Summertime Sadness",
+        "artistName" : "Lana Del Rey",
+        "albumName" : "Born To Die - The Paradise Edition",
+        "trackUri" : "spotify:track:2dBwB667LHQkLhdYlwLUZK"
+      },
+      "addedDate" : "2019-08-20"
+    }, {
+      "track" : {
+        "trackName" : "Diet Mountain Dew",
+        "artistName" : "Lana Del Rey",
+        "albumName" : "Born To Die - The Paradise Edition",
+        "trackUri" : "spotify:track:4O9dZs2B0ilk4PEfX2bPEv"
+      },
+      "addedDate" : "2019-08-25"
+    }, {
+      "track" : {
+        "trackName" : "National Anthem",
+        "artistName" : "Lana Del Rey",
+        "albumName" : "Born To Die - The Paradise Edition",
+        "trackUri" : "spotify:track:1M0g1beKC4H9gbrOiSayHW"
+      },
+      "addedDate" : "2019-08-25"
+    }, {
+      "track" : {
+        "trackName" : "Doin' Time",
+        "artistName" : "Lana Del Rey",
+        "albumName" : "Norman Fucking Rockwell!",
+        "trackUri" : "spotify:track:0Oqc0kKFsQ6MhFOLBNZIGX"
+      },
+      "addedDate" : "2019-08-31"
+    }, {
+      "track" : {
+        "trackName" : "Perfect Places",
+        "artistName" : "Lorde",
+        "albumName" : "Melodrama",
+        "trackUri" : "spotify:track:7ARveOiD31w2Nq0n5FsSf8"
+      },
+      "addedDate" : "2019-08-20"
+    }, {
+      "track" : {
+        "trackName" : "Amin Paling Serius",
+        "artistName" : "Sal Priadi",
+        "albumName" : "Amin Paling Serius",
+        "trackUri" : "spotify:track:2KHllq5yeqjTyXnQPPUPMG"
+      },
+      "addedDate" : "2019-08-31"
+    }, {
+      "track" : {
+        "trackName" : "Cancer",
+        "artistName" : "My Chemical Romance",
+        "albumName" : "The Black Parade",
+        "trackUri" : "spotify:track:0GgN4MhR5GKn5IcKN0e0rG"
+      },
+      "addedDate" : "2019-09-03"
+    }, {
+      "track" : {
+        "trackName" : "Last Night on Earth",
+        "artistName" : "Green Day",
+        "albumName" : "21st Century Breakdown",
+        "trackUri" : "spotify:track:5TpPSTItCwtZ8Sltr3vdzm"
+      },
+      "addedDate" : "2019-09-03"
+    }, {
+      "track" : {
+        "trackName" : "Liability",
+        "artistName" : "Lorde",
+        "albumName" : "Melodrama",
+        "trackUri" : "spotify:track:6Kkt27YmFyIFrcX3QXFi2o"
+      },
+      "addedDate" : "2019-10-20"
+    }, {
+      "track" : {
+        "trackName" : "For Once In My Life",
+        "artistName" : "Stevie Wonder",
+        "albumName" : "For Once In My Life",
+        "trackUri" : "spotify:track:4kP69y3GKHi9tXckfgp4bK"
+      },
+      "addedDate" : "2019-09-14"
+    }, {
+      "track" : {
+        "trackName" : "Mia & Sebastian’s Theme",
+        "artistName" : "Justin Hurwitz",
+        "albumName" : "La La Land",
+        "trackUri" : "spotify:track:1joFnRAR5U4kQb34ubZ7sD"
+      },
+      "addedDate" : "2019-09-22"
+    }, {
+      "track" : {
+        "trackName" : "cigarettes of ours",
+        "artistName" : "Ardhito Pramono",
+        "albumName" : "a letter to my 17 year old",
+        "trackUri" : "spotify:track:77SiKnkNEnRw0uoPE4wuEp"
+      },
+      "addedDate" : "2019-09-28"
+    }, {
+      "track" : {
+        "trackName" : "Best Friend",
+        "artistName" : "Rex Orange County",
+        "albumName" : "Best Friend",
+        "trackUri" : "spotify:track:47Bg6IrMed1GPbxRgwH2aC"
+      },
+      "addedDate" : "2019-09-01"
+    }, {
+      "track" : {
+        "trackName" : "If You Know That I'm Lonely",
+        "artistName" : "FUR",
+        "albumName" : "If You Know That I'm Lonely",
+        "trackUri" : "spotify:track:0lvosDfrUEI07fTwQotQOv"
+      },
+      "addedDate" : "2019-09-28"
+    }, {
+      "track" : {
+        "trackName" : "Give Me Novacaine / She's a Rebel",
+        "artistName" : "Green Day",
+        "albumName" : "American Idiot",
+        "trackUri" : "spotify:track:11I3KKHv7g2pXiuqRDabRA"
+      },
+      "addedDate" : "2019-10-07"
+    }, {
+      "track" : {
+        "trackName" : "Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)",
+        "artistName" : "Ariana Grande",
+        "albumName" : "Don’t Call Me Angel (Charlie’s Angels)",
+        "trackUri" : "spotify:track:3NkJNL3WqO1Lqc3uNDxvCN"
+      },
+      "addedDate" : "2019-10-14"
+    }, {
+      "track" : {
+        "trackName" : "Lost in the Woods",
+        "artistName" : "Jonathan Groff",
+        "albumName" : "Frozen 2",
+        "trackUri" : "spotify:track:7namdlOhbtsc8FvoSafOQt"
+      },
+      "addedDate" : "2019-12-03"
+    }, {
+      "track" : {
+        "trackName" : "Desire As - 2007 Remastered Version",
+        "artistName" : "Prefab Sprout",
+        "albumName" : "Steve McQueen",
+        "trackUri" : "spotify:track:1ONIitjgfoFcLJpNhvDUke"
+      },
+      "addedDate" : "2020-01-02"
+    }, {
+      "track" : {
+        "trackName" : "Fool For You",
+        "artistName" : "Snoh Aalegra",
+        "albumName" : "FEELS",
+        "trackUri" : "spotify:track:2TRnVXGSK4aBtfEOaB460m"
+      },
+      "addedDate" : "2020-01-05"
+    }, {
+      "track" : {
+        "trackName" : "Not Part of the Broken Hearts Club",
+        "artistName" : "mimi bay",
+        "albumName" : "I Will Be Okay",
+        "trackUri" : "spotify:track:5p2P5V1x65AJ3syognp8V0"
+      },
+      "addedDate" : "2020-01-11"
+    }, {
+      "track" : {
+        "trackName" : "Hello, Anxiety",
+        "artistName" : "Phum Viphurit",
+        "albumName" : "Hello, Anxiety",
+        "trackUri" : "spotify:track:1ZseaIKt19broBzze3F8hz"
+      },
+      "addedDate" : "2020-01-12"
+    }, {
+      "track" : {
+        "trackName" : "Hard Times",
+        "artistName" : "Paramore",
+        "albumName" : "After Laughter",
+        "trackUri" : "spotify:track:0w5Bdu51Ka25Pf3hojsKHh"
+      },
+      "addedDate" : "2020-07-18"
+    }, {
+      "track" : {
+        "trackName" : "No Air (feat. Chris Brown)",
+        "artistName" : "Jordin Sparks",
+        "albumName" : "Jordin Sparks",
+        "trackUri" : "spotify:track:7EGhmltmWJHCHobd3g8Hnw"
+      },
+      "addedDate" : "2020-07-19"
+    }, {
+      "track" : {
+        "trackName" : "New Person, Same Old Mistakes",
+        "artistName" : "Tame Impala",
+        "albumName" : "Currents",
+        "trackUri" : "spotify:track:52ojopYMUzeNcudsoz7O9D"
+      },
+      "addedDate" : "2020-07-20"
+    } ],
+    "numberOfFollowers" : 7
+  }, {
+    "name" : "Alan’s Next 30",
+    "lastModifiedDate" : "2021-03-10",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "Boş Gemiler",
+        "artistName" : "Yüzyüzeyken Konuşuruz",
+        "albumName" : "Boş Gemiler",
+        "trackUri" : "spotify:track:5xOAQ5o5mPI2FZZEOu1NZL"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "The Rock Show",
+        "artistName" : "blink-182",
+        "albumName" : "Greatest Hits",
+        "trackUri" : "spotify:track:19rfHsgVxL7rbk53Hj0tq8"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Mata Berdebu",
+        "artistName" : "Sore",
+        "albumName" : "Sorealist",
+        "trackUri" : "spotify:track:0HJ8dBf5A1iD1BtIrl0Gj3"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Luka Lama",
+        "artistName" : "Cokelat",
+        "albumName" : "Rasa Baru (Re-package)",
+        "trackUri" : "spotify:track:0ma8NlAUOkuJFesz3Bsy60"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Güneş",
+        "artistName" : "Can Bonomo",
+        "albumName" : "Güneş",
+        "trackUri" : "spotify:track:4LmA7eKmD04MBZ4kHWXbLz"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Aku Bukan Untukmu",
+        "artistName" : "Rossa",
+        "albumName" : "The Best Of Rossa",
+        "trackUri" : "spotify:track:09QnE9zx5bt4aat89p9Qcb"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Belki Üstümüzden Bir Kuş Geçer",
+        "artistName" : "Yüksek Sadakat",
+        "albumName" : "Yüksek Sadakat",
+        "trackUri" : "spotify:track:3Ybp2oGEbdToSuFQtABbyE"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Beni Vurup Yerde Bırakma",
+        "artistName" : "emre aydın",
+        "albumName" : "Beni Vurup Yerde Bırakma",
+        "trackUri" : "spotify:track:1DtTGyWAhf24gZTC2Fbg61"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Adventure of a Lifetime",
+        "artistName" : "Marcell",
+        "albumName" : "Adventure of a Lifetime",
+        "trackUri" : "spotify:track:1eQLyPaRwFR6Wp4n7SP9eg"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Poppies Lane Memory",
+        "artistName" : "Slank",
+        "albumName" : "Tujuh",
+        "trackUri" : "spotify:track:4zuAkfAE1xLAxodrs26HQ3"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Pupus",
+        "artistName" : "Dewa",
+        "albumName" : "Cintailah Cinta",
+        "trackUri" : "spotify:track:7ADK1rnMzP6PGWhoqWirBJ"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Ruang Rindu",
+        "artistName" : "Letto",
+        "albumName" : "Truth Cry And Lie",
+        "trackUri" : "spotify:track:1T8wzoQdcIrQAnyXEPWmzc"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Değmesin Ellerimiz - Akustik",
+        "artistName" : "Model",
+        "albumName" : "Diğer Masallar",
+        "trackUri" : "spotify:track:5EXJP4Elkt7eyotBW7fOSk"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Gönülçelen",
+        "artistName" : "Teoman",
+        "albumName" : "Teoman Koleksiyon (Teo, Aşk & Gurur, Teoman Remiksler 1, Paramparça Senfoni, En Güzel Hikayem, Konser 1, Renkli Rüyalar Oteli, Konser 2, İnsanlık Halleri, Aşk & Gurur Remiksler, Ruhun Sarışın, Yavaş Yavaş)",
+        "trackUri" : "spotify:track:1sQmWFjFgMpevRDTAy40Ld"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Bugün",
+        "artistName" : "Şebnem Ferah",
+        "albumName" : "10 Mart 2007 İstanbul Konseri",
+        "trackUri" : "spotify:track:0ybCbSh8amPWVjHiFKe6qu"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Sempat Memiliki",
+        "artistName" : "Yovie & Nuno",
+        "albumName" : "Senandung Cinta 2",
+        "trackUri" : "spotify:track:3EY2iPtwW2614TQfM7ke6R"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Love You Longer - Acoustic",
+        "artistName" : "Raisa",
+        "albumName" : "Love You Longer",
+        "trackUri" : "spotify:track:7CLjWSm4xkX1M4MEZSGsUD"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Desember",
+        "artistName" : "Efek Rumah Kaca",
+        "albumName" : "Efek Rumah Kaca",
+        "trackUri" : "spotify:track:1aTevhgs4uFtPUYRGZRY0d"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Menanti Sebuah Jawaban",
+        "artistName" : "Padi",
+        "albumName" : "Padi",
+        "trackUri" : "spotify:track:0ZiMNsLNdvq4KWSPBi71DK"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Hapus Aku",
+        "artistName" : "Nidji",
+        "albumName" : "Breakthru",
+        "trackUri" : "spotify:track:0yA36opQ68cCy5WO03qwjc"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Kisah Tak Sempurna",
+        "artistName" : "SAMSONS",
+        "albumName" : "Penantian Hidup Platinum Edition",
+        "trackUri" : "spotify:track:2ipIWElHZSL2rhfLDb2IsZ"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Dünyanın Sonuna Doğmuşum",
+        "artistName" : "maNga",
+        "albumName" : "Şehr-i Hüzün",
+        "trackUri" : "spotify:track:1GinLXJDkwafVBglVqwK8L"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Musnah",
+        "artistName" : "Andra & The Backbone",
+        "albumName" : "Andra & The Backbone",
+        "trackUri" : "spotify:track:1KW0uYxcVdASiPkTsRp0yj"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Aşk, Virüs",
+        "artistName" : "Redd",
+        "albumName" : "Mükemmel Boşluk",
+        "trackUri" : "spotify:track:4Daa7Sbczs00NOhYi7qlzP"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Mengenangmu",
+        "artistName" : "Kerispatih",
+        "albumName" : "Kenyataan Perasaan",
+        "trackUri" : "spotify:track:4QrNcdsjGyLNw2zj9JvLHp"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Merindu Lagi (Pada Kekasih Orang)",
+        "artistName" : "Yovie & Nuno",
+        "albumName" : "Winning 11",
+        "trackUri" : "spotify:track:3vN8A1HfOcytUpCiEm2qqI"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Lagu Cinta",
+        "artistName" : "Dewa",
+        "albumName" : "Bintang Lima",
+        "trackUri" : "spotify:track:4SBtl9yUdMjc8erkDiKzxG"
+      },
+      "addedDate" : "2021-02-25"
+    }, {
+      "track" : {
+        "trackName" : "Disenchanted - Live in Mexico City",
+        "artistName" : "My Chemical Romance",
+        "albumName" : "The Black Parade Is Dead!",
+        "trackUri" : "spotify:track:2Rsy4QeVyaYGWaXaZBtPpp"
+      },
+      "addedDate" : "2021-03-10"
+    } ],
+    "numberOfFollowers" : 0
+  }, {
+    "name" : "Liked from Radio",
+    "lastModifiedDate" : "2019-07-25",
+    "collaborators" : [ ],
+    "items" : [ {
+      "track" : {
+        "trackName" : "If",
+        "artistName" : "Bread",
+        "albumName" : "Manna",
+        "trackUri" : "spotify:track:40W8Mm9t3ZO1iNQlls35lL"
+      },
+      "addedDate" : "2019-07-25"
+    } ],
+    "numberOfFollowers" : 0
+  } ]
+}
