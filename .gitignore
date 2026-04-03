@@ -4,4 +4,4 @@ lib
 pyvenv.cfg
 share
 .DS_Store
-spotify_account_date/private
+spotify_account_data/private
