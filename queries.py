@@ -25,7 +25,7 @@ class Queries:
         """ 
         Creating a daily snapshot table of Spotify's extended stream data
         Stream = audio, video
-        Stream must not be skipped (skipped = 0)
+        Stream must be longer than 0ms
         Enrich the table with new cols, corresponding to config 
         """
 
@@ -62,7 +62,7 @@ class Queries:
                 , incognito_mode
             from 
                 {config.extended_stream}
-            where skipped = 0
+            where ms_played <> 0
         """
 
         return query
