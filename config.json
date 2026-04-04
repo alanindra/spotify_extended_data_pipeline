@@ -1,3 +1,12 @@
 {
-    "utc-timezone":"+7 hours"
+    "utc_timezone":"+7 hours",
+    "df_table_name_mapping":{
+        "extended_audio_stream":"extended_audio_stream_table",
+        "extended_video_stream":"extended_video_stream_table",
+        "extended_stream":"extended_stream_table",
+        "stream":"stream_table",
+        "tracks":"tracks_table",
+        "albums":"albums_table",
+        "artist":"artist_table"                       
+    }
 }
