@@ -25,5 +25,16 @@ class SsotTable:
         """
         Create one table containing all information of the Spotify data
         Table is a daily snapshot of music stream
+        From 2018 to Mar 2026
+        Streamed audio before 2025 could have null values due to data incompleteness from non-extended stream data
         """
-        # df = create_tracks_table(self.df)
+        # tracks_table = create_tracks_table(self.df)
+        # albums_table = create_tracks_table(self.df)
+        # artists_table = create_tracks_table(self.df)
+        # extended_stream_table = create_extended_streaming_history_table(self.df)
+
+        # join operations
+        
+        # enriched_table = enrich_audio_features(self, df)
+
+        # return enriched_table
