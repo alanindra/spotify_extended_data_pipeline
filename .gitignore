@@ -5,3 +5,5 @@ pyvenv.cfg
 share
 .DS_Store
 spotify_account_data/private
+spotify_account_data/metadata
+spotify_account_data/streaming_extended/ReadMeFirst_ExtendedStreamingHistory.pdf
