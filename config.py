@@ -17,7 +17,7 @@ df_table_name_mapping = {
 path = {
     "input": BASE_DIR / "input",
     "metadata": BASE_DIR / "input" / "metadata",
-    "stream_history": BASE_DIR / "input" / "streaming_history",
+    "stream_history": BASE_DIR / "input" / "stream_history",
     "extended_stream_history": BASE_DIR / "input" / "extended_stream_history",
     "output": BASE_DIR / "output",
     "processed": BASE_DIR / "processed",
