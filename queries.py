@@ -53,3 +53,62 @@ query = {
         where ms_played <> 0
     """
 }
+
+ssot = {
+    "ssot_table":f""" 
+        select 
+            extended.* 
+            , artist.uri spotify_artist_uri
+            , album.uri spotify_album_uri
+        from {query["extended_stream_table"]} extended
+            left join artists_table artist
+                on extended.master_metadata_album_artist_name = artist.name
+            left join albums_table album
+                on extended.master_metadata_album_artist_name = album.artist
+                and extended.master_metadata_album_album_name = album.album
+    """
+}
+
+metrics = {
+    "skip_rate":f""" 
+        with
+            track_skipped_status as (
+                select 
+                    master_metadata_track_name
+                    , master_metadata_album_artist_name
+                    , master_metadata_album_album_name
+                    , skipped
+                    , count(*) count
+                from 
+                    {ssot["ssot_table"]}
+                where 
+                    master_metadata_album_artist_name is not null
+                group by 
+                    master_metadata_track_name
+                    , master_metadata_album_artist_name
+                    , master_metadata_album_album_name
+                    , skipped
+            )
+
+        select 
+            master_metadata_track_name
+            , master_metadata_album_artist_name
+            , master_metadata_album_album_name
+            , sum(case when skipped = 1 then count else 0 end) as count_skipped
+            , sum(case when skipped = 0 then count else 0 end) as count_unskipped
+            , sum(count) count_total
+            , (
+                cast(sum(case when skipped = 1 then count else 0 end) as real)
+                / (sum(count))
+            ) as skip_rate
+        from 
+            track_skipped_status 
+        group by 
+            master_metadata_track_name
+            , master_metadata_album_album_name
+            , master_metadata_album_artist_name
+        order by count_total desc
+        ;
+    """
+}
+
