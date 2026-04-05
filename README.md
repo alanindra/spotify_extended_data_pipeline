@@ -1,5 +1,7 @@
 # [WIP] alans_spotify
 
+Creating a unified table containing Spotify streamed data
+
 ## Input
 - metadata
     - Contains YourLibrary.json file
