@@ -118,8 +118,6 @@ class SsotTable:
 
         return pd.concat(extended_stream_table, ignore_index=True)
 
-    # def enrich_audio_features(self, df):
-
     # def create_ssot_table(self, df):
         """
         Create one table containing all information of the Spotify data
@@ -137,3 +135,5 @@ class SsotTable:
         # enriched_table = enrich_audio_features(self, df)
 
         # return enriched_table
+
+    # def enrich_audio_features(self, df):
