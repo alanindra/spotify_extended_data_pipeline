@@ -3,7 +3,7 @@ import logging
 import json
 from queries import query
 from pandasql import sqldf
-from config import path, file_names, metadata_obejct
+from config import path, file_names, metadata_object
 
 logger = logging.getLogger(__name__)
 
@@ -11,7 +11,7 @@ class SsotTable:
     def __init__(self, df=None):
         self.path = path
         self.file_names = file_names
-        self.metadata_obejct = metadata_obejct
+        self.metadata_obejct = metadata_object
         self.df = df
 
     def psql(self, query, env):
@@ -128,22 +128,9 @@ class SsotTable:
 
         return self.psql(self.query["extended_stream_table"], {"extended_stream_table":extended_stream_table})
 
+    # TODO #1
     # def create_ssot_table(self, df):
         """
-        Create one table containing all information of the Spotify data
-        Table is a daily snapshot of music stream
-        From 2018 to Mar 2026
-        Streamed audio before 2025 could have null values due to data incompleteness from non-extended stream data
-        """
-        # tracks_table = create_tracks_table(self.df)
-        # albums_table = create_tracks_table(self.df)
-        # artists_table = create_tracks_table(self.df)
-        # extended_stream_table = create_extended_streaming_history_table(self.df)
-
-        # join operations
-        
-        # enriched_table = enrich_audio_features(self, df)
-
-        # return enriched_table
-
-    # def enrich_audio_features(self, df):
+        extended_stream_table + music attr data
+        """ 
+        # extended_stream_table = self.create_extended_stream_table()
