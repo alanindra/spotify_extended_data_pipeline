@@ -1,17 +1,17 @@
 import pandas as pd
 import logging
 import json
-from tools.queries import query
+from tools import query, config, queries
 from pandasql import sqldf
-from config import path, file_names, metadata_object
 
 logger = logging.getLogger(__name__)
 
 class Pipeline:
     def __init__(self):
-        self.path = path
-        self.file_names = file_names
-        self.metadata_obejct = metadata_object
+        self.path = config.path
+        self.file_names = config.file_names
+        self.metadata_obejct = config.metadata_object
+        self.query = queries.query
 
     def psql(self, query, env):
         return sqldf(query, env)
