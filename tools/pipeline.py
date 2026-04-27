@@ -66,7 +66,8 @@ class Pipeline:
         return self._processed_folder
 
     def _save_to_output(self, df, name):
-        path = self._get_output_folder / f"{name}.csv"
+        path_output = self._get_output_folder()
+        path = path_output / f"{name}.csv"
 
         if not path.exists():
             df.to_csv(path, index=False)
@@ -230,7 +231,7 @@ class Pipeline:
 
     def update_master_table(self):
         try:
-            master_table = pd.read_csv(self.path["master_table"]) # old table
+            master_table = pd.read_csv(self.path["master_table"], low_memory=False) # old table
         except FileNotFoundError:
             logger.error("Failed to update table: master_table.csv not found")
             return None
@@ -242,4 +243,5 @@ class Pipeline:
 
         updated_table = pd.concat([master_table, new_table],ignore_index=True).drop_duplicates()
         updated_table.to_csv(self.path["master_table"])
+        self._save_to_output(updated_table, self.table_name['extended_stream'])
         return updated_table
