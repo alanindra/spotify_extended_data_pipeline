@@ -3,6 +3,8 @@ import logging
 import json
 from tools import query, config, queries
 from pandasql import sqldf
+from pathlib import Path
+from datetime import date
 
 logger = logging.getLogger(__name__)
 
@@ -12,9 +14,62 @@ class Pipeline:
         self.file_names = config.file_names
         self.metadata_obejct = config.metadata_object
         self.query = queries.query
+        self._output_folder = self._create_output_folder()
+        self._processed_folder = self._create_processed_folder()
 
     def psql(self, query, env):
         return sqldf(query, env)
+    
+    def _create_output_folder(self):
+        output_path = Path(self.path['output'])
+        date_today = date.today().isoformat()
+
+        path = output_path / date_today
+        if not path.exists():
+            path.mkdir(parents=True, exist_ok=False)
+            return path 
+        
+        counter = 2  
+        while True:
+            path_counter = output_path / f"{date_today}_{counter}"
+            if not path_counter.exists():
+                path_counter.mkdir(parents=True, exist_ok=False)
+                return path_counter
+            counter += 1
+
+    def _create_processed_folder(self):
+        processed_path = Path(self.path['processed'])
+        date_today = date.today().isoformat()
+
+        path = processed_path / date_today
+        if not path.exists():
+            path.mkdir(parents=True, exist_ok=False)
+            return path 
+        
+        counter = 2  
+        while True:
+            path_counter = processed_path / f"{date_today}_{counter}"
+            if not path_counter.exists():
+                path_counter.mkdir(parents=True, exist_ok=False)
+                return path_counter
+            counter += 1
+
+    def _save_to_output(self, df, name):
+        path = self._output_folder / f"{name}.csv"
+
+        if not path.exists():
+            df.to_csv(path, index=False)
+            return path
+
+        counter = 2
+        while True:
+            path_counter = self._output_folder / f"{name}_{counter}.csv"
+            if not path_counter.exists():
+                df.to_csv(path_counter, index=False)
+                return path_counter
+            counter += 1
+
+    # def move_to_processed_dir(df):
     
     def create_stream_table(self):
         stream_history_dir = self.path["stream_history"]
@@ -50,8 +105,11 @@ class Pipeline:
                 raise ValueError(f"Failed to read JSON file: {file}") from e
 
         stream_table = pd.concat(stream_table, ignore_index=True)
+        stream_table = self.psql(self.query["stream_table"], {"stream_table":stream_table})
+        
+        self._save_to_output(stream_table)
 
-        return self.psql(self.query["stream_table"], {"stream_table":stream_table})
+        return stream_table
     
     def read_metadata_file(self):
         metadata_dir = self.path["metadata"]
@@ -134,17 +192,16 @@ class Pipeline:
         """ 
         # extended_stream_table = self.create_extended_stream_table()
 
-    def update_table(self, df):
+    def update_master_table(self, df):
         try:
             master_table = pd.read_csv(self.path["master_table"]) # old table
         except FileNotFoundError:
             logger.error("Failed to update table: master_table.csv not found")
+            return None
         except Exception as e:
             logger.error(f"Unexpected error {e}")
+            return None
         
-        updated_table = pd.concat([master_table, df],ignore_index=True).drop_duplicates
-
+        updated_table = pd.concat([master_table, df],ignore_index=True).drop_duplicates()
+        updated_table.to_csv(self.path["master_table"])
         return updated_table
-    
-
-        
