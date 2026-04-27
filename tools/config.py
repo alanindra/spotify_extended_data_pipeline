@@ -20,6 +20,7 @@ path = {
     "output": BASE_DIR / "output",
     "processed": BASE_DIR / "processed",
     "logs": BASE_DIR / "logs",
+    "master_table": BASE_DIR / "output" / "master_table.csv"
 }
 file_names = {
     "stream": "StreamingHistory_music*",
