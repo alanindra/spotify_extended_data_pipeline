@@ -1,7 +1,7 @@
 import pandas as pd
 import logging
 import json
-from tools import query, config, queries
+from tools import queries, config, queries
 from pandasql import sqldf
 from pathlib import Path
 from datetime import date
