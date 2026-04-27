@@ -10,7 +10,7 @@ df_table_name_mapping = {
     "stream": "stream_table",
     "tracks": "tracks_table",
     "albums": "albums_table",
-    "artist": "artist_table",
+    "artists": "artist_table",
 }
 path = {
     "input": BASE_DIR / "input",
