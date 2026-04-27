@@ -1,6 +1,6 @@
 import logging
 from datetime import datetime
-from config import path
+from tools.config import path
 
 def setup_logging():
     path["logs"].mkdir(parents=True, exist_ok=True)
