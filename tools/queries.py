@@ -1,4 +1,4 @@
-import config
+from tools import config
 
 query = {
     "stream_table":f""" 
