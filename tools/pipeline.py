@@ -11,10 +11,10 @@ logger = logging.getLogger(__name__)
 class Pipeline:
     def __init__(self):
         self.path = config.path
+        self.table_name = config.df_table_name_mapping
         self.file_names = config.file_names
-        self.metadata_obejct = config.metadata_object
         self.query = queries.query
-        self._output_folder = self._create_output_folder()
+        self._output_folder = None
         self._processed_folder = self._create_processed_folder()
 
     def psql(self, query, env):
@@ -53,9 +53,14 @@ class Pipeline:
                 path_counter.mkdir(parents=True, exist_ok=False)
                 return path_counter
             counter += 1
+    
+    def _get_output_folder(self):
+        if self._output_folder is None:
+            self._output_folder = self._create_output_folder()
+        return self._output_folder
 
     def _save_to_output(self, df, name):
-        path = self._output_folder / f"{name}.csv"
+        path = self._get_output_folder / f"{name}.csv"
 
         if not path.exists():
             df.to_csv(path, index=False)
@@ -138,17 +143,23 @@ class Pipeline:
     
     def create_tracks_table(self):
         df = self.read_metadata_file()
-        return pd.json_normalize(df[self.metadata_obejct["tracks"]])
+        df = pd.json_normalize(df["tracks"])
+        self._save_to_output(df, self.table_name['tracks'])
+        return df
 
     def create_albums_table(self):
         df = self.read_metadata_file()
-        return pd.json_normalize(df[self.metadata_obejct["albums"]])
+        df = pd.json_normalize(df["albums"])
+        self._save_to_output(df, self.table_name['albums'])
+        return df
     
     def create_artists_table(self):
         df = self.read_metadata_file()
-        return pd.json_normalize(df[self.metadata_obejct["artists"]])
+        df = pd.json_normalize(df["artists"])
+        self._save_to_output(df, self.table_name['artists'])        
+        return df
 
-    def create_extended_stream_table(self):
+    def create_extended_stream_table(self, is_master_table=False):
         extended_stream_history_dir = self.path["extended_stream_history"]
 
         if not extended_stream_history_dir.exists():
@@ -182,8 +193,14 @@ class Pipeline:
                 raise ValueError(f"Failed to read JSON file: {file}") from e
 
         extended_stream_table = pd.concat(extended_stream_table, ignore_index=True)
-
-        return self.psql(self.query["extended_stream_table"], {"extended_stream_table":extended_stream_table})
+        extended_stream_table = self.psql(self.query["extended_stream_table"], {"extended_stream_table":extended_stream_table})
+        
+        if is_master_table is True:
+            extended_stream_table.to_csv(self.path['master_table'])
+        else: 
+            self._save_to_output(extended_stream_table, self.table_name['extended_stream'])
+        
+        return extended_stream_table
 
     # TODO #1
     # def create_ssot_table(self, df):
