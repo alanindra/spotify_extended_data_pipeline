@@ -1,6 +1,10 @@
 # [WIP] Spotify Data Pipeline
 
-Create and transform tables from your recent Spotify extended stream data, so you can explore your streaming history without having to wait for the end of year :)
+Create and transform tables from your recent Spotify extended stream data, so you can explore your streaming history effortlessly without having to wait for the end of year :)
+
+## Features
+1. Store and update raw data table for downstream tasks
+2. Run data transformation jobs
 
 ## Getting started
 
