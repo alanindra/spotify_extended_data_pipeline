@@ -24,6 +24,7 @@ path = {
     "logs": BASE_DIR / "logs",
     "raw_tables": BASE_DIR / "output" / "raw_tables",
     "master_tables": BASE_DIR / "output" / "master_tables",
+    "table_history": BASE_DIR / "output" / "table_history",
 
     "raw_extended_stream_table": BASE_DIR / "output" / "raw_tables" / (df_table_name_mapping['extended_stream'] + ".csv"),
     "raw_tracks_table": BASE_DIR / "output" / "raw_tables" / (df_table_name_mapping['tracks'] + ".csv"),
